@@ -12,13 +12,21 @@
 ## 📁 Repository Structure
 MsExcel/
 ├── data/
+
 │ └── Main_streaming_service_data.csv # Original dataset
+
 ├── analysis/
+
 │ └── Prashant_streaming_service_dashboard.xlsx # Preprocessed & formatted data
+
 ├── report/
+
 │ └── Prashant_streaming_service_analysis.pptx # Data analysis & interpretation
+
 ├── dashboard/
+
 │ └── dashboard.png # 📌 Screenshot of Excel dashboard
+
 └── README.md
 
 ## 🛠 Tools & Techniques

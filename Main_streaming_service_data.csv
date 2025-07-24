@@ -1,0 +1,1001 @@
+User_ID,User_Name,Join_Date,Last_Login,Monthly_Price,Watch_Hours,Favorite_Genre,Active_Devices,Profile_Count,Parental_Controls,Total_Movies_Watched,Total_Series_Watched,Country,Payment_Method,Language_Preference,Recommended_Content_Count,Average_Rating_Given,Has_Downloaded_Content,Membership_Status,Loyalty_Points,First_Device_Used,Age_Group,Primary_Watch_Time
+2518,Amber,5/15/2023,12/13/2024,7.99,49,Action,3,6,TRUE,641,117,USA,PayPal,Hindi,84,3.3,FALSE,Active,2878,Smartphone,35-44,Late Night
+6430,Patrick,4/3/2023,12/15/2024,7.99,161,Drama,1,2,TRUE,192,65,USA,PayPal,German,69,4,FALSE,Active,2291,Desktop,25-34,Evening
+1798,Robert,8/2/2023,12/14/2024,11.99,87,Action,2,5,FALSE,260,127,Canada,Debit Card,Mandarin,56,3.1,FALSE,Active,1692,Desktop,35-44,Late Night
+5255,Cole,1/31/2023,12/2/2024,15.99,321,Sci-Fi,1,5,FALSE,61,192,UK,Debit Card,Mandarin,47,4.6,FALSE,Active,952,Desktop,25-34,Evening
+2854,Jamie,6/6/2023,12/15/2024,11.99,386,Documentary,1,4,TRUE,230,2,USA,PayPal,Mandarin,39,3.7,FALSE,Active,1823,Desktop,25-34,Late Night
+6735,Mary,9/17/2023,11/19/2024,15.99,408,Documentary,2,6,TRUE,837,105,India,Credit Card,Spanish,71,4.3,TRUE,Active,33,Smart TV,18-24,Morning
+2995,Theodore,8/25/2024,12/10/2024,7.99,475,Horror,5,4,TRUE,510,143,USA,Credit Card,English,1,4.5,FALSE,Active,755,Laptop,35-44,Late Night
+5120,Olivia,5/31/2024,12/14/2024,15.99,258,Action,4,1,TRUE,907,47,Australia,Debit Card,Hindi,32,3.7,TRUE,Active,2866,Smartphone,45-54,Late Night
+6063,Patricia,6/17/2023,12/17/2024,15.99,183,Comedy,5,2,TRUE,676,61,Germany,Cryptocurrency,Mandarin,26,3.3,TRUE,Active,336,Tablet,25-34,Late Night
+6896,Linda,12/2/2023,12/14/2024,7.99,164,Documentary,5,4,TRUE,406,79,USA,Credit Card,French,90,3.2,FALSE,Active,3898,Laptop,55+,Late Night
+8447,Nichole,3/28/2023,11/22/2024,11.99,411,Comedy,5,4,TRUE,352,78,UK,Credit Card,English,47,3.7,FALSE,Active,650,Tablet,55+,Late Night
+1433,Frances,3/2/2024,11/20/2024,15.99,160,Drama,5,6,TRUE,391,132,Canada,Debit Card,German,57,3,FALSE,Active,185,Laptop,35-44,Late Night
+4511,Maurice,3/27/2023,11/25/2024,7.99,348,Drama,2,5,FALSE,501,71,Germany,Debit Card,French,38,4.3,FALSE,Active,1547,Smartphone,45-54,Late Night
+9966,Jennifer,9/15/2024,11/30/2024,7.99,451,Documentary,3,1,FALSE,995,164,UK,Cryptocurrency,English,62,3,TRUE,Active,3788,Smartphone,18-24,Late Night
+7093,Cheryl,6/7/2023,12/11/2024,7.99,69,Documentary,2,5,FALSE,222,13,France,PayPal,German,0,4.7,TRUE,Active,1051,Desktop,18-24,Afternoon
+4351,Kathy,5/18/2024,11/30/2024,11.99,166,Horror,1,6,TRUE,788,31,USA,PayPal,German,25,4.3,TRUE,Active,633,Smart TV,35-44,Afternoon
+6007,Cassie,2/14/2023,12/17/2024,7.99,449,Horror,2,4,TRUE,369,25,Germany,Debit Card,Spanish,65,4.6,FALSE,Active,4133,Smartphone,25-34,Evening
+9710,Charles,6/2/2023,11/27/2024,7.99,441,Romance,1,5,FALSE,228,39,Germany,PayPal,Mandarin,50,3.1,TRUE,Active,1159,Desktop,35-44,Morning
+9034,William,9/20/2023,12/18/2024,15.99,224,Comedy,1,5,TRUE,827,138,Canada,Debit Card,Mandarin,11,4.5,TRUE,Active,4673,Tablet,18-24,Afternoon
+6197,Tiffany,7/3/2023,11/28/2024,15.99,44,Action,2,4,FALSE,983,145,India,PayPal,French,78,3,FALSE,Active,4200,Laptop,45-54,Evening
+2820,Mark,7/15/2023,12/1/2024,7.99,202,Drama,1,5,TRUE,109,41,USA,Cryptocurrency,Spanish,42,4.6,FALSE,Active,3607,Desktop,35-44,Late Night
+1101,Mary,6/13/2024,11/23/2024,15.99,39,Horror,2,3,TRUE,181,128,Australia,PayPal,Mandarin,3,4.5,TRUE,Active,4602,Smart TV,55+,Evening
+1650,Charles,8/25/2024,11/23/2024,15.99,319,Romance,2,2,FALSE,842,145,France,Cryptocurrency,Mandarin,27,3.6,TRUE,Active,256,Smart TV,35-44,Afternoon
+4884,Anne,11/19/2023,11/25/2024,15.99,150,Sci-Fi,3,3,TRUE,40,196,Canada,Debit Card,German,60,3.7,FALSE,Active,2406,Laptop,55+,Evening
+8321,Carol,9/22/2023,11/23/2024,11.99,496,Romance,3,1,TRUE,431,41,India,Credit Card,English,91,4,TRUE,Active,1394,Smart TV,55+,Afternoon
+2381,Cynthia,5/15/2024,12/15/2024,7.99,347,Horror,2,5,FALSE,415,194,USA,Credit Card,German,76,4.3,TRUE,Active,1856,Desktop,18-24,Afternoon
+9507,Destiny,6/19/2023,11/19/2024,11.99,201,Action,1,6,TRUE,902,86,USA,Cryptocurrency,French,69,4.9,TRUE,Active,1665,Smart TV,18-24,Afternoon
+2851,Brittany,5/22/2024,11/23/2024,15.99,415,Romance,3,5,TRUE,769,144,Australia,Cryptocurrency,Spanish,98,3.9,FALSE,Active,2759,Tablet,35-44,Evening
+4083,Amy,1/30/2024,12/10/2024,11.99,32,Horror,1,4,TRUE,588,137,France,Credit Card,English,85,3.7,TRUE,Active,3433,Laptop,35-44,Afternoon
+4608,Kimberly,3/28/2024,11/28/2024,11.99,338,Comedy,3,2,TRUE,528,184,UK,Cryptocurrency,Spanish,58,3.7,TRUE,Active,3966,Desktop,55+,Late Night
+4815,Ariel,7/2/2024,11/20/2024,7.99,52,Documentary,5,5,FALSE,467,23,USA,PayPal,Spanish,97,3.3,TRUE,Active,4185,Desktop,55+,Evening
+9597,Lauren,12/6/2024,12/2/2024,11.99,447,Romance,5,5,FALSE,73,138,Germany,Debit Card,Hindi,84,4.1,FALSE,Active,784,Smartphone,25-34,Afternoon
+6566,Joshua,6/22/2023,12/17/2024,11.99,312,Horror,5,1,TRUE,895,154,Germany,Debit Card,Spanish,85,4.7,TRUE,Active,3428,Laptop,25-34,Evening
+1419,Megan,7/3/2023,12/16/2024,11.99,406,Sci-Fi,2,6,FALSE,983,113,India,Cryptocurrency,German,78,3.1,FALSE,Active,4245,Smartphone,25-34,Evening
+9470,Stephanie,11/28/2023,12/15/2024,7.99,350,Horror,3,6,TRUE,801,156,France,Credit Card,Mandarin,66,4.6,TRUE,Active,2580,Smart TV,18-24,Late Night
+4989,Terrence,1/10/2024,12/10/2024,7.99,99,Comedy,2,5,TRUE,96,114,USA,PayPal,Hindi,45,4.3,FALSE,Active,2779,Smart TV,55+,Morning
+9389,Julia,10/3/2024,11/21/2024,15.99,53,Sci-Fi,1,2,FALSE,849,98,India,Credit Card,Mandarin,14,3.1,FALSE,Active,2318,Smartphone,35-44,Evening
+7728,Derrick,9/15/2023,12/13/2024,11.99,484,Romance,3,6,FALSE,515,174,UK,PayPal,German,12,4,TRUE,Active,827,Smartphone,25-34,Morning
+7943,Nathan,10/1/2024,12/1/2024,15.99,211,Documentary,2,6,TRUE,657,137,Australia,Credit Card,Hindi,26,4,TRUE,Active,2670,Desktop,18-24,Late Night
+2490,Matthew,8/18/2023,11/19/2024,11.99,248,Sci-Fi,4,1,TRUE,426,21,India,Debit Card,Spanish,99,4.8,FALSE,Active,2409,Smartphone,35-44,Late Night
+5042,Ashley,2/16/2024,11/23/2024,15.99,197,Romance,4,2,FALSE,309,178,Australia,Cryptocurrency,Mandarin,7,4.3,FALSE,Active,1577,Smart TV,35-44,Evening
+3620,Kerri,8/7/2024,12/7/2024,15.99,253,Comedy,5,5,TRUE,141,199,USA,Debit Card,French,72,3.1,FALSE,Active,4072,Laptop,45-54,Afternoon
+8976,Jessica,9/17/2024,12/12/2024,7.99,352,Romance,4,3,TRUE,112,106,France,Credit Card,French,33,4.6,TRUE,Active,3432,Tablet,45-54,Afternoon
+1570,Matthew,7/18/2023,11/22/2024,11.99,97,Romance,1,2,FALSE,836,122,UK,Debit Card,Spanish,65,4.3,TRUE,Active,4511,Smartphone,18-24,Morning
+7709,Phillip,4/4/2023,12/1/2024,11.99,283,Sci-Fi,5,2,FALSE,785,1,Australia,Debit Card,German,79,3.4,TRUE,Active,583,Tablet,25-34,Evening
+9503,Elizabeth,4/11/2024,12/5/2024,11.99,307,Documentary,5,6,FALSE,857,9,France,Cryptocurrency,Hindi,55,3.2,TRUE,Active,3626,Laptop,35-44,Late Night
+9564,Lisa,4/26/2023,12/4/2024,15.99,203,Comedy,5,1,FALSE,347,18,Australia,Cryptocurrency,Spanish,8,4.4,TRUE,Active,476,Laptop,45-54,Afternoon
+8934,Natalie,3/25/2023,12/5/2024,7.99,22,Drama,4,3,FALSE,707,156,Canada,Cryptocurrency,Spanish,99,3.3,FALSE,Active,4114,Desktop,18-24,Evening
+1222,Autumn,9/1/2023,12/8/2024,15.99,382,Romance,2,2,FALSE,49,45,Canada,PayPal,Hindi,63,4,TRUE,Active,1581,Smart TV,35-44,Morning
+5762,James,3/28/2024,12/2/2024,11.99,302,Comedy,5,4,FALSE,801,141,France,Debit Card,Mandarin,62,3.5,TRUE,Active,1293,Laptop,45-54,Morning
+4066,Jessica,3/26/2023,12/12/2024,11.99,76,Sci-Fi,2,3,FALSE,788,55,UK,Credit Card,German,50,4.8,TRUE,Active,1744,Laptop,18-24,Morning
+6469,Charles,6/18/2024,11/24/2024,11.99,125,Documentary,3,6,TRUE,853,16,Australia,PayPal,German,65,4.8,TRUE,Active,448,Laptop,18-24,Late Night
+1364,Michael,7/27/2023,12/2/2024,11.99,113,Horror,1,1,FALSE,970,159,UK,Credit Card,German,96,4.9,TRUE,Active,3398,Laptop,35-44,Late Night
+4197,Jessica,10/31/2024,12/13/2024,15.99,183,Romance,3,5,FALSE,490,127,Canada,Debit Card,Hindi,40,4.6,TRUE,Active,4691,Desktop,45-54,Morning
+9700,Molly,12/26/2022,11/30/2024,15.99,272,Documentary,5,1,FALSE,201,122,India,Cryptocurrency,English,94,4.6,TRUE,Active,4674,Laptop,45-54,Afternoon
+5644,Joshua,4/6/2024,12/3/2024,11.99,19,Comedy,4,2,TRUE,741,36,France,PayPal,English,13,4.4,FALSE,Active,3641,Tablet,18-24,Afternoon
+5420,Lance,12/31/2022,12/1/2024,11.99,204,Drama,4,6,FALSE,928,30,India,Credit Card,Mandarin,58,4.4,FALSE,Active,1765,Smartphone,45-54,Late Night
+7560,Lori,12/24/2022,12/3/2024,7.99,345,Horror,3,3,FALSE,80,100,USA,Credit Card,Hindi,40,4.9,TRUE,Active,3462,Smartphone,55+,Morning
+9644,Mark,9/8/2024,11/25/2024,7.99,294,Comedy,4,1,TRUE,453,149,France,PayPal,Hindi,82,3.9,TRUE,Active,790,Desktop,18-24,Morning
+7239,Jeremy,12/19/2023,11/29/2024,15.99,318,Action,3,2,TRUE,943,116,Canada,PayPal,Hindi,22,4.1,FALSE,Active,4732,Laptop,25-34,Afternoon
+6415,Scott,10/12/2023,11/19/2024,11.99,396,Action,1,2,FALSE,348,172,UK,Cryptocurrency,Hindi,61,3.9,FALSE,Active,4599,Smartphone,35-44,Afternoon
+9020,Sabrina,2/3/2023,12/3/2024,11.99,455,Horror,5,3,TRUE,112,158,India,Credit Card,German,15,3.9,TRUE,Active,965,Smart TV,25-34,Morning
+2324,Zachary,11/24/2024,12/11/2024,7.99,175,Comedy,5,6,TRUE,606,195,USA,Credit Card,English,95,4,FALSE,Active,1155,Tablet,35-44,Late Night
+1354,Levi,6/24/2023,12/7/2024,7.99,36,Sci-Fi,1,6,FALSE,214,114,India,PayPal,Spanish,39,4.9,FALSE,Active,1110,Tablet,18-24,Afternoon
+4019,Christine,12/29/2023,12/6/2024,15.99,349,Documentary,1,6,TRUE,334,76,Canada,Credit Card,Mandarin,32,3.3,FALSE,Active,1911,Smart TV,55+,Afternoon
+6178,Emily,3/1/2023,12/9/2024,11.99,262,Documentary,5,5,TRUE,849,68,India,Credit Card,French,24,3,FALSE,Active,1721,Smartphone,18-24,Morning
+8673,Derrick,12/29/2023,12/11/2024,7.99,378,Action,2,3,FALSE,155,69,UK,Debit Card,Spanish,11,3.3,FALSE,Active,353,Smart TV,55+,Morning
+8250,Jonathan,3/15/2024,11/29/2024,15.99,469,Documentary,3,5,TRUE,406,71,Australia,Cryptocurrency,French,88,4.8,TRUE,Active,423,Tablet,35-44,Afternoon
+1609,David,4/13/2023,12/17/2024,7.99,87,Horror,4,4,FALSE,571,54,Canada,Credit Card,German,57,4.2,FALSE,Active,344,Smart TV,55+,Morning
+3806,Gina,2/19/2023,12/12/2024,15.99,471,Documentary,3,6,TRUE,56,69,Canada,PayPal,Mandarin,44,3.6,TRUE,Active,4117,Tablet,55+,Morning
+7973,Kristin,10/1/2024,12/3/2024,7.99,469,Romance,5,2,TRUE,748,147,France,Cryptocurrency,Hindi,33,4.6,TRUE,Active,3983,Smart TV,55+,Evening
+7948,Douglas,11/26/2023,11/23/2024,15.99,298,Sci-Fi,4,1,FALSE,603,161,Germany,PayPal,Spanish,68,4.4,FALSE,Active,3941,Laptop,35-44,Afternoon
+3195,Nicole,10/13/2023,12/17/2024,11.99,331,Action,5,5,FALSE,990,72,Germany,Debit Card,Spanish,80,3.7,FALSE,Active,3085,Smartphone,35-44,Morning
+6285,Chloe,7/31/2023,11/30/2024,11.99,238,Documentary,3,6,TRUE,831,101,USA,PayPal,German,94,4.4,TRUE,Active,48,Smart TV,35-44,Evening
+4303,David,9/6/2023,12/17/2024,7.99,231,Comedy,1,4,FALSE,420,85,Germany,Cryptocurrency,Mandarin,30,3.5,FALSE,Active,1520,Smart TV,55+,Evening
+7751,Kevin,7/8/2024,11/23/2024,11.99,457,Sci-Fi,2,5,TRUE,754,98,Canada,PayPal,Mandarin,53,3.6,TRUE,Active,935,Smartphone,55+,Evening
+7813,Nicholas,7/20/2024,11/21/2024,15.99,373,Drama,4,4,TRUE,782,7,India,Cryptocurrency,Spanish,18,3.2,TRUE,Active,4641,Smart TV,55+,Evening
+9028,Terry,12/6/2023,11/28/2024,15.99,11,Action,1,4,FALSE,557,165,USA,PayPal,French,11,4,TRUE,Active,2941,Smartphone,25-34,Late Night
+6109,Garrett,10/25/2023,12/6/2024,15.99,425,Romance,2,2,TRUE,552,27,Germany,Cryptocurrency,English,36,4,TRUE,Active,1325,Tablet,18-24,Late Night
+2565,Jose,9/15/2024,12/18/2024,7.99,231,Comedy,5,4,TRUE,356,81,Australia,Credit Card,French,73,3.4,FALSE,Active,4465,Tablet,55+,Late Night
+7551,Courtney,12/31/2023,12/2/2024,15.99,483,Drama,2,4,FALSE,161,110,USA,Cryptocurrency,French,71,4.4,TRUE,Active,3517,Smartphone,25-34,Evening
+6398,Kim,8/20/2023,12/7/2024,7.99,55,Romance,3,2,TRUE,17,40,UK,PayPal,Mandarin,48,3.7,FALSE,Active,1672,Smart TV,45-54,Late Night
+4982,Katherine,11/19/2023,12/12/2024,11.99,375,Drama,4,3,FALSE,366,13,Canada,PayPal,Hindi,73,4.8,TRUE,Active,2164,Tablet,25-34,Afternoon
+8108,Lynn,10/20/2024,11/30/2024,11.99,336,Comedy,1,2,FALSE,758,32,Canada,Cryptocurrency,German,64,5,FALSE,Active,3663,Smartphone,18-24,Evening
+6779,Leah,7/22/2024,12/3/2024,7.99,196,Romance,1,6,TRUE,936,152,Australia,PayPal,Mandarin,3,3.1,TRUE,Active,2845,Smartphone,45-54,Afternoon
+1169,Michael,8/21/2024,12/3/2024,11.99,285,Drama,3,1,FALSE,13,103,Australia,Credit Card,Spanish,11,3.7,FALSE,Active,2390,Laptop,18-24,Morning
+5067,Kayla,8/31/2024,11/27/2024,7.99,155,Documentary,5,1,TRUE,305,77,USA,Cryptocurrency,French,66,3.4,FALSE,Active,234,Smartphone,55+,Afternoon
+5299,Katelyn,4/30/2023,12/2/2024,7.99,275,Comedy,2,2,TRUE,755,166,Germany,Debit Card,Mandarin,45,3.9,FALSE,Active,3975,Tablet,35-44,Morning
+3978,Jessica,5/15/2024,11/28/2024,7.99,341,Drama,3,4,FALSE,27,82,USA,Debit Card,German,98,3.7,TRUE,Active,561,Tablet,45-54,Afternoon
+8634,Maria,8/2/2023,12/13/2024,15.99,321,Drama,2,2,FALSE,676,81,USA,Cryptocurrency,English,65,4.6,FALSE,Active,4647,Tablet,55+,Late Night
+9635,Justin,12/18/2023,11/26/2024,11.99,456,Comedy,2,5,FALSE,734,83,India,Debit Card,French,87,3.8,TRUE,Active,581,Tablet,35-44,Evening
+1776,Susan,10/22/2023,11/20/2024,15.99,15,Comedy,1,4,FALSE,687,183,France,Cryptocurrency,Hindi,46,4.2,TRUE,Active,1250,Desktop,55+,Late Night
+9703,Mark,2/29/2024,12/12/2024,11.99,410,Sci-Fi,3,5,FALSE,826,182,UK,Cryptocurrency,English,69,4.2,FALSE,Active,3441,Smartphone,35-44,Evening
+3498,Sue,9/11/2023,12/1/2024,15.99,29,Drama,2,4,TRUE,450,67,India,Credit Card,German,52,3.3,FALSE,Active,3211,Smartphone,55+,Morning
+4260,Jean,6/24/2024,12/16/2024,7.99,427,Horror,1,1,FALSE,159,98,Germany,Credit Card,Spanish,66,3.3,FALSE,Active,647,Smartphone,55+,Late Night
+7152,James,2/5/2023,12/4/2024,11.99,166,Action,5,3,FALSE,367,198,India,Debit Card,Hindi,11,4.6,TRUE,Active,3751,Laptop,35-44,Afternoon
+2457,David,10/21/2023,11/26/2024,7.99,192,Comedy,1,1,FALSE,786,140,Canada,Debit Card,French,95,3.4,FALSE,Active,2925,Tablet,25-34,Late Night
+8530,Ebony,3/25/2023,12/4/2024,11.99,88,Documentary,1,6,TRUE,962,183,Australia,Debit Card,English,90,5,FALSE,Active,4646,Smart TV,55+,Late Night
+9131,Derek,8/3/2023,11/27/2024,7.99,127,Sci-Fi,2,5,FALSE,482,5,India,Cryptocurrency,English,99,3.6,FALSE,Active,2867,Desktop,25-34,Afternoon
+9770,John,10/28/2023,11/24/2024,7.99,327,Romance,4,3,FALSE,451,108,UK,PayPal,Spanish,91,3.2,TRUE,Active,4131,Smart TV,25-34,Evening
+8095,Rebecca,4/15/2023,12/11/2024,7.99,10,Action,2,5,TRUE,22,14,Australia,Debit Card,English,25,4.1,TRUE,Active,2927,Smart TV,35-44,Evening
+3763,Juan,12/19/2022,12/6/2024,11.99,181,Horror,4,2,FALSE,848,172,India,Cryptocurrency,Mandarin,6,3.4,FALSE,Active,3314,Smartphone,55+,Morning
+4346,Gabrielle,2/14/2024,12/12/2024,15.99,238,Action,4,2,FALSE,524,162,USA,Cryptocurrency,German,20,3,TRUE,Active,1782,Smartphone,45-54,Morning
+5866,Nicholas,6/1/2024,11/26/2024,7.99,380,Documentary,2,3,FALSE,76,25,Germany,PayPal,Hindi,95,4.2,TRUE,Active,1938,Laptop,55+,Afternoon
+5865,Samantha,7/23/2023,11/24/2024,11.99,444,Sci-Fi,2,3,FALSE,959,183,Germany,PayPal,Hindi,93,3.8,FALSE,Active,3935,Smart TV,18-24,Afternoon
+9398,Jesse,10/30/2024,12/11/2024,7.99,83,Comedy,3,5,TRUE,148,154,UK,Credit Card,Hindi,21,3.1,FALSE,Active,3206,Smart TV,45-54,Late Night
+9695,Aaron,12/8/2023,12/18/2024,7.99,452,Documentary,4,4,FALSE,338,132,Australia,PayPal,Spanish,63,3.3,FALSE,Active,2523,Smartphone,18-24,Late Night
+8805,Maurice,7/6/2024,12/6/2024,15.99,53,Romance,4,2,TRUE,720,37,Australia,PayPal,Spanish,8,4,TRUE,Active,2727,Laptop,55+,Evening
+8353,Lisa,6/20/2023,11/19/2024,15.99,89,Romance,5,3,FALSE,387,81,Australia,PayPal,English,87,3.8,TRUE,Active,2864,Tablet,45-54,Late Night
+3178,Melissa,3/19/2024,12/11/2024,7.99,359,Horror,5,4,FALSE,624,107,India,Debit Card,Spanish,4,3.1,TRUE,Active,3698,Tablet,45-54,Afternoon
+4917,Erin,2/19/2023,11/20/2024,11.99,487,Horror,1,4,FALSE,636,66,Australia,PayPal,French,78,3.5,FALSE,Active,1531,Smartphone,45-54,Morning
+8878,Dale,2/29/2024,11/21/2024,7.99,337,Comedy,5,1,TRUE,429,190,Canada,Credit Card,Mandarin,88,4.8,FALSE,Active,4884,Smartphone,35-44,Afternoon
+3810,Gregory,2/17/2023,12/4/2024,15.99,427,Horror,5,3,FALSE,832,103,Australia,Cryptocurrency,Mandarin,79,3.3,FALSE,Active,3633,Smartphone,25-34,Evening
+9353,Sarah,8/6/2023,11/26/2024,7.99,397,Documentary,4,4,TRUE,63,126,Germany,Debit Card,Mandarin,77,3.9,TRUE,Active,4719,Smartphone,25-34,Afternoon
+1672,Carmen,12/21/2022,11/28/2024,15.99,200,Horror,4,1,FALSE,52,8,France,Credit Card,French,17,3.2,TRUE,Active,3161,Smart TV,45-54,Morning
+6650,April,3/3/2024,11/26/2024,11.99,464,Drama,2,3,TRUE,909,165,Germany,Cryptocurrency,Spanish,28,3.6,TRUE,Active,3607,Desktop,18-24,Evening
+2581,Anthony,4/13/2023,12/2/2024,15.99,495,Documentary,1,3,FALSE,704,53,UK,Credit Card,English,94,3.4,FALSE,Active,944,Tablet,55+,Evening
+6860,Brett,2/11/2024,12/16/2024,7.99,286,Drama,5,4,FALSE,751,103,UK,Cryptocurrency,French,33,3.6,FALSE,Active,2757,Smart TV,55+,Late Night
+4584,Matthew,9/26/2024,12/14/2024,7.99,446,Drama,3,6,FALSE,185,134,USA,Credit Card,Spanish,18,3.3,FALSE,Active,727,Smartphone,45-54,Morning
+3354,Lisa,10/1/2023,11/22/2024,11.99,342,Comedy,2,2,FALSE,503,6,France,PayPal,French,23,3.2,TRUE,Active,3496,Laptop,45-54,Afternoon
+4668,Carly,12/17/2024,12/9/2024,11.99,396,Sci-Fi,5,5,TRUE,549,35,Canada,PayPal,German,66,3.6,TRUE,Active,4293,Laptop,55+,Morning
+6684,Dennis,9/17/2024,12/11/2024,11.99,491,Romance,1,6,TRUE,434,182,Germany,Cryptocurrency,Spanish,24,4.1,FALSE,Active,1357,Tablet,45-54,Late Night
+8058,Alexandra,4/2/2023,12/14/2024,15.99,239,Sci-Fi,4,6,FALSE,832,134,Australia,Cryptocurrency,Spanish,99,4.6,TRUE,Active,3596,Desktop,18-24,Morning
+3035,Michael,4/26/2023,11/24/2024,15.99,106,Romance,3,3,TRUE,377,31,Germany,Credit Card,English,85,3.5,TRUE,Active,613,Desktop,55+,Late Night
+2146,Ryan,7/11/2024,11/22/2024,11.99,388,Horror,5,4,TRUE,380,125,Australia,PayPal,German,14,3.2,FALSE,Active,2381,Tablet,25-34,Afternoon
+5761,Tony,1/20/2024,12/8/2024,15.99,452,Drama,2,5,FALSE,315,118,India,Cryptocurrency,Spanish,28,3,TRUE,Active,2159,Desktop,45-54,Morning
+5256,Daniel,11/18/2024,12/2/2024,15.99,368,Sci-Fi,4,4,TRUE,968,24,Australia,Debit Card,Mandarin,30,3,TRUE,Active,119,Tablet,55+,Late Night
+5995,Melissa,6/17/2023,11/27/2024,15.99,325,Action,2,5,TRUE,757,35,UK,Credit Card,Mandarin,81,4.6,FALSE,Active,2798,Smartphone,25-34,Late Night
+4155,Jacob,3/7/2023,12/6/2024,11.99,42,Sci-Fi,4,2,FALSE,560,98,France,Debit Card,Mandarin,90,3.8,FALSE,Active,496,Laptop,18-24,Afternoon
+1851,Jennifer,10/3/2023,12/11/2024,11.99,344,Horror,3,1,FALSE,456,196,France,Credit Card,Mandarin,83,5,FALSE,Active,3599,Desktop,45-54,Evening
+8068,Carolyn,12/14/2024,11/23/2024,15.99,77,Drama,5,3,FALSE,780,138,India,Cryptocurrency,French,66,3.4,FALSE,Active,1752,Tablet,18-24,Afternoon
+8425,Patrick,11/14/2024,11/28/2024,7.99,237,Comedy,5,3,TRUE,168,18,Australia,Cryptocurrency,Mandarin,32,3.5,TRUE,Active,3633,Laptop,25-34,Evening
+4706,Sabrina,2/8/2023,12/6/2024,11.99,480,Sci-Fi,1,2,TRUE,350,122,France,PayPal,Spanish,59,4.6,FALSE,Active,3568,Desktop,35-44,Late Night
+7544,Denise,9/1/2023,11/25/2024,15.99,152,Horror,1,3,FALSE,341,193,UK,Credit Card,Mandarin,95,3.7,FALSE,Active,4361,Smartphone,45-54,Afternoon
+4029,Cassandra,10/15/2024,11/24/2024,11.99,308,Drama,2,3,FALSE,392,151,Canada,Debit Card,German,27,4.2,TRUE,Active,1176,Smartphone,18-24,Evening
+6117,Elizabeth,5/30/2024,11/27/2024,7.99,14,Drama,5,5,TRUE,95,158,Australia,Credit Card,Hindi,49,3.9,FALSE,Active,1849,Tablet,18-24,Evening
+1408,Dustin,1/23/2023,11/20/2024,11.99,233,Drama,5,6,TRUE,186,129,India,Debit Card,Hindi,38,4,TRUE,Active,3953,Laptop,35-44,Evening
+8396,Mary,2/16/2024,12/11/2024,7.99,169,Documentary,1,5,FALSE,543,111,Germany,PayPal,French,28,3.7,FALSE,Active,3277,Smart TV,55+,Evening
+6806,Crystal,12/18/2023,11/23/2024,7.99,358,Action,2,3,TRUE,858,65,Germany,Debit Card,Mandarin,5,4.6,TRUE,Active,1572,Laptop,45-54,Afternoon
+3496,Gregory,11/24/2023,12/11/2024,11.99,404,Drama,4,6,FALSE,906,43,India,PayPal,German,59,4.9,TRUE,Active,2676,Tablet,25-34,Morning
+7840,Barbara,2/2/2024,12/11/2024,15.99,131,Comedy,5,3,TRUE,808,48,UK,PayPal,Hindi,55,3.3,TRUE,Active,3053,Smart TV,55+,Afternoon
+2099,Michael,7/20/2024,11/23/2024,11.99,32,Drama,1,6,TRUE,84,73,Germany,Cryptocurrency,Hindi,59,3.6,TRUE,Active,2620,Desktop,35-44,Morning
+6518,Kathryn,11/21/2024,12/7/2024,7.99,478,Action,5,3,TRUE,780,78,UK,PayPal,Spanish,66,4,FALSE,Active,4068,Smart TV,35-44,Morning
+1976,Brett,10/20/2024,12/16/2024,11.99,88,Sci-Fi,3,1,FALSE,247,30,UK,Debit Card,Mandarin,46,4.7,TRUE,Active,172,Tablet,25-34,Morning
+8777,Christopher,2/11/2024,11/27/2024,11.99,395,Sci-Fi,4,4,FALSE,190,105,France,Credit Card,German,67,4.1,FALSE,Active,1040,Smartphone,45-54,Evening
+1576,Jeremy,3/19/2023,11/20/2024,11.99,385,Drama,4,1,TRUE,390,163,Australia,Cryptocurrency,French,43,3.3,FALSE,Active,3574,Smart TV,25-34,Afternoon
+7979,Martin,5/3/2023,11/27/2024,11.99,280,Sci-Fi,4,5,TRUE,203,50,France,PayPal,Spanish,12,3.4,TRUE,Active,3659,Smartphone,25-34,Morning
+6300,Taylor,9/20/2023,12/9/2024,15.99,164,Action,3,5,FALSE,161,77,Australia,Cryptocurrency,German,97,3.7,TRUE,Active,1991,Laptop,45-54,Late Night
+1003,Vickie,12/12/2024,11/22/2024,11.99,433,Horror,5,4,FALSE,350,2,Germany,Cryptocurrency,Spanish,41,3.1,TRUE,Active,2043,Smartphone,35-44,Late Night
+8238,Betty,1/12/2024,11/28/2024,7.99,460,Comedy,3,5,FALSE,26,2,France,PayPal,German,39,4.8,FALSE,Active,882,Smartphone,45-54,Late Night
+8261,James,12/25/2022,12/4/2024,7.99,374,Comedy,1,3,TRUE,819,18,Germany,Debit Card,Hindi,12,3.4,TRUE,Active,4243,Laptop,25-34,Morning
+7729,Brittany,2/20/2023,12/11/2024,11.99,147,Romance,5,4,FALSE,27,175,Germany,PayPal,Hindi,78,4,TRUE,Active,2218,Desktop,45-54,Afternoon
+8616,John,12/1/2024,12/4/2024,11.99,129,Horror,4,6,FALSE,543,126,UK,Debit Card,Mandarin,95,3.4,TRUE,Active,97,Smartphone,35-44,Late Night
+9734,Destiny,11/24/2024,12/14/2024,15.99,217,Action,2,2,TRUE,872,8,Canada,Cryptocurrency,French,51,3.6,TRUE,Active,4928,Laptop,35-44,Late Night
+2086,Amanda,5/12/2023,11/19/2024,7.99,426,Drama,4,1,FALSE,606,135,USA,PayPal,German,50,3.8,TRUE,Active,1982,Desktop,55+,Late Night
+8721,Stephen,2/23/2023,12/1/2024,15.99,81,Drama,3,5,FALSE,394,168,Canada,Cryptocurrency,Mandarin,21,4.7,TRUE,Active,510,Smart TV,18-24,Late Night
+1075,Dawn,5/5/2023,11/28/2024,7.99,296,Romance,3,2,TRUE,411,96,USA,Cryptocurrency,English,1,3.1,FALSE,Active,2508,Tablet,18-24,Evening
+2690,Jonathan,9/5/2023,11/29/2024,15.99,466,Sci-Fi,3,2,FALSE,977,94,France,Cryptocurrency,Mandarin,67,3.6,TRUE,Active,4004,Smartphone,35-44,Afternoon
+7654,Amy,12/19/2023,11/27/2024,11.99,424,Horror,5,2,FALSE,406,150,Canada,Debit Card,Spanish,50,3.5,FALSE,Active,494,Smart TV,25-34,Late Night
+7577,Paul,10/17/2024,12/3/2024,15.99,233,Sci-Fi,2,5,TRUE,781,23,France,Credit Card,Hindi,89,3.3,FALSE,Active,460,Tablet,45-54,Morning
+9814,Kenneth,8/11/2024,11/27/2024,11.99,413,Comedy,1,6,TRUE,330,63,USA,PayPal,French,50,4.1,TRUE,Active,1416,Smart TV,45-54,Late Night
+5423,Jamie,9/30/2024,11/19/2024,7.99,278,Action,1,5,TRUE,163,88,Australia,PayPal,Mandarin,62,3.2,FALSE,Active,4798,Smartphone,45-54,Afternoon
+2660,Bruce,12/30/2022,12/4/2024,11.99,351,Horror,1,1,TRUE,80,70,USA,Credit Card,German,54,4.5,TRUE,Active,732,Tablet,35-44,Evening
+4206,Kevin,4/4/2024,12/6/2024,11.99,354,Romance,1,3,FALSE,885,65,UK,Credit Card,English,70,4.7,FALSE,Active,4008,Smart TV,18-24,Afternoon
+5269,Jamie,3/6/2023,12/4/2024,11.99,192,Comedy,5,4,FALSE,123,34,India,Cryptocurrency,English,73,3.8,TRUE,Active,4868,Tablet,45-54,Morning
+7922,Andrew,2/19/2023,12/18/2024,7.99,176,Documentary,4,6,TRUE,830,74,UK,PayPal,German,66,3.5,TRUE,Active,2600,Tablet,35-44,Evening
+7829,Brandon,10/18/2023,12/18/2024,7.99,482,Comedy,1,4,TRUE,770,129,Canada,PayPal,Mandarin,0,3.7,TRUE,Active,3247,Laptop,25-34,Morning
+1715,Ryan,6/17/2024,12/4/2024,7.99,87,Drama,3,5,TRUE,753,181,UK,Debit Card,Hindi,51,3.1,TRUE,Active,941,Smartphone,18-24,Afternoon
+2639,Steven,6/18/2024,12/7/2024,11.99,163,Drama,5,1,TRUE,38,53,Australia,Debit Card,English,37,4.6,FALSE,Active,1934,Smartphone,35-44,Evening
+1801,Christine,1/14/2024,12/13/2024,11.99,419,Horror,4,5,FALSE,386,122,Germany,Credit Card,German,9,4.6,FALSE,Active,4650,Desktop,45-54,Late Night
+9163,Martin,4/4/2023,11/27/2024,11.99,203,Sci-Fi,4,4,TRUE,874,67,India,Debit Card,French,94,3.9,TRUE,Active,4450,Smartphone,35-44,Afternoon
+1284,Michael,12/4/2024,12/1/2024,7.99,405,Comedy,4,3,TRUE,695,85,Australia,Credit Card,French,42,3.7,FALSE,Active,2395,Laptop,25-34,Morning
+8774,Hunter,11/3/2023,12/8/2024,15.99,496,Comedy,5,6,FALSE,803,130,USA,Cryptocurrency,French,4,4.8,FALSE,Active,4504,Smart TV,45-54,Morning
+3866,Catherine,2/1/2024,11/28/2024,15.99,328,Sci-Fi,2,2,FALSE,268,50,Germany,Debit Card,Mandarin,3,4.4,TRUE,Active,3015,Laptop,18-24,Evening
+4477,Christopher,4/28/2024,11/23/2024,7.99,85,Drama,5,1,FALSE,429,52,UK,PayPal,German,16,3.8,FALSE,Active,4971,Smartphone,45-54,Evening
+4829,Jeff,9/21/2024,12/17/2024,11.99,386,Sci-Fi,3,4,FALSE,62,50,Germany,Credit Card,Hindi,44,4.7,FALSE,Active,2377,Smartphone,35-44,Morning
+1257,Daniel,2/8/2023,12/8/2024,7.99,245,Action,3,4,FALSE,831,15,Canada,PayPal,German,64,4.9,FALSE,Active,212,Tablet,45-54,Afternoon
+1897,Cathy,3/19/2023,12/16/2024,11.99,97,Horror,5,5,TRUE,737,85,India,PayPal,French,80,3.6,TRUE,Active,188,Smartphone,55+,Afternoon
+3603,Sylvia,4/4/2023,11/20/2024,7.99,216,Documentary,4,3,TRUE,923,143,USA,Credit Card,Mandarin,20,3.4,FALSE,Active,4435,Desktop,55+,Late Night
+9256,Daniel,2/7/2023,11/22/2024,7.99,331,Romance,5,1,FALSE,85,117,France,Credit Card,French,21,4.8,TRUE,Active,1454,Smart TV,25-34,Afternoon
+9469,William,6/10/2023,11/25/2024,11.99,451,Sci-Fi,2,3,FALSE,59,38,Germany,Credit Card,German,94,3,TRUE,Active,2841,Laptop,45-54,Evening
+7136,Jessica,5/19/2024,12/14/2024,7.99,326,Action,5,1,FALSE,590,105,France,PayPal,Hindi,56,3.3,FALSE,Active,1626,Smartphone,25-34,Afternoon
+2321,Joseph,2/20/2024,12/14/2024,15.99,358,Drama,3,1,FALSE,348,49,France,Debit Card,Hindi,14,4.2,FALSE,Active,111,Desktop,35-44,Morning
+4243,Christopher,3/13/2023,11/29/2024,15.99,91,Action,2,1,TRUE,561,153,Canada,Cryptocurrency,English,7,4.1,FALSE,Active,450,Tablet,55+,Morning
+8015,Laurie,10/28/2023,12/18/2024,7.99,478,Action,2,2,TRUE,214,191,UK,Debit Card,Spanish,44,3.6,FALSE,Active,3325,Desktop,35-44,Afternoon
+3440,William,2/25/2023,11/22/2024,7.99,16,Documentary,3,4,FALSE,964,111,France,PayPal,Mandarin,52,3.1,TRUE,Active,3059,Tablet,18-24,Morning
+9914,Courtney,10/17/2023,12/8/2024,11.99,44,Comedy,2,1,TRUE,897,62,Germany,PayPal,English,18,4.4,FALSE,Active,1065,Smartphone,35-44,Afternoon
+5045,Ashley,8/25/2024,11/21/2024,11.99,100,Comedy,4,1,TRUE,983,191,France,PayPal,Mandarin,53,4.5,FALSE,Active,2575,Tablet,18-24,Afternoon
+1379,Erin,4/19/2023,12/5/2024,11.99,44,Drama,5,4,TRUE,432,73,UK,PayPal,English,88,4.6,FALSE,Active,1690,Laptop,35-44,Evening
+6099,Danielle,2/23/2024,11/27/2024,11.99,37,Comedy,3,1,TRUE,881,189,Canada,Debit Card,French,32,3.9,FALSE,Active,1382,Smartphone,35-44,Morning
+4696,Alexander,6/18/2023,12/4/2024,15.99,48,Action,5,2,FALSE,331,93,USA,Cryptocurrency,French,66,3.7,FALSE,Active,1050,Laptop,25-34,Late Night
+4808,Amanda,3/26/2024,11/27/2024,7.99,371,Romance,1,1,TRUE,819,71,Canada,PayPal,Spanish,36,4.1,TRUE,Active,2328,Desktop,45-54,Late Night
+3633,Randy,12/18/2024,12/10/2024,7.99,176,Action,5,1,TRUE,936,11,France,Cryptocurrency,English,42,3.2,FALSE,Active,4414,Smartphone,35-44,Late Night
+4979,Tony,11/16/2024,11/24/2024,15.99,312,Drama,4,4,FALSE,321,19,Australia,PayPal,Spanish,18,4.3,TRUE,Active,3980,Laptop,25-34,Evening
+2214,Michelle,10/21/2024,11/24/2024,7.99,375,Romance,1,1,TRUE,244,106,India,PayPal,French,16,3.9,TRUE,Active,3596,Smartphone,25-34,Late Night
+6606,Danielle,1/26/2024,11/29/2024,15.99,134,Sci-Fi,3,5,TRUE,826,160,France,Cryptocurrency,English,96,3.6,TRUE,Active,1150,Smartphone,25-34,Late Night
+4246,Jacob,9/24/2023,12/15/2024,7.99,91,Drama,5,1,FALSE,159,14,UK,PayPal,Spanish,85,4.4,FALSE,Active,1858,Smart TV,35-44,Late Night
+2836,Samantha,2/7/2024,12/17/2024,7.99,359,Horror,2,6,FALSE,305,81,Australia,Cryptocurrency,German,28,3.3,FALSE,Active,1926,Desktop,55+,Morning
+6963,Chris,7/6/2023,11/29/2024,15.99,172,Comedy,2,6,FALSE,841,83,UK,PayPal,French,44,5,TRUE,Active,2933,Tablet,25-34,Evening
+2243,Sherri,7/17/2024,12/2/2024,11.99,490,Comedy,3,3,TRUE,123,183,France,Cryptocurrency,German,45,4.4,FALSE,Active,2397,Desktop,18-24,Evening
+5081,Angela,10/27/2024,11/20/2024,11.99,16,Romance,1,5,TRUE,803,196,Australia,Cryptocurrency,Hindi,90,4.3,TRUE,Active,1946,Smart TV,45-54,Late Night
+4171,John,7/4/2024,12/14/2024,11.99,291,Sci-Fi,2,1,TRUE,380,106,Canada,PayPal,Spanish,22,4.1,FALSE,Active,2576,Smart TV,45-54,Evening
+7399,Katherine,8/13/2024,12/9/2024,11.99,119,Romance,2,5,TRUE,344,93,Germany,Debit Card,Hindi,0,4.2,FALSE,Active,2259,Tablet,45-54,Late Night
+1110,April,5/5/2024,12/4/2024,11.99,35,Action,2,3,TRUE,908,128,USA,PayPal,Spanish,86,3.2,TRUE,Active,1068,Tablet,35-44,Evening
+5630,Francis,12/4/2023,11/24/2024,7.99,88,Drama,4,6,TRUE,782,180,USA,Debit Card,French,86,5,TRUE,Active,2928,Smart TV,45-54,Late Night
+9430,Katie,11/3/2023,11/21/2024,7.99,312,Sci-Fi,4,1,FALSE,769,140,UK,Debit Card,Mandarin,94,4.8,TRUE,Active,3674,Smart TV,45-54,Evening
+7436,Natasha,2/22/2024,12/17/2024,15.99,238,Sci-Fi,4,1,TRUE,233,102,Canada,Debit Card,Hindi,78,3.1,FALSE,Active,130,Smart TV,55+,Late Night
+2147,Julie,1/12/2024,12/11/2024,11.99,132,Action,4,6,TRUE,170,164,France,Debit Card,English,71,3.3,TRUE,Active,4873,Laptop,45-54,Morning
+3264,Brittany,5/14/2023,12/9/2024,11.99,456,Comedy,1,6,TRUE,945,114,UK,Credit Card,German,44,3,FALSE,Active,96,Smartphone,55+,Late Night
+1214,Jaime,6/8/2023,12/11/2024,11.99,281,Action,5,6,TRUE,945,108,Germany,PayPal,English,98,3.8,TRUE,Active,110,Laptop,18-24,Afternoon
+6050,Emma,8/8/2024,11/23/2024,11.99,281,Horror,5,3,FALSE,217,162,USA,Debit Card,Mandarin,0,3.4,FALSE,Active,225,Smartphone,45-54,Late Night
+7395,Stephanie,11/26/2023,12/5/2024,11.99,73,Action,1,1,TRUE,664,123,Australia,Debit Card,German,70,4.4,TRUE,Active,4083,Smart TV,25-34,Late Night
+3904,John,6/18/2024,12/9/2024,11.99,365,Horror,3,1,TRUE,679,1,France,Debit Card,French,100,4.7,FALSE,Active,2714,Tablet,35-44,Evening
+6545,Elizabeth,6/13/2024,12/8/2024,7.99,61,Drama,1,5,TRUE,242,200,Germany,Cryptocurrency,Mandarin,53,4.8,TRUE,Active,674,Laptop,35-44,Late Night
+3131,James,6/11/2023,11/21/2024,15.99,399,Sci-Fi,3,5,FALSE,541,158,UK,Debit Card,French,4,4.9,TRUE,Active,948,Laptop,55+,Morning
+8589,Kayla,1/19/2023,11/20/2024,11.99,102,Romance,2,1,TRUE,108,105,France,PayPal,English,76,4.7,FALSE,Active,933,Desktop,35-44,Afternoon
+2908,Anthony,9/26/2024,11/22/2024,11.99,88,Sci-Fi,4,2,TRUE,343,163,France,Cryptocurrency,German,89,5,TRUE,Active,2914,Smart TV,55+,Evening
+5209,Melissa,5/10/2023,11/19/2024,11.99,92,Romance,5,3,TRUE,477,38,France,Credit Card,English,71,3.9,TRUE,Active,3928,Smartphone,45-54,Evening
+2319,Natalie,6/1/2023,11/20/2024,15.99,295,Drama,5,4,FALSE,767,190,France,Credit Card,Spanish,7,4.1,FALSE,Active,2559,Smartphone,35-44,Evening
+9026,Courtney,5/3/2024,11/22/2024,11.99,139,Comedy,1,5,TRUE,12,9,UK,Credit Card,Spanish,21,4.8,TRUE,Active,2571,Tablet,35-44,Evening
+2723,Briana,9/1/2023,11/24/2024,15.99,416,Action,1,2,TRUE,920,79,India,Debit Card,French,20,4.4,FALSE,Active,3834,Smartphone,55+,Evening
+5487,Lisa,3/25/2024,12/16/2024,7.99,173,Comedy,2,2,FALSE,819,174,USA,PayPal,Hindi,34,4.1,FALSE,Active,4714,Laptop,25-34,Evening
+4656,Kayla,5/22/2023,11/29/2024,7.99,75,Action,3,5,FALSE,607,94,Canada,Cryptocurrency,German,57,3.8,TRUE,Active,4800,Smart TV,25-34,Afternoon
+5718,Bradley,6/14/2024,11/28/2024,15.99,173,Sci-Fi,1,6,TRUE,346,76,Canada,PayPal,Spanish,28,3.3,FALSE,Active,1610,Smartphone,45-54,Afternoon
+1215,Devin,8/17/2023,11/27/2024,7.99,421,Documentary,3,1,TRUE,668,17,Canada,Credit Card,Spanish,7,4,TRUE,Active,2780,Tablet,25-34,Evening
+3427,Eric,12/10/2023,12/7/2024,15.99,29,Sci-Fi,5,2,TRUE,317,116,USA,Credit Card,German,78,3.8,TRUE,Active,639,Tablet,25-34,Morning
+2428,Brian,2/27/2024,11/21/2024,7.99,180,Comedy,2,4,TRUE,297,19,France,Credit Card,Hindi,84,4.9,FALSE,Active,1960,Smartphone,18-24,Afternoon
+1947,Ann,9/1/2024,11/24/2024,11.99,469,Action,4,6,TRUE,866,120,Canada,Credit Card,English,92,3.6,TRUE,Active,1764,Smart TV,18-24,Late Night
+5036,Andrew,8/16/2024,11/29/2024,15.99,381,Horror,5,1,TRUE,286,121,Canada,Cryptocurrency,French,57,4.1,TRUE,Active,967,Smartphone,18-24,Afternoon
+5857,Jennifer,12/5/2024,12/15/2024,15.99,263,Horror,5,5,FALSE,95,149,Germany,Credit Card,French,17,4,TRUE,Active,2086,Smart TV,55+,Afternoon
+8770,Mark,8/12/2023,11/21/2024,7.99,48,Drama,4,2,FALSE,938,92,Canada,Cryptocurrency,French,99,4.2,TRUE,Active,3288,Smart TV,55+,Late Night
+4118,Valerie,5/16/2023,11/19/2024,11.99,447,Documentary,3,4,FALSE,264,55,Australia,PayPal,Mandarin,58,3.6,FALSE,Active,1486,Smartphone,55+,Afternoon
+7162,Carrie,8/21/2024,12/14/2024,15.99,415,Sci-Fi,1,3,TRUE,44,10,France,Debit Card,French,91,3.3,FALSE,Active,223,Smart TV,55+,Afternoon
+9278,Joseph,9/19/2024,12/14/2024,7.99,429,Drama,5,4,FALSE,944,165,France,PayPal,French,12,4.7,TRUE,Active,2394,Tablet,45-54,Morning
+5406,Randall,10/12/2024,12/7/2024,7.99,26,Drama,5,5,FALSE,542,152,Canada,Credit Card,Mandarin,6,3.1,FALSE,Active,4329,Smartphone,18-24,Morning
+4641,Danielle,9/12/2024,12/8/2024,15.99,101,Romance,4,6,TRUE,350,17,Australia,PayPal,Mandarin,11,3.4,TRUE,Active,2193,Tablet,35-44,Afternoon
+3969,Katie,5/23/2023,12/12/2024,15.99,461,Sci-Fi,2,6,TRUE,31,173,Canada,PayPal,Spanish,84,3.5,TRUE,Active,3730,Tablet,25-34,Morning
+3078,Victor,6/24/2023,12/14/2024,7.99,246,Action,3,3,FALSE,358,158,Germany,Credit Card,Hindi,18,3.8,FALSE,Active,2234,Smart TV,18-24,Afternoon
+2808,Jonathan,11/12/2023,12/14/2024,15.99,91,Horror,3,6,FALSE,961,170,USA,PayPal,Mandarin,87,4.2,FALSE,Active,718,Smart TV,25-34,Afternoon
+7484,Bradley,12/8/2024,11/21/2024,11.99,152,Romance,5,1,FALSE,623,180,Canada,Cryptocurrency,French,89,4.5,TRUE,Active,1594,Smartphone,25-34,Late Night
+2396,Christopher,12/2/2023,11/25/2024,11.99,283,Action,3,5,FALSE,466,139,UK,PayPal,Hindi,62,4,TRUE,Active,681,Laptop,35-44,Evening
+2472,Angela,11/18/2023,11/25/2024,7.99,61,Comedy,3,4,FALSE,860,145,India,Debit Card,Spanish,82,4.7,TRUE,Active,428,Tablet,55+,Late Night
+7939,Richard,9/8/2023,11/25/2024,11.99,410,Comedy,5,6,FALSE,410,125,France,PayPal,German,68,4.7,FALSE,Active,2542,Desktop,25-34,Morning
+8269,Jennifer,2/26/2024,12/17/2024,7.99,88,Action,3,1,FALSE,69,75,India,Credit Card,German,80,4.1,FALSE,Active,4763,Smart TV,55+,Evening
+9073,Tiffany,7/11/2023,12/9/2024,15.99,322,Documentary,3,4,TRUE,424,74,Australia,Credit Card,French,3,3,FALSE,Active,486,Tablet,45-54,Evening
+9879,Jessica,2/2/2023,12/4/2024,7.99,217,Horror,3,3,FALSE,377,136,Canada,PayPal,Mandarin,8,4.2,TRUE,Active,4327,Tablet,25-34,Late Night
+3822,Tyler,8/3/2023,12/4/2024,15.99,180,Action,3,4,FALSE,132,127,USA,Credit Card,English,79,4.8,TRUE,Active,2938,Smartphone,35-44,Afternoon
+9183,William,4/26/2023,12/9/2024,15.99,11,Sci-Fi,1,1,FALSE,818,45,Germany,PayPal,Spanish,97,4.9,FALSE,Active,1429,Desktop,18-24,Afternoon
+8674,Johnny,1/1/2023,11/20/2024,15.99,455,Comedy,5,6,TRUE,813,155,Canada,Cryptocurrency,French,85,3.6,TRUE,Active,2897,Smart TV,25-34,Morning
+2481,Jesus,3/23/2024,11/20/2024,7.99,487,Romance,2,6,FALSE,362,130,France,Cryptocurrency,English,36,3.3,TRUE,Active,274,Smart TV,45-54,Morning
+8729,Jill,1/9/2024,12/13/2024,7.99,459,Documentary,2,4,FALSE,573,190,Australia,PayPal,Spanish,81,4.3,FALSE,Active,3910,Laptop,45-54,Morning
+5534,Andrea,3/4/2023,12/13/2024,7.99,74,Drama,2,1,FALSE,657,88,Canada,Debit Card,Mandarin,40,3.8,FALSE,Active,130,Desktop,18-24,Morning
+9785,Jacob,1/4/2024,12/18/2024,11.99,54,Action,5,4,FALSE,659,2,Germany,PayPal,Mandarin,82,4.3,TRUE,Active,2557,Desktop,35-44,Morning
+9609,Eric,9/3/2023,11/27/2024,11.99,292,Romance,3,4,TRUE,653,173,Australia,Debit Card,Hindi,8,3.5,FALSE,Active,3823,Desktop,45-54,Evening
+2829,Sara,9/23/2024,12/9/2024,15.99,23,Action,2,2,FALSE,577,131,France,Credit Card,German,14,3.9,FALSE,Active,4048,Laptop,25-34,Afternoon
+1714,Tammy,8/29/2023,11/26/2024,11.99,147,Horror,3,1,TRUE,802,177,France,Credit Card,German,21,3.5,TRUE,Active,3173,Smart TV,35-44,Morning
+4475,Sandra,12/26/2023,12/12/2024,7.99,221,Action,2,4,FALSE,702,130,Canada,PayPal,French,36,4.3,FALSE,Active,3289,Laptop,25-34,Evening
+9820,James,10/21/2024,11/27/2024,7.99,40,Documentary,2,1,TRUE,92,184,UK,Credit Card,Mandarin,66,4.1,TRUE,Active,4377,Smart TV,25-34,Afternoon
+3261,David,12/31/2022,12/13/2024,11.99,365,Sci-Fi,1,5,TRUE,582,162,Australia,Cryptocurrency,Hindi,8,3.3,FALSE,Active,995,Laptop,25-34,Evening
+6130,Michael,4/25/2024,12/16/2024,11.99,360,Romance,1,2,TRUE,161,93,India,Debit Card,Spanish,30,3.3,TRUE,Active,2299,Desktop,55+,Afternoon
+9399,Kristin,4/24/2023,11/28/2024,7.99,127,Action,2,2,FALSE,842,24,Canada,Cryptocurrency,Spanish,72,3.2,TRUE,Active,4644,Smartphone,25-34,Late Night
+6047,Paul,11/23/2024,12/2/2024,15.99,30,Horror,3,2,TRUE,609,6,Canada,PayPal,Mandarin,57,3,TRUE,Active,746,Tablet,55+,Late Night
+7789,Amy,7/27/2023,11/24/2024,7.99,222,Drama,1,6,FALSE,391,17,USA,Cryptocurrency,Hindi,21,3.4,TRUE,Active,2835,Tablet,45-54,Evening
+6111,Emily,11/11/2023,12/13/2024,11.99,168,Romance,1,2,FALSE,247,172,France,Cryptocurrency,French,98,3.5,FALSE,Active,3626,Smart TV,35-44,Evening
+4968,Alicia,4/11/2024,11/26/2024,7.99,317,Comedy,5,1,FALSE,559,113,India,Credit Card,English,92,4.6,FALSE,Active,1000,Laptop,55+,Evening
+2739,Margaret,4/24/2023,11/20/2024,15.99,285,Documentary,1,3,FALSE,706,22,UK,PayPal,Mandarin,4,3.4,TRUE,Active,368,Desktop,25-34,Late Night
+6974,Linda,8/30/2023,11/28/2024,11.99,420,Comedy,1,2,FALSE,1000,159,India,Cryptocurrency,German,22,4.8,FALSE,Active,2229,Smart TV,25-34,Morning
+1784,Sarah,6/11/2023,12/16/2024,15.99,100,Drama,5,1,TRUE,586,32,France,Credit Card,Hindi,100,3.6,TRUE,Active,2643,Desktop,25-34,Afternoon
+8077,Megan,6/3/2024,12/18/2024,11.99,426,Documentary,4,6,FALSE,450,92,Germany,Debit Card,Hindi,71,4.1,FALSE,Active,2647,Smartphone,25-34,Morning
+2727,Renee,1/29/2024,12/8/2024,7.99,263,Romance,1,4,TRUE,468,95,India,Debit Card,English,87,3.5,FALSE,Active,4497,Tablet,25-34,Evening
+7661,Wayne,8/20/2023,12/14/2024,11.99,162,Action,1,1,FALSE,370,130,USA,Debit Card,Hindi,49,4.1,TRUE,Active,1121,Smart TV,45-54,Afternoon
+5083,Lisa,11/24/2024,11/23/2024,15.99,19,Romance,3,2,TRUE,781,179,Canada,Debit Card,German,8,4.3,FALSE,Active,1525,Laptop,45-54,Evening
+7275,Rhonda,9/5/2024,12/7/2024,11.99,358,Romance,5,4,TRUE,829,62,Germany,PayPal,German,65,3.4,FALSE,Active,3488,Smart TV,55+,Late Night
+7316,Darrell,2/24/2023,12/15/2024,11.99,183,Drama,3,5,FALSE,944,94,Canada,PayPal,English,72,4.7,FALSE,Active,3009,Smart TV,45-54,Late Night
+4497,Diana,1/3/2023,12/15/2024,15.99,63,Action,4,4,FALSE,670,72,USA,PayPal,Spanish,27,4.8,FALSE,Active,15,Smartphone,35-44,Evening
+8685,Matthew,3/9/2024,11/20/2024,11.99,446,Documentary,5,3,TRUE,831,37,France,PayPal,English,54,3.3,TRUE,Active,3007,Smart TV,45-54,Evening
+8583,Brittany,11/16/2024,11/27/2024,15.99,352,Sci-Fi,3,3,FALSE,154,148,France,Debit Card,English,39,4.7,TRUE,Active,4588,Laptop,35-44,Morning
+1062,David,10/3/2024,12/13/2024,7.99,209,Sci-Fi,2,6,FALSE,707,162,USA,Debit Card,German,95,3.5,TRUE,Active,73,Smartphone,55+,Late Night
+2593,Stephanie,12/21/2022,12/11/2024,7.99,311,Horror,5,6,FALSE,587,140,India,PayPal,Mandarin,43,3.6,TRUE,Active,4635,Smartphone,18-24,Afternoon
+3951,Christina,6/26/2023,12/6/2024,11.99,293,Sci-Fi,3,6,TRUE,158,119,India,Credit Card,Spanish,60,3.7,FALSE,Active,1882,Tablet,45-54,Late Night
+8580,Darlene,6/2/2024,12/10/2024,15.99,119,Romance,4,2,FALSE,936,188,USA,Cryptocurrency,Mandarin,59,4.1,TRUE,Active,1690,Desktop,25-34,Afternoon
+4372,Michael,1/18/2023,12/5/2024,15.99,329,Sci-Fi,2,1,FALSE,670,94,UK,PayPal,Hindi,61,3,FALSE,Active,2572,Laptop,35-44,Morning
+4463,Janet,10/15/2023,11/24/2024,15.99,141,Horror,5,5,TRUE,636,186,UK,Credit Card,Mandarin,95,3.6,FALSE,Active,3865,Laptop,18-24,Late Night
+7498,Ethan,2/9/2023,11/24/2024,11.99,15,Documentary,1,3,TRUE,700,64,Australia,Cryptocurrency,Spanish,35,4.7,FALSE,Active,380,Laptop,25-34,Late Night
+9618,Jesse,11/17/2024,11/30/2024,11.99,30,Comedy,5,4,TRUE,310,162,Australia,Debit Card,German,30,3.1,TRUE,Active,3566,Smart TV,25-34,Evening
+1813,Phyllis,6/21/2024,11/29/2024,11.99,145,Horror,2,4,FALSE,237,32,Australia,Cryptocurrency,French,39,4.8,FALSE,Active,1835,Desktop,45-54,Morning
+3009,Joel,9/24/2024,12/13/2024,15.99,250,Documentary,4,3,FALSE,774,88,Australia,Debit Card,Mandarin,64,3.3,FALSE,Active,1882,Desktop,18-24,Morning
+8210,Cynthia,1/5/2023,11/22/2024,15.99,243,Horror,2,6,TRUE,532,110,Germany,PayPal,Spanish,73,4.7,FALSE,Active,525,Smartphone,45-54,Afternoon
+8439,Craig,7/26/2023,11/21/2024,11.99,392,Horror,4,1,TRUE,813,2,UK,Cryptocurrency,English,57,3,TRUE,Active,1025,Desktop,18-24,Afternoon
+8310,Eric,5/29/2023,12/11/2024,11.99,389,Drama,5,4,FALSE,727,26,Germany,PayPal,English,67,3.4,FALSE,Active,2508,Smartphone,45-54,Afternoon
+6369,Jessica,10/23/2023,11/27/2024,7.99,414,Horror,4,6,TRUE,271,51,India,PayPal,German,8,4.3,FALSE,Active,1546,Desktop,25-34,Evening
+5721,Jordan,6/11/2023,12/12/2024,15.99,415,Documentary,2,1,FALSE,958,192,USA,Credit Card,German,22,4.8,TRUE,Active,1955,Tablet,35-44,Afternoon
+4204,Scott,11/12/2023,12/14/2024,11.99,494,Horror,5,6,TRUE,202,163,UK,Debit Card,Spanish,61,4,TRUE,Active,4889,Tablet,35-44,Morning
+5666,Christopher,4/22/2023,11/20/2024,7.99,109,Drama,4,4,TRUE,899,11,UK,Credit Card,German,63,4.3,FALSE,Active,1185,Laptop,18-24,Late Night
+5943,Victoria,12/18/2023,12/7/2024,7.99,200,Romance,1,2,FALSE,465,35,India,Cryptocurrency,Mandarin,29,4.7,TRUE,Active,3040,Desktop,55+,Evening
+3202,Mary,2/23/2024,12/4/2024,11.99,134,Sci-Fi,4,1,TRUE,459,105,UK,Cryptocurrency,German,3,3.7,TRUE,Active,4729,Smartphone,45-54,Afternoon
+4512,Jacob,2/21/2023,11/30/2024,11.99,250,Documentary,5,2,FALSE,611,170,UK,Credit Card,English,71,3.9,FALSE,Active,4193,Smartphone,25-34,Evening
+2075,Ann,10/28/2024,12/9/2024,7.99,305,Drama,2,3,TRUE,49,146,USA,Debit Card,Mandarin,48,4.6,FALSE,Active,4626,Smart TV,55+,Morning
+4057,Rachel,5/10/2024,11/28/2024,15.99,256,Comedy,5,3,FALSE,929,89,Canada,PayPal,Spanish,89,3.3,FALSE,Active,60,Smartphone,55+,Morning
+5537,Justin,9/12/2024,11/19/2024,11.99,214,Documentary,1,3,FALSE,39,89,Canada,Debit Card,Hindi,37,3.5,TRUE,Active,2597,Tablet,45-54,Morning
+9520,Tina,8/5/2023,12/1/2024,11.99,272,Romance,1,2,FALSE,520,170,Germany,PayPal,German,100,5,FALSE,Active,260,Tablet,55+,Morning
+1081,Vincent,7/28/2024,11/29/2024,15.99,144,Drama,3,4,FALSE,501,64,Canada,Debit Card,English,98,3.3,FALSE,Active,1544,Tablet,35-44,Late Night
+7621,Tina,9/6/2023,12/6/2024,7.99,381,Drama,5,6,FALSE,593,46,Australia,Debit Card,English,10,4.6,TRUE,Active,4528,Tablet,55+,Evening
+4558,Leah,1/18/2023,11/20/2024,11.99,292,Drama,4,2,TRUE,109,68,Germany,Credit Card,English,95,4.3,FALSE,Active,1127,Laptop,55+,Evening
+6628,Richard,3/28/2023,12/15/2024,11.99,358,Romance,4,3,FALSE,472,65,India,Debit Card,Spanish,92,4,FALSE,Active,4542,Smartphone,45-54,Evening
+7643,Cindy,7/10/2024,12/3/2024,15.99,426,Sci-Fi,1,6,TRUE,229,120,USA,PayPal,French,38,3.3,TRUE,Active,1436,Smartphone,55+,Morning
+4709,Gary,9/22/2023,11/24/2024,11.99,474,Comedy,5,1,FALSE,487,107,Australia,Debit Card,German,66,4,FALSE,Active,4438,Desktop,45-54,Late Night
+8408,Emily,7/28/2023,12/12/2024,7.99,286,Documentary,2,5,TRUE,543,16,USA,Credit Card,Mandarin,8,3.7,TRUE,Active,3130,Smartphone,35-44,Afternoon
+3530,Lindsey,10/10/2024,12/6/2024,15.99,498,Drama,5,6,FALSE,105,35,India,Debit Card,English,6,3.9,TRUE,Active,3379,Desktop,25-34,Late Night
+3779,Brandon,6/21/2024,12/15/2024,11.99,32,Drama,2,4,FALSE,334,151,UK,Cryptocurrency,Spanish,88,3.4,FALSE,Active,3696,Tablet,25-34,Evening
+8564,Lynn,4/17/2023,12/1/2024,7.99,84,Romance,1,2,TRUE,871,187,USA,Debit Card,Mandarin,96,4.5,TRUE,Active,2416,Smartphone,45-54,Late Night
+8731,Jonathan,12/31/2023,12/2/2024,15.99,210,Romance,5,5,FALSE,206,194,Canada,PayPal,Hindi,62,3.9,FALSE,Active,2856,Smartphone,45-54,Evening
+5000,Natalie,2/15/2023,11/24/2024,15.99,231,Horror,3,5,TRUE,701,173,India,Credit Card,German,65,3.4,TRUE,Active,4177,Smartphone,18-24,Morning
+3882,Michelle,12/1/2024,12/15/2024,15.99,246,Drama,3,3,FALSE,505,129,Canada,Credit Card,English,82,4.9,FALSE,Active,1912,Laptop,18-24,Evening
+4551,Gabriel,1/19/2024,11/19/2024,11.99,174,Romance,1,6,TRUE,239,175,USA,Credit Card,English,65,3.7,FALSE,Active,2388,Tablet,18-24,Morning
+7970,Scott,7/21/2023,11/19/2024,15.99,298,Comedy,3,1,TRUE,115,168,Germany,PayPal,Hindi,27,3,FALSE,Active,4216,Smartphone,55+,Morning
+2466,Heidi,10/29/2024,12/3/2024,11.99,344,Documentary,5,2,FALSE,142,113,USA,PayPal,German,100,4.6,TRUE,Active,599,Laptop,25-34,Afternoon
+1303,Ashley,6/17/2023,12/4/2024,11.99,264,Romance,2,1,TRUE,744,33,Australia,Cryptocurrency,English,29,4.9,TRUE,Active,804,Desktop,25-34,Evening
+9832,Danielle,12/21/2022,11/21/2024,7.99,380,Drama,2,5,TRUE,820,17,Australia,PayPal,French,93,3,FALSE,Active,4565,Laptop,25-34,Evening
+3618,Paul,2/3/2024,12/3/2024,11.99,160,Action,2,1,FALSE,940,50,Australia,Cryptocurrency,German,71,3,FALSE,Active,1095,Desktop,55+,Late Night
+7424,Lisa,8/8/2023,12/13/2024,7.99,55,Comedy,4,6,TRUE,135,138,Germany,Credit Card,French,5,3.4,FALSE,Active,1512,Tablet,45-54,Evening
+8414,Lisa,1/13/2024,11/22/2024,11.99,70,Drama,2,3,TRUE,803,51,India,Cryptocurrency,Mandarin,24,3.8,FALSE,Active,1422,Laptop,55+,Afternoon
+5688,Ashley,9/27/2024,11/30/2024,7.99,256,Drama,3,3,FALSE,322,199,Canada,Credit Card,English,65,4.5,FALSE,Active,147,Smartphone,45-54,Morning
+2062,Darren,6/24/2024,11/24/2024,15.99,436,Documentary,5,6,TRUE,424,111,France,Credit Card,German,64,3.5,TRUE,Active,4317,Smart TV,45-54,Late Night
+5031,Bethany,8/4/2023,11/27/2024,7.99,394,Action,2,6,TRUE,60,159,UK,PayPal,German,51,3,TRUE,Active,3197,Desktop,18-24,Late Night
+1162,Steven,1/28/2023,11/29/2024,15.99,131,Sci-Fi,3,3,FALSE,865,8,India,Debit Card,Spanish,78,4.6,FALSE,Active,1413,Smart TV,45-54,Afternoon
+6564,James,10/23/2023,12/7/2024,11.99,98,Drama,5,2,TRUE,526,144,USA,Debit Card,English,10,3.9,TRUE,Active,747,Laptop,25-34,Afternoon
+9298,Christine,6/2/2024,12/4/2024,11.99,276,Comedy,5,4,FALSE,389,177,France,PayPal,English,19,4.3,FALSE,Active,1099,Tablet,55+,Evening
+4216,Beth,3/14/2024,11/19/2024,11.99,251,Action,3,3,FALSE,922,106,Australia,Debit Card,Hindi,56,4.3,TRUE,Active,585,Smartphone,25-34,Late Night
+3677,Rebecca,3/8/2023,11/29/2024,7.99,233,Sci-Fi,4,2,TRUE,485,37,Canada,PayPal,Mandarin,47,3.4,TRUE,Active,615,Smartphone,25-34,Afternoon
+8453,Eric,5/17/2024,11/27/2024,11.99,136,Romance,2,5,TRUE,112,181,India,Cryptocurrency,Hindi,15,3.6,FALSE,Active,2634,Laptop,18-24,Morning
+6231,Nicole,1/24/2023,12/7/2024,15.99,248,Horror,1,6,FALSE,181,13,France,Credit Card,Spanish,43,4.9,TRUE,Active,136,Laptop,45-54,Late Night
+1481,Mary,2/20/2023,12/1/2024,7.99,180,Documentary,3,4,FALSE,936,166,UK,Debit Card,English,71,4.9,TRUE,Active,4566,Smartphone,45-54,Morning
+7400,Allen,5/9/2024,12/15/2024,11.99,254,Action,4,1,TRUE,406,47,Australia,Debit Card,Mandarin,5,3.6,FALSE,Active,3281,Desktop,45-54,Late Night
+7447,Stephanie,5/31/2023,11/20/2024,7.99,108,Drama,2,1,FALSE,717,84,Germany,PayPal,Hindi,82,3.9,FALSE,Active,1559,Smart TV,35-44,Late Night
+4597,Sarah,8/10/2024,12/13/2024,7.99,183,Documentary,4,5,FALSE,833,154,France,PayPal,German,46,3.9,FALSE,Active,3113,Tablet,35-44,Evening
+3173,Aaron,9/25/2024,12/9/2024,7.99,53,Sci-Fi,2,4,TRUE,304,49,France,Cryptocurrency,English,57,4.3,FALSE,Active,3836,Desktop,25-34,Evening
+9514,Veronica,6/6/2023,12/10/2024,7.99,120,Horror,3,3,TRUE,802,31,UK,Debit Card,Hindi,16,4,TRUE,Active,1522,Laptop,25-34,Evening
+4985,Michael,8/11/2023,12/1/2024,7.99,118,Sci-Fi,5,4,FALSE,522,160,UK,Cryptocurrency,Mandarin,94,4.1,TRUE,Active,1756,Desktop,18-24,Late Night
+4486,Craig,1/5/2024,12/13/2024,7.99,113,Drama,1,1,FALSE,177,3,Australia,Cryptocurrency,English,69,4.8,FALSE,Active,1542,Desktop,55+,Late Night
+8756,Jessica,12/22/2023,12/9/2024,7.99,138,Drama,3,2,TRUE,811,37,Australia,Debit Card,Mandarin,36,3.6,FALSE,Active,77,Smartphone,35-44,Evening
+9121,Denise,6/18/2023,12/12/2024,7.99,178,Horror,1,4,FALSE,239,126,Canada,Cryptocurrency,English,86,3.9,FALSE,Active,4356,Laptop,45-54,Evening
+6471,Jennifer,12/28/2023,11/25/2024,7.99,105,Comedy,4,3,TRUE,49,71,Australia,Credit Card,French,8,3.6,FALSE,Active,1989,Desktop,45-54,Afternoon
+6601,Larry,5/23/2023,12/18/2024,7.99,283,Action,1,5,TRUE,407,15,France,Debit Card,French,26,3.1,TRUE,Active,906,Smart TV,55+,Afternoon
+4340,Makayla,3/18/2023,12/7/2024,15.99,154,Sci-Fi,4,5,TRUE,804,106,UK,PayPal,English,60,4.8,FALSE,Active,4108,Laptop,55+,Late Night
+5112,Juan,11/5/2024,12/14/2024,15.99,240,Horror,2,6,TRUE,564,121,USA,Cryptocurrency,Hindi,40,3.5,TRUE,Active,333,Smart TV,25-34,Evening
+5700,Gregory,5/26/2023,12/9/2024,11.99,29,Sci-Fi,1,5,TRUE,625,165,France,Credit Card,Spanish,41,4.3,FALSE,Active,3847,Laptop,18-24,Afternoon
+8617,Ashley,10/14/2024,12/11/2024,15.99,202,Comedy,1,2,TRUE,260,53,Australia,Cryptocurrency,English,13,3.9,TRUE,Active,1423,Laptop,55+,Evening
+9149,Angelica,1/5/2023,12/17/2024,15.99,348,Documentary,2,6,TRUE,378,56,Australia,Debit Card,Spanish,9,4.5,TRUE,Active,595,Smart TV,18-24,Afternoon
+8651,Dawn,8/19/2024,11/26/2024,15.99,380,Romance,5,5,FALSE,334,175,France,Credit Card,German,69,3.1,FALSE,Active,4445,Tablet,55+,Late Night
+1495,Timothy,8/19/2024,11/22/2024,15.99,254,Romance,3,2,FALSE,544,89,France,Debit Card,English,97,3.1,FALSE,Active,144,Smartphone,25-34,Late Night
+7359,Kevin,3/20/2023,12/17/2024,15.99,477,Action,2,3,TRUE,899,97,USA,Credit Card,English,42,4.7,TRUE,Active,3428,Laptop,45-54,Morning
+6525,Paul,1/25/2023,11/22/2024,15.99,385,Comedy,3,1,FALSE,807,188,USA,Credit Card,French,3,3.4,FALSE,Active,4919,Tablet,35-44,Afternoon
+7207,Christina,8/19/2024,12/17/2024,7.99,336,Sci-Fi,1,2,FALSE,235,25,Australia,Credit Card,French,31,3.9,FALSE,Active,4905,Laptop,35-44,Late Night
+2361,Karen,3/18/2023,11/25/2024,15.99,171,Action,2,3,FALSE,763,16,UK,PayPal,Spanish,17,3.4,TRUE,Active,428,Tablet,25-34,Evening
+8766,Anna,9/29/2023,11/27/2024,15.99,33,Documentary,1,4,TRUE,475,151,Canada,Credit Card,French,16,4.7,TRUE,Active,1634,Smart TV,45-54,Late Night
+7236,Mary,4/13/2024,12/10/2024,7.99,193,Romance,3,6,TRUE,453,113,UK,Cryptocurrency,French,74,3.5,TRUE,Active,4085,Laptop,25-34,Evening
+8605,Jessica,5/31/2023,12/1/2024,11.99,153,Horror,2,2,TRUE,40,106,India,Debit Card,French,44,4.4,TRUE,Active,2790,Tablet,25-34,Afternoon
+1055,Taylor,2/20/2023,12/12/2024,15.99,140,Horror,5,5,TRUE,112,30,France,Credit Card,Hindi,60,3.1,TRUE,Active,2440,Desktop,35-44,Evening
+7986,Douglas,1/23/2023,12/10/2024,15.99,196,Comedy,2,2,TRUE,102,66,Australia,Cryptocurrency,Spanish,11,3.7,FALSE,Active,2741,Tablet,45-54,Afternoon
+6170,Sarah,6/21/2024,11/22/2024,15.99,298,Horror,5,1,TRUE,943,187,UK,Cryptocurrency,Spanish,60,3.7,FALSE,Active,4338,Desktop,45-54,Late Night
+7172,Felicia,7/9/2023,11/22/2024,11.99,477,Documentary,5,4,FALSE,426,137,France,Credit Card,Hindi,31,5,FALSE,Active,2039,Smart TV,45-54,Morning
+7408,Aaron,12/27/2022,11/24/2024,15.99,308,Romance,1,2,TRUE,202,12,India,Cryptocurrency,Spanish,21,4.5,FALSE,Active,2097,Desktop,25-34,Morning
+7274,Joseph,4/12/2023,12/6/2024,11.99,193,Documentary,4,4,FALSE,364,181,France,Credit Card,English,51,4.7,FALSE,Active,2384,Desktop,55+,Afternoon
+6001,Vickie,9/2/2024,11/28/2024,15.99,420,Documentary,3,3,TRUE,562,67,USA,Debit Card,English,2,3.2,TRUE,Active,4159,Smart TV,45-54,Evening
+9418,Stacey,7/21/2024,11/26/2024,7.99,128,Action,5,6,TRUE,481,128,India,Credit Card,German,89,3.3,TRUE,Active,2002,Tablet,18-24,Morning
+9354,Timothy,7/21/2023,11/30/2024,11.99,133,Action,4,6,FALSE,469,182,Australia,PayPal,English,85,4.4,FALSE,Active,782,Tablet,35-44,Afternoon
+8122,Alison,9/11/2024,11/29/2024,15.99,413,Sci-Fi,5,2,FALSE,708,4,UK,Credit Card,French,62,4.3,TRUE,Active,4056,Smartphone,55+,Evening
+1765,Harold,9/16/2024,11/24/2024,11.99,28,Documentary,4,1,TRUE,990,88,UK,Credit Card,French,97,5,FALSE,Active,1341,Tablet,35-44,Late Night
+5352,Andrew,1/16/2024,12/14/2024,15.99,453,Drama,5,3,TRUE,236,121,USA,Cryptocurrency,Mandarin,1,3.7,FALSE,Active,3028,Desktop,55+,Morning
+7578,Stephanie,10/3/2023,12/3/2024,11.99,186,Drama,2,5,TRUE,784,29,USA,Debit Card,German,76,4.3,TRUE,Active,4799,Desktop,18-24,Morning
+8912,Scott,9/5/2024,11/21/2024,15.99,287,Romance,3,6,FALSE,714,3,India,Debit Card,Mandarin,45,4.3,TRUE,Active,4556,Tablet,45-54,Morning
+6641,Ashley,7/20/2024,12/8/2024,7.99,45,Horror,4,3,FALSE,420,87,UK,Cryptocurrency,Mandarin,41,3.3,TRUE,Active,2965,Laptop,55+,Evening
+9664,Rick,7/11/2023,11/22/2024,11.99,463,Comedy,5,4,FALSE,961,9,UK,Cryptocurrency,Spanish,62,3.4,TRUE,Active,3556,Laptop,18-24,Evening
+9134,Stephanie,1/26/2023,11/19/2024,15.99,241,Sci-Fi,1,5,TRUE,775,194,France,Debit Card,Hindi,94,3.1,FALSE,Active,2901,Laptop,55+,Morning
+6663,Douglas,5/19/2024,12/7/2024,7.99,11,Documentary,4,1,TRUE,773,139,Germany,Debit Card,German,45,4.1,FALSE,Active,3520,Tablet,55+,Evening
+9800,Troy,12/31/2022,12/5/2024,15.99,123,Horror,1,1,TRUE,841,45,UK,PayPal,Hindi,76,4.3,TRUE,Active,3983,Smartphone,35-44,Late Night
+2363,Cindy,5/21/2023,12/1/2024,7.99,411,Documentary,3,2,TRUE,412,20,Australia,PayPal,Spanish,94,4.7,TRUE,Active,4632,Smartphone,25-34,Evening
+4875,Christopher,4/21/2024,11/23/2024,7.99,469,Comedy,2,1,FALSE,160,79,Germany,Debit Card,French,57,4.5,TRUE,Active,314,Smartphone,25-34,Late Night
+8961,Nathan,7/9/2023,12/7/2024,11.99,120,Horror,3,6,FALSE,346,125,USA,Cryptocurrency,German,25,4.1,FALSE,Active,4012,Desktop,25-34,Morning
+1539,Linda,8/29/2024,11/29/2024,15.99,348,Drama,1,5,TRUE,266,94,Australia,Debit Card,English,82,4.3,TRUE,Active,2356,Laptop,45-54,Morning
+4037,Tina,11/30/2023,12/14/2024,11.99,103,Romance,4,4,FALSE,305,191,Canada,PayPal,French,98,4.7,TRUE,Active,1824,Tablet,18-24,Afternoon
+4239,Christopher,11/18/2024,11/23/2024,7.99,470,Comedy,2,3,FALSE,89,135,India,Debit Card,Mandarin,45,4.5,FALSE,Active,4236,Smartphone,18-24,Morning
+4364,Victor,10/27/2024,12/1/2024,7.99,241,Romance,3,6,FALSE,905,127,India,PayPal,Spanish,93,4,FALSE,Active,2102,Desktop,35-44,Morning
+8946,Judy,5/18/2024,12/14/2024,15.99,277,Romance,3,5,FALSE,959,174,USA,PayPal,French,51,3.4,TRUE,Active,1876,Smartphone,25-34,Late Night
+5911,Stephanie,1/2/2024,12/10/2024,7.99,158,Romance,3,1,TRUE,426,7,France,Cryptocurrency,French,36,3.6,FALSE,Active,242,Tablet,55+,Morning
+8033,Rhonda,1/18/2024,11/28/2024,15.99,23,Romance,1,1,FALSE,585,97,Australia,Debit Card,Hindi,23,3.4,TRUE,Active,4531,Tablet,25-34,Evening
+6603,Amanda,1/30/2024,12/7/2024,11.99,200,Romance,4,5,FALSE,65,11,Australia,Cryptocurrency,French,30,3.2,TRUE,Active,959,Desktop,25-34,Afternoon
+9630,William,6/1/2023,11/26/2024,7.99,264,Drama,5,6,FALSE,367,163,Germany,Cryptocurrency,French,88,3.5,TRUE,Active,2156,Laptop,45-54,Late Night
+1691,Elizabeth,9/4/2023,12/7/2024,11.99,309,Sci-Fi,4,4,FALSE,891,93,Canada,Cryptocurrency,Spanish,65,4,TRUE,Active,1442,Smart TV,55+,Morning
+5590,Jennifer,7/27/2024,12/15/2024,7.99,30,Documentary,2,6,FALSE,468,196,UK,PayPal,Hindi,52,4.5,FALSE,Active,4586,Smartphone,18-24,Afternoon
+8645,Daniel,4/17/2024,11/29/2024,11.99,289,Sci-Fi,4,3,TRUE,999,22,USA,PayPal,Mandarin,50,4.3,TRUE,Active,4170,Smart TV,55+,Late Night
+7663,David,5/5/2024,11/28/2024,7.99,432,Documentary,5,4,TRUE,263,55,France,Credit Card,English,22,3.5,TRUE,Active,1294,Desktop,45-54,Morning
+2647,John,7/23/2024,12/17/2024,7.99,393,Horror,4,2,TRUE,487,105,Canada,PayPal,French,99,3.4,FALSE,Active,2460,Tablet,35-44,Morning
+6539,Katherine,4/19/2024,12/1/2024,11.99,203,Horror,1,3,FALSE,961,41,Australia,Debit Card,German,76,4.2,TRUE,Active,3276,Smart TV,55+,Late Night
+3472,James,9/19/2023,11/23/2024,7.99,43,Comedy,4,1,FALSE,973,7,UK,Credit Card,Hindi,76,4.1,TRUE,Active,941,Smartphone,55+,Morning
+4314,Alicia,7/10/2023,12/15/2024,7.99,311,Romance,3,5,TRUE,724,191,USA,PayPal,Hindi,55,4.7,TRUE,Active,4062,Smart TV,35-44,Morning
+6739,Richard,7/30/2024,12/1/2024,11.99,23,Documentary,5,3,FALSE,725,168,USA,Debit Card,Hindi,25,3.6,TRUE,Active,4322,Laptop,18-24,Late Night
+6368,Robert,8/28/2023,12/14/2024,11.99,370,Comedy,3,4,TRUE,973,152,Canada,Credit Card,Hindi,98,3.1,TRUE,Active,1456,Tablet,45-54,Afternoon
+7309,Emily,6/30/2024,11/19/2024,15.99,343,Documentary,2,2,FALSE,830,172,Canada,Credit Card,German,99,4.9,FALSE,Active,1281,Smart TV,45-54,Morning
+3976,Catherine,11/7/2023,12/3/2024,7.99,391,Sci-Fi,4,6,FALSE,726,176,Canada,Debit Card,French,65,3.8,FALSE,Active,1926,Laptop,45-54,Afternoon
+7230,Jeffrey,6/20/2024,12/13/2024,11.99,405,Drama,3,3,FALSE,90,151,Canada,Debit Card,German,64,4.1,FALSE,Active,1368,Smart TV,35-44,Late Night
+8888,Eric,4/22/2024,12/13/2024,15.99,14,Horror,5,1,FALSE,617,128,India,Debit Card,French,31,3.5,FALSE,Active,571,Smartphone,35-44,Evening
+1194,Richard,10/20/2024,12/2/2024,7.99,11,Horror,4,6,FALSE,246,96,France,PayPal,Spanish,56,4.6,TRUE,Active,3807,Laptop,55+,Morning
+6983,Jennifer,8/28/2024,12/7/2024,11.99,335,Sci-Fi,1,2,TRUE,484,54,UK,PayPal,French,51,4,TRUE,Active,3424,Smartphone,45-54,Evening
+1413,Charles,12/20/2022,11/30/2024,11.99,408,Sci-Fi,3,5,TRUE,418,198,USA,PayPal,Spanish,0,3,FALSE,Active,1428,Smartphone,18-24,Afternoon
+9509,Samantha,7/28/2024,11/26/2024,11.99,302,Action,2,2,FALSE,431,116,India,Debit Card,French,15,3.9,TRUE,Active,2387,Smart TV,45-54,Morning
+6330,Meghan,1/25/2024,12/4/2024,7.99,329,Sci-Fi,4,1,TRUE,973,163,USA,Cryptocurrency,English,78,4.2,TRUE,Active,218,Tablet,18-24,Evening
+2504,Calvin,8/22/2024,12/15/2024,11.99,328,Comedy,4,6,TRUE,858,159,UK,PayPal,German,75,4.6,TRUE,Active,68,Smartphone,45-54,Afternoon
+6593,Richard,8/13/2024,12/7/2024,11.99,353,Drama,3,6,FALSE,637,160,UK,Debit Card,English,67,5,TRUE,Active,2749,Desktop,45-54,Late Night
+9537,Richard,2/20/2024,11/20/2024,11.99,386,Comedy,3,3,FALSE,693,61,UK,Cryptocurrency,Hindi,48,3.8,FALSE,Active,4942,Smart TV,35-44,Afternoon
+9628,Maria,10/27/2023,12/11/2024,7.99,401,Comedy,5,6,FALSE,308,103,USA,Credit Card,Mandarin,98,3.1,TRUE,Active,1813,Laptop,35-44,Morning
+4024,Sarah,4/21/2023,12/7/2024,7.99,286,Drama,3,1,FALSE,843,26,UK,PayPal,German,11,3.5,FALSE,Active,318,Tablet,55+,Morning
+5321,Joseph,12/30/2023,12/10/2024,7.99,20,Romance,5,2,FALSE,895,40,Canada,Cryptocurrency,English,97,3.8,FALSE,Active,4216,Desktop,55+,Afternoon
+3926,Sheri,11/20/2024,11/25/2024,7.99,167,Romance,3,1,TRUE,466,69,France,Cryptocurrency,Mandarin,86,4.3,FALSE,Active,3003,Smart TV,35-44,Evening
+8738,Ashley,9/21/2024,11/29/2024,7.99,427,Romance,1,1,TRUE,886,17,UK,Debit Card,Mandarin,41,4.1,FALSE,Active,342,Smart TV,45-54,Afternoon
+2701,Victor,5/5/2024,12/1/2024,11.99,13,Drama,4,6,TRUE,537,121,Australia,Cryptocurrency,Spanish,17,3.1,TRUE,Active,2124,Desktop,55+,Morning
+5339,Tommy,2/19/2024,12/14/2024,15.99,53,Action,5,5,FALSE,524,161,France,Cryptocurrency,German,65,4.9,FALSE,Active,1016,Desktop,45-54,Afternoon
+1612,Trevor,5/23/2023,12/4/2024,7.99,197,Action,1,2,TRUE,409,22,India,Debit Card,German,64,4.3,TRUE,Active,1925,Tablet,35-44,Morning
+5407,William,10/13/2023,12/4/2024,7.99,429,Horror,3,5,FALSE,988,115,USA,Credit Card,Spanish,19,4.3,TRUE,Active,3773,Laptop,25-34,Late Night
+8225,Darrell,5/8/2024,11/24/2024,15.99,282,Horror,1,1,TRUE,386,177,Germany,PayPal,Spanish,17,3.4,TRUE,Active,1231,Laptop,55+,Afternoon
+4714,Dana,10/13/2024,11/20/2024,11.99,248,Sci-Fi,5,6,FALSE,996,24,Australia,Debit Card,German,53,3.3,TRUE,Active,62,Desktop,25-34,Evening
+3826,Richard,10/2/2024,12/16/2024,11.99,406,Documentary,3,3,FALSE,369,13,USA,Cryptocurrency,Mandarin,82,4.7,FALSE,Active,1580,Tablet,55+,Late Night
+3781,Jasmine,12/17/2024,11/29/2024,15.99,249,Romance,1,4,TRUE,713,125,UK,PayPal,German,95,4.8,FALSE,Active,74,Laptop,18-24,Morning
+5635,Chelsea,10/18/2023,11/24/2024,7.99,12,Horror,2,4,FALSE,928,147,Australia,Debit Card,English,92,4.7,FALSE,Active,3452,Tablet,25-34,Late Night
+2291,Courtney,4/12/2023,12/1/2024,7.99,57,Action,2,6,TRUE,869,107,Australia,Credit Card,Spanish,67,4.3,FALSE,Active,4792,Desktop,18-24,Afternoon
+3119,Stacey,9/18/2024,12/13/2024,7.99,247,Romance,5,6,TRUE,563,185,Australia,Debit Card,Mandarin,3,4.8,FALSE,Active,4378,Smart TV,45-54,Evening
+5280,Kristy,3/25/2023,11/29/2024,7.99,25,Horror,5,2,TRUE,429,138,Australia,Credit Card,English,40,3.5,FALSE,Active,1713,Smartphone,55+,Late Night
+2546,Terri,5/17/2023,12/3/2024,15.99,425,Comedy,3,6,FALSE,236,37,Australia,Debit Card,English,49,4,FALSE,Active,1201,Smartphone,25-34,Evening
+5975,Jessica,9/24/2023,12/17/2024,7.99,315,Documentary,2,5,TRUE,889,80,Germany,Credit Card,German,52,4.4,TRUE,Active,416,Smart TV,55+,Afternoon
+9113,Aaron,9/13/2024,11/30/2024,7.99,466,Comedy,4,4,FALSE,785,12,UK,Debit Card,Spanish,94,4.9,FALSE,Active,17,Desktop,55+,Evening
+6250,Madison,7/8/2024,11/22/2024,15.99,207,Sci-Fi,3,6,FALSE,909,164,Canada,Credit Card,Hindi,75,4.2,TRUE,Active,4820,Laptop,45-54,Afternoon
+6190,Alyssa,11/17/2024,12/8/2024,7.99,248,Drama,5,2,FALSE,142,22,USA,Debit Card,Mandarin,94,4.2,FALSE,Active,1758,Tablet,55+,Late Night
+5713,Carlos,4/17/2024,11/24/2024,7.99,278,Drama,5,1,FALSE,743,180,USA,Cryptocurrency,Hindi,0,4.3,TRUE,Active,2568,Desktop,45-54,Morning
+1932,Scott,1/21/2024,12/17/2024,7.99,315,Documentary,1,2,FALSE,40,188,France,Debit Card,French,86,3.7,TRUE,Active,4235,Smartphone,45-54,Late Night
+6527,Debra,5/25/2023,11/23/2024,7.99,190,Romance,4,1,TRUE,400,151,Australia,PayPal,German,52,4.3,FALSE,Active,3775,Desktop,55+,Late Night
+9363,Ashley,10/5/2024,11/23/2024,11.99,190,Horror,2,1,FALSE,359,192,Germany,PayPal,English,38,4.4,TRUE,Active,92,Smartphone,45-54,Afternoon
+5019,Elizabeth,10/2/2024,12/12/2024,15.99,408,Documentary,4,3,FALSE,711,23,Germany,Credit Card,French,65,3.6,TRUE,Active,72,Laptop,25-34,Evening
+9258,Bianca,2/26/2024,12/6/2024,15.99,227,Documentary,2,1,FALSE,581,146,Germany,PayPal,Spanish,37,4.4,FALSE,Active,2488,Smartphone,18-24,Evening
+7512,Joann,12/13/2023,11/24/2024,11.99,479,Comedy,2,4,TRUE,923,182,India,Debit Card,Hindi,14,4.9,TRUE,Active,2666,Laptop,55+,Afternoon
+8195,Gail,4/17/2023,11/20/2024,11.99,415,Drama,3,1,FALSE,381,78,Germany,Debit Card,Mandarin,84,4.4,TRUE,Active,4221,Tablet,55+,Morning
+8242,Daniel,12/19/2022,12/4/2024,11.99,204,Romance,4,4,TRUE,706,153,Canada,PayPal,Hindi,94,3.7,TRUE,Active,4569,Smartphone,55+,Late Night
+2220,Felicia,10/21/2023,11/28/2024,15.99,205,Comedy,3,1,TRUE,792,103,Germany,PayPal,Mandarin,24,3.9,TRUE,Active,2695,Laptop,55+,Evening
+9308,Jennifer,9/30/2024,11/25/2024,11.99,64,Documentary,2,3,TRUE,221,4,USA,PayPal,Mandarin,88,3.7,TRUE,Active,48,Tablet,18-24,Afternoon
+3437,Susan,1/24/2023,12/5/2024,7.99,281,Sci-Fi,2,4,FALSE,770,74,Australia,Debit Card,German,12,4,FALSE,Active,1526,Laptop,35-44,Late Night
+8305,Ashley,1/26/2023,12/6/2024,11.99,78,Comedy,4,5,FALSE,914,22,France,Debit Card,German,14,4.5,FALSE,Active,4934,Smartphone,35-44,Late Night
+6773,Jeffrey,2/6/2024,11/29/2024,7.99,343,Drama,4,1,TRUE,492,187,USA,PayPal,French,75,4.9,TRUE,Active,628,Desktop,45-54,Late Night
+3010,Amanda,11/3/2024,11/24/2024,11.99,318,Sci-Fi,1,5,FALSE,925,191,Australia,PayPal,Mandarin,38,4.6,TRUE,Active,167,Tablet,25-34,Afternoon
+3622,Paul,8/16/2024,12/9/2024,7.99,444,Drama,3,5,FALSE,183,195,France,Cryptocurrency,Mandarin,36,4.7,FALSE,Active,1309,Smart TV,25-34,Morning
+6006,Mark,9/7/2024,11/19/2024,11.99,171,Horror,3,1,TRUE,889,54,France,Cryptocurrency,German,1,3.3,TRUE,Active,710,Smartphone,45-54,Late Night
+1338,Lisa,3/26/2023,12/2/2024,15.99,309,Romance,5,4,FALSE,174,172,Australia,Cryptocurrency,English,71,3.1,TRUE,Active,106,Smart TV,55+,Morning
+6722,Matthew,5/8/2023,11/27/2024,15.99,447,Comedy,5,2,FALSE,709,93,India,Debit Card,German,35,4.8,TRUE,Active,2652,Smart TV,25-34,Evening
+5871,Travis,7/13/2024,12/4/2024,7.99,120,Romance,3,5,TRUE,783,81,Canada,PayPal,Mandarin,52,4.3,FALSE,Active,4879,Laptop,55+,Afternoon
+9290,Reginald,11/9/2023,12/8/2024,15.99,168,Action,5,4,TRUE,304,196,USA,Debit Card,Spanish,44,4.1,FALSE,Active,1426,Smart TV,35-44,Afternoon
+8567,Jennifer,5/18/2024,12/13/2024,7.99,203,Sci-Fi,1,3,TRUE,738,96,Australia,Cryptocurrency,French,10,4,FALSE,Active,1504,Laptop,18-24,Afternoon
+5253,Debra,12/7/2023,11/24/2024,11.99,436,Comedy,5,5,TRUE,228,110,Australia,Cryptocurrency,Hindi,78,4.5,TRUE,Active,1518,Desktop,35-44,Morning
+8172,Ian,3/21/2024,12/17/2024,11.99,195,Romance,5,6,TRUE,997,107,Canada,Credit Card,French,78,4.9,FALSE,Active,708,Tablet,45-54,Evening
+2154,Cassie,12/11/2023,12/5/2024,7.99,454,Drama,5,1,TRUE,722,98,UK,Credit Card,Mandarin,36,3.4,FALSE,Active,4651,Tablet,35-44,Evening
+5013,Claudia,8/26/2023,11/24/2024,15.99,187,Drama,1,1,FALSE,316,10,UK,PayPal,English,8,4.7,FALSE,Active,4397,Smartphone,55+,Late Night
+4211,Kristina,10/7/2024,12/1/2024,7.99,277,Romance,1,3,TRUE,455,120,France,PayPal,Spanish,92,4.7,FALSE,Active,1360,Laptop,18-24,Afternoon
+4408,Melissa,9/28/2023,11/30/2024,7.99,257,Romance,3,6,TRUE,985,97,UK,Credit Card,Mandarin,88,3.9,TRUE,Active,4155,Desktop,18-24,Morning
+8473,Desiree,2/25/2023,12/12/2024,11.99,12,Documentary,4,6,FALSE,718,100,France,Debit Card,Mandarin,24,4.1,FALSE,Active,1289,Smartphone,18-24,Morning
+7510,Audrey,1/15/2023,11/29/2024,7.99,362,Romance,2,4,TRUE,923,57,France,PayPal,German,38,4.8,FALSE,Active,2922,Laptop,35-44,Afternoon
+5376,John,4/7/2023,11/26/2024,7.99,89,Romance,2,4,TRUE,174,178,Germany,PayPal,French,7,3.7,FALSE,Active,28,Laptop,35-44,Morning
+8005,Ryan,3/8/2023,12/14/2024,7.99,123,Documentary,5,5,TRUE,253,157,UK,PayPal,Spanish,85,4,FALSE,Active,3083,Smart TV,45-54,Late Night
+7439,Kim,8/25/2023,12/5/2024,15.99,427,Comedy,1,1,FALSE,479,98,USA,PayPal,English,18,3.8,TRUE,Active,547,Tablet,55+,Late Night
+3699,Lindsey,5/26/2023,11/24/2024,15.99,439,Romance,2,4,FALSE,932,98,France,Cryptocurrency,Hindi,58,4.9,FALSE,Active,239,Tablet,35-44,Afternoon
+3162,Michael,12/19/2022,12/13/2024,15.99,396,Horror,3,3,TRUE,175,17,USA,Credit Card,French,11,3.4,FALSE,Active,3516,Smartphone,35-44,Evening
+8798,Pamela,4/20/2023,12/15/2024,15.99,453,Horror,5,2,TRUE,591,169,Canada,PayPal,English,72,4.1,TRUE,Active,4031,Tablet,25-34,Evening
+6400,Jonathan,2/27/2024,12/14/2024,11.99,356,Horror,3,2,TRUE,776,40,USA,Credit Card,Mandarin,56,3.4,TRUE,Active,3408,Tablet,35-44,Evening
+9404,Michael,9/10/2023,12/3/2024,15.99,192,Sci-Fi,1,3,TRUE,229,54,Germany,PayPal,Spanish,87,3.1,FALSE,Active,3849,Smart TV,45-54,Afternoon
+8151,Mark,6/22/2024,11/24/2024,11.99,483,Romance,3,6,FALSE,730,98,Canada,Cryptocurrency,Mandarin,29,3.8,FALSE,Active,1813,Desktop,35-44,Evening
+7742,James,9/27/2024,11/22/2024,11.99,17,Comedy,2,3,TRUE,312,114,USA,PayPal,German,15,3.6,TRUE,Active,2084,Tablet,18-24,Morning
+4553,Janet,6/15/2023,11/27/2024,7.99,272,Documentary,1,6,FALSE,356,126,India,Debit Card,Mandarin,40,4.3,TRUE,Active,749,Smart TV,25-34,Morning
+6919,Jane,2/25/2023,11/24/2024,7.99,195,Action,4,3,TRUE,49,30,Canada,PayPal,German,68,4.4,FALSE,Active,3157,Smart TV,18-24,Morning
+7168,Tammy,1/10/2024,11/21/2024,11.99,416,Sci-Fi,3,1,TRUE,774,55,France,PayPal,French,41,3.3,FALSE,Active,173,Smartphone,18-24,Evening
+6474,Christopher,10/31/2023,11/19/2024,15.99,459,Documentary,5,5,TRUE,961,173,UK,PayPal,German,92,3.7,FALSE,Active,2925,Desktop,55+,Late Night
+4242,Robert,11/6/2023,12/15/2024,7.99,168,Horror,5,3,TRUE,539,48,Canada,Credit Card,Hindi,82,4.3,FALSE,Active,3182,Tablet,25-34,Late Night
+3395,Michael,3/26/2024,11/29/2024,7.99,307,Romance,5,6,FALSE,340,174,India,Cryptocurrency,Mandarin,11,4.5,TRUE,Active,2432,Smart TV,18-24,Evening
+8694,Norma,12/14/2023,12/3/2024,15.99,270,Comedy,2,3,TRUE,836,67,Australia,PayPal,French,51,4.5,TRUE,Active,414,Smart TV,18-24,Morning
+7150,Matthew,4/13/2023,12/7/2024,7.99,358,Action,4,6,TRUE,746,200,India,Debit Card,English,35,3.9,TRUE,Active,888,Laptop,45-54,Late Night
+4111,Tyler,4/23/2024,11/27/2024,11.99,301,Sci-Fi,2,2,TRUE,939,21,Germany,Credit Card,Mandarin,83,4.9,FALSE,Active,1058,Smart TV,55+,Morning
+3532,Richard,1/29/2023,12/15/2024,7.99,277,Action,2,4,FALSE,659,150,USA,Debit Card,English,79,3.9,TRUE,Active,2067,Smart TV,45-54,Evening
+5375,Wendy,12/31/2022,11/30/2024,15.99,423,Sci-Fi,5,2,TRUE,435,108,UK,Debit Card,English,44,4.6,FALSE,Active,3763,Laptop,45-54,Morning
+8881,Taylor,9/16/2024,11/24/2024,11.99,197,Drama,1,5,FALSE,292,169,France,Cryptocurrency,English,3,4.5,FALSE,Active,957,Desktop,45-54,Morning
+1235,William,10/31/2023,11/27/2024,15.99,100,Documentary,2,6,TRUE,103,36,India,Debit Card,Mandarin,68,3.7,FALSE,Active,3003,Tablet,55+,Late Night
+2533,Danielle,11/3/2023,11/23/2024,15.99,338,Action,4,2,FALSE,525,140,Australia,Credit Card,French,75,4.6,TRUE,Active,354,Smart TV,18-24,Afternoon
+2734,Bruce,6/6/2024,12/1/2024,11.99,130,Documentary,1,1,TRUE,428,119,France,Credit Card,French,53,4.5,TRUE,Active,4922,Tablet,35-44,Afternoon
+4129,Erin,12/31/2023,11/25/2024,11.99,383,Horror,5,4,TRUE,711,147,France,PayPal,Mandarin,68,3.9,TRUE,Active,2083,Laptop,18-24,Evening
+3762,Michelle,12/28/2023,11/30/2024,11.99,411,Action,5,6,TRUE,887,37,Australia,PayPal,French,66,3.9,TRUE,Active,2098,Desktop,45-54,Late Night
+4341,Marie,6/1/2023,12/7/2024,11.99,347,Horror,4,2,TRUE,546,12,Australia,PayPal,Spanish,31,3.1,FALSE,Active,2022,Smartphone,35-44,Evening
+6638,Cory,10/2/2023,12/11/2024,11.99,302,Comedy,4,2,TRUE,417,143,Canada,Debit Card,Mandarin,14,4.7,FALSE,Active,3791,Smartphone,55+,Afternoon
+5861,Angela,5/8/2023,12/3/2024,15.99,361,Romance,3,6,FALSE,407,126,Germany,Debit Card,Spanish,80,4.3,FALSE,Active,728,Laptop,35-44,Late Night
+8815,Brian,11/13/2023,12/1/2024,7.99,148,Documentary,1,1,TRUE,579,121,France,Cryptocurrency,Spanish,8,3.6,FALSE,Active,3448,Smart TV,45-54,Evening
+8793,Lisa,5/18/2024,11/21/2024,7.99,162,Sci-Fi,2,5,TRUE,672,57,Australia,Debit Card,Mandarin,16,4.3,FALSE,Active,3930,Laptop,18-24,Afternoon
+3469,Kimberly,8/6/2023,12/18/2024,7.99,379,Drama,3,5,TRUE,377,153,Australia,Cryptocurrency,Mandarin,67,3.6,TRUE,Active,3702,Smartphone,18-24,Afternoon
+3654,James,2/24/2024,12/14/2024,15.99,373,Comedy,2,6,TRUE,818,34,Canada,PayPal,English,57,3.8,TRUE,Active,2400,Desktop,45-54,Evening
+9555,Brian,8/2/2024,11/22/2024,11.99,354,Documentary,1,1,TRUE,225,1,UK,Cryptocurrency,Hindi,83,4.3,TRUE,Active,548,Tablet,55+,Evening
+4028,Juan,5/4/2024,12/9/2024,7.99,76,Horror,2,4,TRUE,324,113,Australia,Credit Card,French,87,4.9,FALSE,Active,4702,Laptop,25-34,Morning
+9499,Kevin,4/17/2023,12/14/2024,11.99,316,Action,1,3,FALSE,793,141,USA,PayPal,German,28,3.4,FALSE,Active,2821,Desktop,45-54,Morning
+8628,Lori,12/26/2022,11/29/2024,11.99,331,Horror,4,2,TRUE,133,143,UK,PayPal,Spanish,35,4.6,TRUE,Active,484,Laptop,55+,Late Night
+9942,Michael,8/4/2023,11/20/2024,15.99,418,Documentary,1,5,TRUE,260,161,Canada,Cryptocurrency,English,49,3.6,TRUE,Active,2871,Smart TV,25-34,Late Night
+4044,Cameron,6/4/2023,11/23/2024,15.99,309,Romance,5,5,FALSE,851,166,France,Cryptocurrency,Spanish,66,4,TRUE,Active,4783,Laptop,45-54,Afternoon
+8143,Mark,5/29/2024,12/11/2024,7.99,252,Drama,3,5,TRUE,105,118,Germany,Debit Card,German,52,4.4,TRUE,Active,2725,Laptop,25-34,Morning
+3984,Daniel,3/21/2023,12/1/2024,15.99,146,Comedy,4,6,FALSE,646,139,Germany,PayPal,German,27,3.7,TRUE,Active,4400,Tablet,18-24,Late Night
+9294,Jerry,2/20/2023,11/21/2024,11.99,352,Horror,4,4,TRUE,358,6,Canada,Debit Card,Mandarin,32,3.8,FALSE,Active,2218,Smartphone,25-34,Evening
+4769,Michael,3/6/2024,12/17/2024,7.99,43,Romance,5,3,TRUE,336,135,USA,PayPal,English,70,4,TRUE,Active,4552,Smartphone,18-24,Late Night
+8864,Michael,3/20/2024,11/29/2024,11.99,440,Drama,4,3,TRUE,80,143,UK,Cryptocurrency,German,2,3.4,FALSE,Active,4125,Tablet,35-44,Late Night
+1857,Brittney,6/4/2024,11/23/2024,15.99,376,Romance,2,2,FALSE,326,89,India,Cryptocurrency,Spanish,84,4.6,TRUE,Active,424,Laptop,55+,Late Night
+5566,Brian,12/18/2023,12/7/2024,11.99,137,Action,3,6,TRUE,699,70,Germany,PayPal,Spanish,25,3.9,TRUE,Active,2418,Laptop,35-44,Evening
+1373,Elizabeth,3/13/2023,12/12/2024,7.99,301,Action,2,5,FALSE,89,55,USA,Credit Card,French,54,4.2,TRUE,Active,756,Laptop,55+,Late Night
+6345,Thomas,1/1/2023,12/9/2024,7.99,410,Documentary,1,1,TRUE,909,99,Canada,PayPal,Mandarin,22,3.2,FALSE,Active,754,Smart TV,25-34,Evening
+3234,Jessica,1/1/2024,12/7/2024,11.99,298,Horror,2,1,FALSE,918,153,Australia,PayPal,Spanish,52,4.4,TRUE,Active,3476,Smart TV,18-24,Morning
+6998,Joshua,3/22/2024,12/2/2024,7.99,54,Sci-Fi,4,5,TRUE,285,66,India,Credit Card,English,43,3.8,FALSE,Active,290,Tablet,45-54,Late Night
+5809,Melissa,9/13/2024,11/19/2024,7.99,486,Horror,4,3,FALSE,463,171,UK,Debit Card,French,10,3.2,FALSE,Active,987,Desktop,55+,Evening
+6522,Bryan,9/10/2023,11/27/2024,11.99,38,Comedy,1,4,TRUE,875,115,Canada,Cryptocurrency,German,75,4.7,TRUE,Active,4972,Smart TV,18-24,Late Night
+3892,Amanda,7/21/2023,12/3/2024,7.99,442,Action,3,6,TRUE,875,70,Canada,PayPal,German,96,3.7,FALSE,Active,1628,Desktop,35-44,Evening
+4427,Walter,6/17/2023,11/28/2024,7.99,474,Horror,3,5,TRUE,341,165,Australia,Cryptocurrency,Mandarin,30,4.8,FALSE,Active,1285,Smartphone,45-54,Evening
+8145,Samuel,2/10/2023,11/21/2024,15.99,96,Comedy,5,1,TRUE,273,79,UK,PayPal,English,60,4.3,FALSE,Active,1960,Desktop,25-34,Afternoon
+1150,John,10/23/2023,11/29/2024,11.99,160,Horror,5,5,TRUE,352,31,India,PayPal,Hindi,37,3.7,TRUE,Active,771,Tablet,25-34,Afternoon
+7366,Dylan,6/22/2024,12/15/2024,7.99,451,Comedy,3,3,FALSE,588,147,Germany,Debit Card,German,75,3.3,TRUE,Active,1785,Tablet,45-54,Evening
+3004,Joseph,10/22/2024,12/18/2024,11.99,184,Documentary,3,4,FALSE,233,15,Canada,Cryptocurrency,Mandarin,28,3.5,TRUE,Active,2760,Smart TV,45-54,Late Night
+9934,Heather,12/28/2023,12/16/2024,15.99,50,Drama,2,6,TRUE,159,131,Australia,Debit Card,Mandarin,49,3.8,FALSE,Active,388,Desktop,25-34,Afternoon
+1228,Cassandra,3/29/2023,12/14/2024,7.99,299,Horror,3,1,FALSE,488,135,Germany,Debit Card,German,100,4.8,FALSE,Active,2385,Desktop,45-54,Afternoon
+5806,Marisa,8/1/2024,12/15/2024,7.99,495,Drama,5,6,FALSE,522,32,Australia,Cryptocurrency,French,41,3.9,TRUE,Active,3714,Tablet,55+,Afternoon
+7538,Samantha,5/12/2024,11/26/2024,7.99,132,Horror,4,5,TRUE,30,177,USA,PayPal,French,31,5,FALSE,Active,2015,Smart TV,45-54,Evening
+1035,Katherine,2/16/2024,11/22/2024,11.99,395,Romance,2,4,TRUE,139,29,Germany,Debit Card,Spanish,44,3.9,TRUE,Active,3201,Tablet,45-54,Morning
+8399,Diana,3/5/2023,12/3/2024,11.99,34,Action,1,2,TRUE,393,130,UK,Cryptocurrency,Mandarin,10,3.9,FALSE,Active,3426,Laptop,35-44,Late Night
+1912,Stephen,7/28/2023,12/14/2024,11.99,348,Romance,1,4,FALSE,792,67,Australia,Cryptocurrency,French,60,4.1,FALSE,Active,3366,Desktop,35-44,Late Night
+6604,Lisa,6/16/2024,11/22/2024,15.99,247,Romance,5,4,FALSE,186,158,UK,Cryptocurrency,Spanish,19,3.8,FALSE,Active,125,Tablet,45-54,Evening
+8952,Kristin,2/8/2023,11/22/2024,11.99,216,Romance,1,1,FALSE,872,150,France,Credit Card,English,10,3.8,TRUE,Active,4037,Tablet,18-24,Late Night
+2549,Autumn,8/16/2024,11/26/2024,11.99,299,Comedy,4,6,FALSE,77,191,Australia,Cryptocurrency,English,85,3.4,TRUE,Active,4348,Desktop,45-54,Afternoon
+8954,Melissa,11/13/2023,11/27/2024,15.99,315,Comedy,2,1,TRUE,829,178,USA,Debit Card,Spanish,53,3.1,FALSE,Active,546,Smartphone,35-44,Evening
+1922,Tiffany,12/1/2024,12/3/2024,11.99,35,Documentary,2,4,FALSE,821,7,India,Debit Card,Mandarin,3,3.3,FALSE,Active,2785,Smart TV,35-44,Afternoon
+9861,Ashley,12/7/2023,12/16/2024,15.99,359,Comedy,3,1,FALSE,265,34,Australia,Credit Card,English,64,4.9,TRUE,Active,3308,Smartphone,25-34,Morning
+4383,Tracy,9/8/2024,11/30/2024,15.99,361,Action,4,5,TRUE,416,143,Australia,Credit Card,French,99,3.7,FALSE,Active,527,Smart TV,18-24,Morning
+4328,Amy,5/18/2023,11/24/2024,11.99,273,Action,3,4,TRUE,253,70,Germany,PayPal,English,42,4.9,FALSE,Active,837,Smartphone,25-34,Evening
+4622,Nicholas,11/20/2024,12/15/2024,7.99,47,Action,2,4,TRUE,770,2,Australia,Credit Card,English,46,4.7,TRUE,Active,371,Desktop,45-54,Afternoon
+7828,Angel,4/8/2023,12/2/2024,7.99,477,Horror,5,5,FALSE,969,12,France,Debit Card,English,37,4.7,FALSE,Active,877,Tablet,25-34,Late Night
+1393,Ryan,1/17/2023,12/3/2024,7.99,418,Action,3,4,TRUE,701,125,India,Debit Card,Hindi,68,4.8,TRUE,Active,4873,Tablet,25-34,Evening
+9239,Daniel,11/25/2024,11/21/2024,15.99,274,Drama,5,6,FALSE,732,105,UK,PayPal,Hindi,36,4.1,TRUE,Active,4194,Smart TV,45-54,Evening
+1636,Elizabeth,5/27/2023,12/6/2024,11.99,102,Romance,5,2,FALSE,989,44,Australia,Cryptocurrency,English,63,4.8,FALSE,Active,3118,Desktop,35-44,Late Night
+4401,Caitlin,4/14/2024,12/15/2024,15.99,164,Documentary,3,5,TRUE,89,32,Germany,Cryptocurrency,German,83,3,TRUE,Active,2088,Tablet,55+,Evening
+7135,Johnathan,12/12/2023,12/17/2024,15.99,478,Drama,4,5,TRUE,578,117,Germany,Credit Card,Hindi,27,4.9,FALSE,Active,3468,Smart TV,45-54,Morning
+8923,Douglas,12/11/2024,12/10/2024,11.99,100,Romance,3,4,FALSE,417,87,France,Credit Card,English,14,3.4,FALSE,Active,3183,Smart TV,35-44,Afternoon
+9748,Sherri,12/12/2023,12/7/2024,15.99,264,Romance,2,6,FALSE,474,10,USA,Cryptocurrency,German,18,4.7,TRUE,Active,4070,Smartphone,35-44,Morning
+7046,Eric,2/26/2023,12/10/2024,15.99,208,Horror,5,6,FALSE,512,176,Australia,PayPal,French,36,4.7,FALSE,Active,4147,Smartphone,55+,Afternoon
+9688,Mariah,1/16/2024,12/4/2024,7.99,56,Comedy,1,2,TRUE,280,67,France,Cryptocurrency,Spanish,21,4.6,FALSE,Active,255,Smartphone,25-34,Morning
+6720,Michael,7/8/2023,12/13/2024,15.99,207,Horror,2,2,TRUE,494,28,France,Cryptocurrency,German,99,3.6,FALSE,Active,3278,Desktop,55+,Late Night
+2766,Jerome,1/8/2023,11/25/2024,7.99,187,Documentary,2,3,TRUE,697,5,Australia,Debit Card,German,29,4.5,FALSE,Active,213,Smart TV,18-24,Morning
+3847,Cynthia,3/5/2024,11/23/2024,11.99,62,Action,3,1,TRUE,879,128,India,PayPal,Mandarin,56,3.4,FALSE,Active,2886,Laptop,25-34,Late Night
+8554,James,12/2/2023,11/21/2024,15.99,182,Romance,1,2,TRUE,442,87,USA,Credit Card,Mandarin,62,4.9,FALSE,Active,1901,Desktop,45-54,Evening
+6569,Patrick,10/31/2023,11/25/2024,7.99,468,Romance,2,3,FALSE,514,46,Canada,Debit Card,English,74,3.2,FALSE,Active,4456,Smartphone,25-34,Afternoon
+6391,Daniel,5/11/2024,11/24/2024,15.99,389,Drama,2,2,FALSE,120,191,UK,Debit Card,English,75,3.8,TRUE,Active,237,Desktop,18-24,Morning
+4883,Devon,2/7/2024,12/9/2024,15.99,155,Action,4,5,FALSE,573,190,India,Cryptocurrency,Spanish,86,3.5,TRUE,Active,4659,Tablet,35-44,Late Night
+4530,Rebecca,12/15/2023,11/26/2024,7.99,331,Action,1,6,TRUE,231,199,Germany,PayPal,Mandarin,93,3.4,FALSE,Active,4906,Desktop,55+,Late Night
+6531,Amanda,2/7/2023,12/12/2024,11.99,131,Sci-Fi,5,2,FALSE,374,154,France,Debit Card,German,81,4.4,FALSE,Active,1155,Laptop,35-44,Morning
+9701,Antonio,3/17/2023,11/26/2024,7.99,376,Sci-Fi,3,6,FALSE,727,13,UK,Cryptocurrency,German,5,3.4,FALSE,Active,4378,Desktop,25-34,Morning
+4702,Christina,3/31/2024,12/11/2024,7.99,106,Horror,4,6,TRUE,858,12,Australia,Debit Card,Mandarin,25,3.4,TRUE,Active,1674,Desktop,45-54,Afternoon
+3163,Gary,7/12/2024,11/30/2024,11.99,445,Comedy,4,4,FALSE,25,132,Germany,PayPal,Spanish,50,3.8,TRUE,Active,2407,Smart TV,25-34,Morning
+8719,Joshua,9/18/2023,11/26/2024,15.99,345,Documentary,4,5,FALSE,180,99,UK,Cryptocurrency,French,73,4.7,TRUE,Active,2636,Smartphone,18-24,Late Night
+1282,Amy,12/10/2024,11/27/2024,15.99,432,Horror,4,3,TRUE,666,76,Australia,Cryptocurrency,French,92,4.6,FALSE,Active,4020,Tablet,45-54,Late Night
+4538,Andrew,9/13/2023,12/14/2024,15.99,362,Drama,4,1,FALSE,709,52,USA,Credit Card,Spanish,80,4.5,TRUE,Active,4127,Smart TV,55+,Late Night
+9538,Amanda,1/25/2023,11/30/2024,15.99,174,Drama,4,3,FALSE,30,136,USA,Cryptocurrency,Mandarin,4,3.1,TRUE,Active,4503,Smartphone,35-44,Morning
+5109,David,4/24/2024,12/13/2024,11.99,490,Documentary,4,3,FALSE,466,106,Germany,Credit Card,French,91,3.7,FALSE,Active,1080,Desktop,18-24,Afternoon
+7947,Billy,11/11/2023,12/17/2024,15.99,32,Comedy,3,4,FALSE,385,106,UK,Credit Card,Spanish,75,3.7,FALSE,Active,1610,Laptop,35-44,Late Night
+7546,Elizabeth,10/24/2024,12/10/2024,7.99,48,Sci-Fi,1,4,FALSE,484,131,India,Cryptocurrency,English,68,4,FALSE,Active,1535,Smart TV,18-24,Afternoon
+4213,Kelsey,12/8/2023,11/23/2024,7.99,141,Action,4,2,TRUE,379,35,Canada,Cryptocurrency,Hindi,29,4.9,TRUE,Active,3840,Tablet,45-54,Late Night
+3135,Angela,6/7/2024,11/24/2024,7.99,368,Horror,5,1,FALSE,481,58,France,Cryptocurrency,German,97,4,FALSE,Active,1108,Desktop,25-34,Evening
+9916,Wendy,2/28/2024,11/21/2024,7.99,227,Comedy,5,2,TRUE,969,175,UK,Credit Card,Spanish,11,5,FALSE,Active,4510,Smart TV,35-44,Evening
+2784,Matthew,11/20/2023,12/13/2024,7.99,484,Documentary,5,2,TRUE,52,151,France,PayPal,French,15,3.1,FALSE,Active,1042,Tablet,18-24,Late Night
+5916,Lisa,9/18/2024,12/9/2024,15.99,14,Drama,4,2,TRUE,57,175,Germany,Debit Card,French,41,3.4,TRUE,Active,2175,Laptop,18-24,Evening
+1674,Jonathan,7/15/2024,12/15/2024,11.99,328,Comedy,2,2,TRUE,415,162,UK,PayPal,French,19,4.4,TRUE,Active,1311,Smartphone,35-44,Morning
+2095,Richard,8/13/2024,11/29/2024,11.99,279,Romance,5,5,TRUE,285,92,Canada,Cryptocurrency,Mandarin,81,4.7,TRUE,Active,4201,Laptop,55+,Late Night
+9594,Matthew,10/18/2024,12/3/2024,7.99,158,Action,2,5,TRUE,861,125,France,Credit Card,English,95,4.4,TRUE,Active,513,Laptop,18-24,Late Night
+6750,Amber,7/28/2023,12/2/2024,7.99,422,Sci-Fi,3,5,FALSE,399,27,France,Credit Card,English,12,4.4,TRUE,Active,1330,Smartphone,18-24,Afternoon
+7235,Zachary,1/3/2023,11/29/2024,7.99,235,Horror,1,2,FALSE,765,159,UK,Credit Card,Hindi,77,4.2,FALSE,Active,3689,Smart TV,45-54,Evening
+3910,Carolyn,12/31/2023,12/8/2024,11.99,331,Romance,1,2,FALSE,667,43,Australia,Debit Card,Mandarin,55,3.5,FALSE,Active,670,Tablet,18-24,Afternoon
+8190,Erica,8/29/2024,12/9/2024,11.99,148,Documentary,4,1,TRUE,409,38,France,Credit Card,English,37,3.1,TRUE,Active,544,Smart TV,35-44,Evening
+5315,Donna,6/23/2023,11/19/2024,7.99,198,Horror,4,3,FALSE,202,26,Canada,Cryptocurrency,French,52,4.8,FALSE,Active,1392,Laptop,25-34,Afternoon
+7503,James,5/19/2023,12/3/2024,15.99,81,Horror,3,4,FALSE,208,144,France,Debit Card,English,12,4.6,FALSE,Active,3199,Tablet,25-34,Morning
+5788,Nicole,5/5/2023,11/23/2024,11.99,131,Horror,3,3,TRUE,382,50,Germany,Credit Card,Spanish,47,4.8,FALSE,Active,4204,Laptop,25-34,Morning
+7030,Paige,3/19/2024,11/23/2024,15.99,210,Documentary,3,4,FALSE,666,164,USA,PayPal,Mandarin,38,4.2,FALSE,Active,1461,Smart TV,55+,Late Night
+6619,Cindy,6/17/2024,12/16/2024,15.99,301,Documentary,2,1,TRUE,855,46,India,Cryptocurrency,Spanish,26,4.4,FALSE,Active,658,Smartphone,35-44,Late Night
+6319,Todd,3/3/2023,12/16/2024,7.99,466,Romance,4,1,TRUE,592,67,France,Debit Card,French,81,4.8,FALSE,Active,423,Desktop,45-54,Morning
+6268,Alexander,1/17/2024,11/26/2024,15.99,336,Horror,5,2,FALSE,546,16,India,PayPal,English,31,3.6,TRUE,Active,2824,Smartphone,55+,Afternoon
+5016,Beth,7/29/2023,12/11/2024,11.99,280,Comedy,4,3,FALSE,633,83,USA,PayPal,Mandarin,49,3.3,FALSE,Active,2657,Smart TV,55+,Afternoon
+3888,Emily,5/18/2023,12/14/2024,15.99,495,Action,3,2,TRUE,883,60,Australia,Cryptocurrency,English,10,4.5,FALSE,Active,2213,Tablet,55+,Evening
+9918,Melissa,5/14/2024,12/12/2024,11.99,144,Documentary,5,6,FALSE,235,88,India,PayPal,Hindi,18,3.1,TRUE,Active,3455,Laptop,18-24,Morning
+7305,John,3/2/2023,12/2/2024,7.99,165,Romance,5,4,FALSE,267,146,USA,Credit Card,Spanish,34,4.2,TRUE,Active,3334,Tablet,25-34,Evening
+5719,Wendy,8/23/2023,12/16/2024,11.99,479,Documentary,5,2,FALSE,710,68,Germany,Cryptocurrency,French,54,4.6,FALSE,Active,105,Tablet,45-54,Afternoon
+2334,Jeffrey,2/26/2024,11/24/2024,11.99,285,Comedy,2,4,FALSE,805,42,UK,Debit Card,Hindi,90,4.5,FALSE,Active,1404,Smartphone,45-54,Morning
+1006,Sherry,8/31/2023,11/29/2024,11.99,93,Drama,4,6,FALSE,209,151,India,Credit Card,English,74,3,FALSE,Active,1017,Smart TV,55+,Morning
+6719,Cynthia,1/19/2023,11/25/2024,15.99,299,Horror,5,2,FALSE,803,197,Australia,Cryptocurrency,French,58,4.8,FALSE,Active,2812,Desktop,25-34,Evening
+6138,Patricia,1/9/2024,11/23/2024,15.99,10,Documentary,4,6,TRUE,236,183,India,Credit Card,English,86,3.8,FALSE,Active,959,Smartphone,45-54,Late Night
+1255,Kimberly,5/7/2023,12/10/2024,11.99,82,Documentary,4,3,TRUE,264,115,India,Cryptocurrency,French,30,4.7,TRUE,Active,1870,Smart TV,18-24,Afternoon
+5528,David,3/21/2024,12/10/2024,11.99,27,Action,3,6,TRUE,767,5,Australia,Debit Card,French,69,3.2,TRUE,Active,2984,Smart TV,45-54,Afternoon
+2517,Michael,4/29/2024,12/1/2024,7.99,105,Sci-Fi,2,1,TRUE,247,104,France,PayPal,Spanish,19,3.2,TRUE,Active,3379,Smartphone,35-44,Afternoon
+9593,Erika,10/12/2023,11/24/2024,15.99,330,Horror,3,1,TRUE,69,101,UK,PayPal,English,38,3,TRUE,Active,4990,Desktop,55+,Evening
+7507,Rachel,3/6/2024,12/10/2024,11.99,462,Documentary,2,4,TRUE,958,153,France,Credit Card,German,71,4.8,FALSE,Active,2554,Smart TV,35-44,Evening
+2884,Heather,11/30/2023,12/15/2024,15.99,250,Action,4,6,FALSE,271,50,Germany,Cryptocurrency,Hindi,34,4.7,FALSE,Active,4307,Tablet,18-24,Evening
+6374,Terri,7/7/2023,11/19/2024,15.99,30,Action,1,1,FALSE,178,162,India,PayPal,Mandarin,20,4.6,TRUE,Active,3124,Smartphone,45-54,Afternoon
+6888,Jose,5/8/2024,12/3/2024,15.99,364,Comedy,2,5,FALSE,865,104,USA,Credit Card,Mandarin,31,3.1,FALSE,Active,1261,Smartphone,35-44,Late Night
+2788,Keith,2/9/2023,12/6/2024,15.99,404,Comedy,2,2,FALSE,257,113,Germany,Credit Card,Mandarin,60,3.8,FALSE,Active,1290,Smart TV,35-44,Late Night
+7892,Nathan,5/2/2024,11/25/2024,7.99,499,Romance,4,3,FALSE,428,168,France,Credit Card,French,82,3.7,FALSE,Active,874,Smartphone,55+,Morning
+4576,Matthew,7/19/2024,12/16/2024,15.99,480,Drama,2,2,TRUE,994,78,Germany,Credit Card,Mandarin,39,4.3,TRUE,Active,1734,Tablet,25-34,Morning
+8901,Jimmy,1/9/2024,11/29/2024,11.99,417,Action,5,6,FALSE,476,37,USA,Cryptocurrency,Hindi,12,4.1,TRUE,Active,2444,Tablet,55+,Morning
+5147,Ashley,6/14/2023,12/14/2024,7.99,215,Comedy,5,4,TRUE,150,57,UK,PayPal,Hindi,76,4.5,FALSE,Active,1529,Smartphone,35-44,Late Night
+8646,Steven,12/21/2023,12/6/2024,7.99,234,Action,2,6,TRUE,580,149,UK,PayPal,French,31,3.8,TRUE,Active,1976,Laptop,55+,Late Night
+8343,Ashley,11/2/2024,12/17/2024,7.99,103,Action,2,6,FALSE,284,84,France,PayPal,English,30,4,FALSE,Active,3452,Smartphone,55+,Afternoon
+9332,Robert,5/29/2023,12/18/2024,15.99,191,Documentary,5,1,FALSE,688,192,USA,PayPal,Hindi,71,4,FALSE,Active,2610,Smart TV,18-24,Morning
+7398,Valerie,12/15/2023,12/15/2024,11.99,82,Drama,5,1,TRUE,93,46,Canada,PayPal,German,41,4.7,TRUE,Active,3152,Smartphone,25-34,Evening
+3572,Adam,4/4/2024,12/15/2024,11.99,468,Documentary,5,6,TRUE,799,44,India,PayPal,Spanish,98,4.9,FALSE,Active,4963,Tablet,18-24,Evening
+4590,Tracy,6/20/2023,12/3/2024,11.99,366,Romance,4,3,FALSE,327,1,UK,Debit Card,Hindi,56,3.6,TRUE,Active,3290,Desktop,55+,Late Night
+1831,Jennifer,10/12/2024,12/11/2024,7.99,53,Sci-Fi,1,4,FALSE,685,127,Germany,Credit Card,English,26,4.1,TRUE,Active,2596,Smart TV,45-54,Late Night
+6899,Paul,4/5/2023,12/5/2024,15.99,102,Horror,1,1,TRUE,604,107,France,Cryptocurrency,French,9,4.3,FALSE,Active,745,Tablet,25-34,Late Night
+1148,Jennifer,5/30/2024,11/28/2024,15.99,259,Action,1,5,TRUE,597,165,Germany,Cryptocurrency,German,33,4.2,TRUE,Active,668,Tablet,25-34,Morning
+3745,Angela,9/12/2024,12/16/2024,11.99,81,Romance,2,4,FALSE,451,49,Canada,Debit Card,English,11,4.7,TRUE,Active,3282,Tablet,35-44,Late Night
+5084,Miranda,10/25/2023,11/22/2024,11.99,135,Action,4,6,FALSE,50,15,Canada,Credit Card,French,91,4.4,FALSE,Active,1510,Smart TV,55+,Late Night
+7179,Michael,9/9/2023,11/29/2024,11.99,465,Comedy,2,3,TRUE,987,91,France,Debit Card,Mandarin,8,4.6,TRUE,Active,1206,Smartphone,35-44,Morning
+1005,Joseph,2/21/2023,12/10/2024,11.99,163,Horror,2,1,FALSE,817,182,India,Credit Card,English,43,4.6,TRUE,Active,168,Laptop,55+,Afternoon
+6405,Adam,4/14/2023,12/11/2024,11.99,321,Comedy,1,6,TRUE,361,12,India,Cryptocurrency,German,72,4.9,TRUE,Active,1303,Tablet,18-24,Late Night
+5215,Robert,4/17/2023,12/17/2024,7.99,212,Romance,5,5,FALSE,146,147,UK,Debit Card,French,23,3.4,FALSE,Active,1365,Smart TV,18-24,Afternoon
+7525,Michelle,6/26/2024,12/18/2024,15.99,453,Action,1,4,FALSE,313,1,Germany,PayPal,English,7,3.7,TRUE,Active,1563,Smart TV,25-34,Morning
+9115,Jennifer,7/17/2024,12/17/2024,11.99,34,Comedy,1,1,FALSE,80,71,Canada,Credit Card,German,55,3.6,FALSE,Active,1172,Laptop,45-54,Late Night
+6454,Nicholas,4/8/2024,12/15/2024,15.99,197,Comedy,1,4,TRUE,860,42,USA,Credit Card,French,97,4,TRUE,Active,1704,Tablet,35-44,Afternoon
+4781,Sierra,4/25/2024,12/1/2024,15.99,361,Comedy,5,3,TRUE,67,66,India,PayPal,German,3,3.7,TRUE,Active,4421,Tablet,55+,Evening
+5040,Andre,12/4/2023,12/2/2024,11.99,166,Sci-Fi,5,2,TRUE,178,61,France,Debit Card,French,30,3.1,FALSE,Active,2964,Smartphone,18-24,Late Night
+3209,Ann,11/20/2023,11/26/2024,7.99,168,Documentary,3,1,FALSE,113,85,UK,Cryptocurrency,Spanish,52,4.7,FALSE,Active,1094,Smartphone,18-24,Evening
+8703,Ryan,7/6/2024,11/22/2024,15.99,336,Drama,1,4,TRUE,855,186,Canada,PayPal,Mandarin,54,3.6,FALSE,Active,3674,Tablet,25-34,Late Night
+2536,Christopher,2/26/2024,12/14/2024,15.99,212,Horror,2,4,FALSE,608,96,France,Cryptocurrency,Mandarin,76,4,FALSE,Active,296,Smart TV,55+,Afternoon
+2057,Jocelyn,4/25/2023,11/23/2024,7.99,185,Horror,3,6,TRUE,804,49,USA,Credit Card,Mandarin,32,4.1,FALSE,Active,4164,Smartphone,35-44,Morning
+5627,Kara,1/7/2024,12/5/2024,11.99,124,Sci-Fi,4,2,TRUE,207,140,USA,Cryptocurrency,Hindi,44,4.8,TRUE,Active,3349,Laptop,45-54,Evening
+4763,Dustin,2/12/2024,12/5/2024,15.99,256,Action,1,1,FALSE,118,104,Australia,Debit Card,Mandarin,8,3.5,FALSE,Active,2830,Desktop,45-54,Evening
+4577,Kevin,6/22/2024,12/11/2024,11.99,58,Comedy,1,6,FALSE,983,8,UK,Credit Card,English,75,4.3,TRUE,Active,2409,Tablet,55+,Afternoon
+5216,Tammy,9/22/2024,11/21/2024,15.99,135,Comedy,3,2,FALSE,523,159,USA,Debit Card,Hindi,11,4.8,TRUE,Active,2872,Laptop,25-34,Late Night
+3941,Krista,9/16/2024,11/29/2024,11.99,163,Romance,5,2,FALSE,786,94,UK,Cryptocurrency,Mandarin,18,4.6,TRUE,Active,1364,Laptop,25-34,Evening
+4396,Jesse,1/2/2023,12/17/2024,15.99,120,Drama,2,3,FALSE,781,97,Canada,Credit Card,English,46,3.3,TRUE,Active,473,Smart TV,18-24,Evening
+4865,Charles,12/20/2023,11/28/2024,7.99,439,Sci-Fi,1,5,TRUE,434,104,France,PayPal,Hindi,36,4.5,TRUE,Active,4883,Smartphone,55+,Morning
+2497,Diana,7/28/2023,11/30/2024,7.99,223,Documentary,1,4,FALSE,824,125,UK,Credit Card,Hindi,56,4.5,TRUE,Active,99,Smart TV,18-24,Evening
+4945,Alexander,5/4/2024,11/22/2024,11.99,485,Romance,1,1,TRUE,230,21,Canada,PayPal,Spanish,83,4.1,FALSE,Active,2284,Smartphone,45-54,Afternoon
+5227,Eugene,2/15/2024,12/6/2024,7.99,474,Drama,3,6,TRUE,358,147,USA,Cryptocurrency,Hindi,44,3.9,TRUE,Active,3505,Tablet,25-34,Morning
+2150,Danielle,4/12/2024,12/9/2024,11.99,259,Horror,2,1,FALSE,380,9,USA,Cryptocurrency,Mandarin,49,3.2,FALSE,Active,412,Smartphone,55+,Evening
+7145,Abigail,10/28/2024,11/22/2024,7.99,53,Drama,2,1,FALSE,647,165,USA,PayPal,Spanish,88,4,FALSE,Active,4867,Tablet,45-54,Late Night
+2040,Hayden,10/11/2024,11/30/2024,7.99,221,Horror,1,3,TRUE,518,157,Australia,Cryptocurrency,English,4,3.7,TRUE,Active,2560,Laptop,18-24,Late Night
+4191,Barbara,4/19/2023,12/3/2024,7.99,46,Horror,2,4,FALSE,33,120,Germany,Cryptocurrency,Hindi,77,3.9,TRUE,Active,4269,Tablet,35-44,Evening
+4336,Jennifer,8/2/2023,12/11/2024,15.99,253,Documentary,4,2,FALSE,660,151,UK,Cryptocurrency,Hindi,43,3.4,TRUE,Active,1317,Smartphone,18-24,Late Night
+5438,Lindsey,10/6/2023,11/30/2024,11.99,478,Drama,1,6,TRUE,517,200,France,Debit Card,Hindi,41,4.8,FALSE,Active,2936,Smart TV,45-54,Late Night
+9857,April,9/26/2023,12/2/2024,7.99,145,Action,2,5,FALSE,882,23,Germany,Cryptocurrency,French,79,5,TRUE,Active,905,Smart TV,45-54,Morning
+4767,Charles,12/19/2023,11/24/2024,15.99,366,Documentary,1,3,TRUE,349,50,Australia,Cryptocurrency,French,21,5,TRUE,Active,4513,Smartphone,25-34,Late Night
+9374,John,12/17/2024,12/1/2024,15.99,301,Action,4,6,FALSE,619,172,USA,Debit Card,English,37,4.2,TRUE,Active,1153,Tablet,45-54,Evening
+3918,Jennifer,10/17/2023,11/28/2024,7.99,26,Action,4,5,FALSE,416,146,UK,Debit Card,Mandarin,41,3.5,TRUE,Active,1506,Smart TV,35-44,Evening
+9866,Matthew,7/12/2024,12/17/2024,11.99,208,Drama,1,1,FALSE,466,174,USA,Credit Card,English,51,4,TRUE,Active,3817,Smartphone,35-44,Evening
+6389,Brittney,12/23/2022,12/18/2024,11.99,109,Documentary,2,3,FALSE,701,4,Canada,PayPal,Hindi,64,3.5,FALSE,Active,4662,Laptop,35-44,Afternoon
+8733,Steven,6/6/2024,12/16/2024,15.99,451,Horror,4,4,TRUE,742,140,Australia,Debit Card,English,37,4.1,TRUE,Active,3708,Smart TV,35-44,Afternoon
+8105,Mary,9/23/2023,11/26/2024,15.99,33,Drama,4,5,TRUE,228,42,India,Credit Card,Hindi,21,4,TRUE,Active,1256,Smartphone,35-44,Late Night
+3443,Kevin,3/1/2024,12/5/2024,15.99,467,Documentary,4,2,FALSE,18,34,Australia,Cryptocurrency,French,100,4.1,TRUE,Active,1792,Smartphone,18-24,Afternoon
+2664,Charles,10/15/2023,11/27/2024,7.99,123,Comedy,2,3,TRUE,826,79,Germany,Credit Card,German,34,3.5,FALSE,Active,402,Desktop,18-24,Evening
+1782,Carla,5/1/2023,11/29/2024,15.99,139,Romance,1,4,TRUE,357,44,India,Debit Card,Spanish,67,4.1,FALSE,Active,1271,Desktop,45-54,Evening
+1337,Shane,4/20/2023,12/16/2024,7.99,103,Romance,2,1,FALSE,474,2,Germany,PayPal,German,31,3.5,FALSE,Active,4537,Smart TV,18-24,Afternoon
+5901,Robert,4/6/2023,12/18/2024,7.99,207,Horror,5,5,TRUE,946,166,France,Cryptocurrency,Hindi,96,4.6,FALSE,Active,4815,Tablet,55+,Evening
+2731,Brooke,6/11/2024,12/13/2024,15.99,267,Romance,5,5,TRUE,890,187,UK,PayPal,French,98,3,TRUE,Active,3510,Laptop,45-54,Morning
+8307,Carmen,1/4/2024,12/6/2024,7.99,266,Horror,5,3,TRUE,583,131,Canada,Debit Card,Mandarin,0,4,FALSE,Active,4789,Tablet,35-44,Morning
+8019,Stefanie,2/19/2023,11/19/2024,11.99,240,Comedy,4,1,FALSE,304,25,Canada,PayPal,German,66,4.6,FALSE,Active,863,Smart TV,18-24,Evening
+4847,Melissa,12/1/2024,11/30/2024,15.99,315,Horror,1,6,FALSE,205,92,India,PayPal,English,67,3.5,FALSE,Active,1584,Tablet,55+,Late Night
+9822,Justin,6/23/2023,12/13/2024,7.99,276,Comedy,4,1,TRUE,348,13,India,Cryptocurrency,German,34,4.7,FALSE,Active,3178,Smart TV,55+,Afternoon
+9141,Jeffery,10/30/2023,11/25/2024,7.99,308,Drama,1,5,FALSE,107,87,Canada,Cryptocurrency,French,17,3.4,FALSE,Active,4108,Desktop,18-24,Late Night
+7539,Kara,9/1/2023,12/8/2024,7.99,297,Horror,1,6,TRUE,959,71,Germany,Cryptocurrency,French,82,3.3,TRUE,Active,2562,Tablet,25-34,Afternoon
+1390,Xavier,7/28/2024,11/29/2024,11.99,326,Horror,4,1,FALSE,439,88,France,Debit Card,English,3,3.3,TRUE,Active,3499,Smart TV,25-34,Afternoon
+9505,Paul,6/26/2024,12/4/2024,15.99,352,Comedy,4,6,FALSE,757,13,France,Debit Card,Hindi,67,4.3,TRUE,Active,3645,Tablet,35-44,Afternoon
+6741,Jacob,10/28/2023,11/20/2024,7.99,180,Sci-Fi,5,2,TRUE,647,2,Canada,Cryptocurrency,French,9,3.5,FALSE,Active,2989,Smartphone,55+,Afternoon
+1790,Kelly,3/11/2024,12/1/2024,11.99,362,Sci-Fi,2,2,FALSE,535,200,Germany,Debit Card,Hindi,60,4.9,TRUE,Active,55,Tablet,18-24,Late Night
+6491,Anita,1/15/2023,11/28/2024,7.99,154,Action,5,4,TRUE,340,53,Germany,Credit Card,English,31,4.4,FALSE,Active,1850,Desktop,55+,Late Night
+3102,Carolyn,9/3/2024,11/27/2024,7.99,287,Drama,1,2,FALSE,670,147,USA,Debit Card,Hindi,42,4.3,TRUE,Active,4672,Smartphone,18-24,Evening
+1300,Nicolas,6/27/2023,12/16/2024,11.99,303,Romance,3,6,TRUE,780,128,France,Debit Card,English,12,4.6,TRUE,Active,2615,Desktop,35-44,Morning
+5410,Hector,7/6/2023,12/1/2024,15.99,447,Horror,1,5,FALSE,615,132,Australia,Cryptocurrency,Mandarin,88,3.9,FALSE,Active,4927,Laptop,45-54,Morning
+2714,Jack,12/9/2024,11/28/2024,11.99,480,Sci-Fi,4,6,TRUE,277,25,Germany,Credit Card,French,41,4.8,FALSE,Active,3069,Tablet,35-44,Afternoon
+4700,David,11/16/2024,12/4/2024,7.99,438,Action,4,4,TRUE,546,88,UK,Cryptocurrency,French,36,3.5,FALSE,Active,1906,Laptop,55+,Afternoon
+7589,Amanda,8/7/2023,12/2/2024,15.99,295,Horror,2,5,FALSE,514,102,Germany,PayPal,German,3,4.8,FALSE,Active,105,Smartphone,45-54,Afternoon
+6866,Kim,5/18/2024,11/24/2024,11.99,479,Horror,1,3,TRUE,952,48,USA,Credit Card,English,54,4.6,TRUE,Active,4,Desktop,55+,Evening
+6960,Julian,11/12/2023,11/26/2024,15.99,214,Documentary,5,6,TRUE,780,16,France,PayPal,French,1,3.3,TRUE,Active,1651,Smart TV,55+,Evening
+5808,Jasmine,3/22/2024,11/19/2024,15.99,69,Action,4,5,FALSE,976,105,USA,Cryptocurrency,Mandarin,50,4.7,TRUE,Active,1828,Tablet,45-54,Evening
+5525,John,10/5/2023,12/6/2024,15.99,344,Action,5,2,FALSE,91,137,Germany,Cryptocurrency,German,37,3.4,TRUE,Active,396,Smart TV,35-44,Late Night
+1272,Christopher,7/17/2024,11/20/2024,15.99,163,Comedy,5,1,FALSE,683,108,UK,Cryptocurrency,Mandarin,10,4.2,FALSE,Active,809,Smartphone,55+,Evening
+8063,Joseph,6/27/2023,12/12/2024,7.99,217,Comedy,1,6,FALSE,53,153,Canada,PayPal,Spanish,2,3.1,TRUE,Active,1431,Laptop,55+,Evening
+1856,Jason,9/23/2023,12/11/2024,15.99,177,Horror,3,2,TRUE,246,182,Germany,Debit Card,Spanish,89,3.1,FALSE,Active,2394,Tablet,18-24,Afternoon
+2830,Erica,5/3/2023,12/8/2024,11.99,304,Comedy,1,1,TRUE,389,137,India,Cryptocurrency,French,2,4.8,TRUE,Active,4685,Desktop,55+,Morning
+3287,Travis,12/20/2023,11/21/2024,15.99,90,Horror,3,2,FALSE,399,9,France,PayPal,Mandarin,73,4.4,TRUE,Active,4332,Smartphone,55+,Afternoon
+5679,Karen,10/31/2023,12/6/2024,15.99,108,Action,4,2,FALSE,694,199,UK,Cryptocurrency,Mandarin,81,5,FALSE,Active,851,Laptop,45-54,Afternoon
+6399,Michael,1/1/2023,12/5/2024,11.99,96,Documentary,3,2,FALSE,434,11,USA,Credit Card,French,80,4.6,FALSE,Active,2261,Laptop,18-24,Afternoon
+8753,Daniel,2/17/2024,11/30/2024,11.99,247,Action,2,3,FALSE,696,28,Germany,Debit Card,French,79,4.8,FALSE,Active,1500,Smartphone,55+,Late Night
+9267,Paul,5/7/2024,11/24/2024,15.99,245,Romance,3,5,TRUE,862,129,India,Debit Card,Mandarin,6,3.7,TRUE,Active,2130,Tablet,25-34,Evening
+9846,Megan,2/13/2023,12/13/2024,7.99,366,Drama,4,5,FALSE,631,56,France,PayPal,Spanish,35,4.1,FALSE,Active,4308,Desktop,35-44,Late Night
+2382,Todd,6/10/2024,12/9/2024,15.99,170,Sci-Fi,1,3,FALSE,144,142,India,Cryptocurrency,Hindi,81,4.7,TRUE,Active,421,Laptop,25-34,Afternoon
+3593,Emma,9/16/2023,11/24/2024,7.99,447,Documentary,3,1,TRUE,466,198,India,Cryptocurrency,Hindi,3,4.5,FALSE,Active,2163,Laptop,35-44,Late Night
+4097,Amanda,4/17/2023,12/16/2024,7.99,369,Horror,3,1,FALSE,759,56,Australia,PayPal,Hindi,30,4,FALSE,Active,3354,Tablet,18-24,Late Night
+2886,Mark,6/24/2023,11/26/2024,15.99,62,Comedy,5,1,FALSE,811,109,Germany,Cryptocurrency,German,14,3.1,FALSE,Active,3702,Laptop,55+,Morning
+3255,Dylan,1/6/2024,11/27/2024,7.99,294,Horror,1,3,TRUE,936,120,France,Debit Card,Spanish,49,3.2,TRUE,Active,3758,Tablet,35-44,Afternoon
+6752,Garrett,4/24/2024,12/9/2024,11.99,10,Documentary,2,4,FALSE,146,95,Australia,Credit Card,Spanish,99,3.8,TRUE,Active,3942,Tablet,35-44,Afternoon
+7945,Jason,4/15/2023,11/29/2024,11.99,389,Horror,2,2,TRUE,631,85,Australia,Debit Card,Spanish,53,3.3,TRUE,Active,2242,Desktop,55+,Afternoon
+6658,Michael,4/1/2024,12/5/2024,7.99,55,Sci-Fi,5,6,FALSE,682,141,USA,Debit Card,Hindi,42,3.6,TRUE,Active,2561,Desktop,45-54,Late Night
+5468,Jonathon,4/2/2024,11/20/2024,11.99,208,Romance,4,6,TRUE,135,9,USA,PayPal,Hindi,41,3,TRUE,Active,2465,Tablet,35-44,Late Night
+7451,Sarah,7/24/2024,12/9/2024,15.99,198,Sci-Fi,5,5,TRUE,255,183,Canada,Debit Card,French,92,4.9,FALSE,Active,4435,Tablet,18-24,Morning
+1253,Michael,7/9/2024,12/5/2024,11.99,280,Horror,1,1,TRUE,702,58,France,PayPal,French,13,3.2,FALSE,Active,4116,Smartphone,45-54,Afternoon
+6746,Caitlin,11/2/2024,11/28/2024,7.99,161,Comedy,2,5,FALSE,151,109,UK,Cryptocurrency,English,27,3.3,FALSE,Active,944,Smart TV,35-44,Afternoon
+8089,Samantha,6/8/2024,11/27/2024,7.99,439,Action,2,2,TRUE,421,138,India,Debit Card,Spanish,14,4.1,FALSE,Active,4219,Smart TV,35-44,Morning
+8045,Joseph,11/3/2023,12/2/2024,7.99,339,Romance,5,5,TRUE,354,129,France,Cryptocurrency,French,14,3.9,FALSE,Active,4311,Desktop,45-54,Late Night
+9417,Joshua,10/15/2024,11/28/2024,11.99,52,Action,4,4,FALSE,377,135,UK,Credit Card,Spanish,90,4.1,TRUE,Active,1972,Smart TV,25-34,Evening
+3217,Ashley,5/8/2024,12/16/2024,15.99,297,Comedy,5,3,FALSE,796,200,France,Cryptocurrency,French,36,3.1,TRUE,Active,2132,Smartphone,55+,Evening
+4234,Michael,1/8/2023,11/19/2024,15.99,40,Documentary,5,1,TRUE,841,179,Australia,PayPal,German,59,3.5,TRUE,Active,2370,Smart TV,55+,Afternoon
+1118,Erin,2/7/2024,12/11/2024,15.99,379,Action,2,1,TRUE,885,110,UK,Debit Card,Spanish,43,4.2,TRUE,Active,1312,Smart TV,55+,Evening
+4027,Jason,4/13/2024,11/24/2024,15.99,82,Horror,2,3,FALSE,999,190,France,PayPal,Spanish,57,3.1,TRUE,Active,4920,Tablet,35-44,Afternoon
+8451,Grace,3/2/2023,11/23/2024,11.99,192,Action,3,3,FALSE,585,82,Germany,Cryptocurrency,Hindi,59,4.1,TRUE,Active,2897,Smart TV,45-54,Morning
+6647,Jennifer,10/19/2024,11/29/2024,15.99,286,Drama,5,2,FALSE,617,89,Canada,PayPal,German,64,3.2,TRUE,Active,1275,Smartphone,45-54,Afternoon
+4002,Timothy,4/7/2024,12/11/2024,11.99,452,Horror,2,6,FALSE,196,132,France,Cryptocurrency,Spanish,84,3.7,TRUE,Active,340,Tablet,18-24,Evening
+6910,Ann,3/3/2023,11/27/2024,7.99,417,Horror,4,5,FALSE,792,187,France,Cryptocurrency,English,5,4.6,TRUE,Active,444,Smart TV,25-34,Afternoon
+3164,Angela,9/22/2023,12/13/2024,15.99,371,Comedy,1,5,TRUE,466,176,Canada,Cryptocurrency,Hindi,73,4.9,FALSE,Active,292,Desktop,25-34,Morning
+2400,Matthew,11/9/2023,12/12/2024,15.99,110,Horror,2,5,TRUE,684,32,UK,PayPal,French,68,4,FALSE,Active,53,Laptop,25-34,Late Night
+5499,Rachel,6/24/2023,12/2/2024,15.99,274,Horror,2,1,TRUE,155,94,UK,Debit Card,German,96,3.5,FALSE,Active,1638,Desktop,35-44,Evening
+7221,Tammy,3/15/2024,11/25/2024,15.99,412,Sci-Fi,2,5,TRUE,450,147,Australia,Debit Card,Hindi,11,4.4,TRUE,Active,3542,Tablet,25-34,Late Night
+4556,Amy,2/10/2023,11/29/2024,11.99,341,Romance,4,1,TRUE,744,146,Australia,PayPal,English,75,4.4,FALSE,Active,4935,Smart TV,35-44,Morning
+7175,Desiree,11/13/2024,12/15/2024,11.99,388,Romance,3,6,FALSE,51,27,Canada,Debit Card,German,66,3.2,TRUE,Active,1216,Laptop,55+,Afternoon
+7072,Erika,2/7/2023,11/19/2024,15.99,446,Sci-Fi,1,4,TRUE,897,19,Germany,PayPal,English,14,3.5,TRUE,Active,4409,Desktop,25-34,Late Night
+4320,Laurie,1/1/2024,12/17/2024,15.99,223,Action,5,3,TRUE,499,124,Canada,PayPal,German,78,4.7,TRUE,Active,2853,Laptop,45-54,Morning
+3558,Melvin,1/1/2024,12/16/2024,15.99,417,Sci-Fi,5,4,FALSE,179,29,Canada,Credit Card,Mandarin,84,4.5,FALSE,Active,1252,Smart TV,35-44,Evening
+8581,Jose,12/16/2023,11/20/2024,11.99,390,Romance,5,1,TRUE,889,145,USA,PayPal,Hindi,60,4.5,TRUE,Active,3027,Smart TV,55+,Late Night
+5827,John,3/22/2023,12/2/2024,15.99,33,Comedy,4,2,FALSE,191,25,UK,Credit Card,German,44,4.5,TRUE,Active,1228,Laptop,45-54,Evening
+6929,Cynthia,10/29/2024,12/5/2024,11.99,302,Action,5,5,TRUE,42,196,India,Credit Card,Hindi,74,4.6,FALSE,Active,3616,Desktop,18-24,Evening
+9179,Kurt,12/11/2024,11/27/2024,15.99,121,Horror,4,5,TRUE,53,77,Australia,PayPal,Hindi,54,3.1,TRUE,Active,3913,Laptop,35-44,Morning
+7580,Mary,2/8/2023,11/21/2024,7.99,112,Horror,5,6,FALSE,535,43,UK,Cryptocurrency,English,89,3.1,TRUE,Active,775,Desktop,18-24,Evening
+3858,David,6/30/2023,12/5/2024,15.99,375,Romance,3,6,FALSE,416,79,France,PayPal,Hindi,33,3.2,TRUE,Active,2536,Desktop,55+,Evening
+8627,Melissa,9/17/2024,12/1/2024,11.99,97,Comedy,3,2,FALSE,287,39,France,PayPal,English,9,4.9,FALSE,Active,2331,Laptop,25-34,Evening
+7552,Glenda,6/8/2024,12/4/2024,15.99,306,Documentary,4,5,FALSE,651,60,Germany,Cryptocurrency,Mandarin,86,3.1,FALSE,Active,2953,Desktop,55+,Afternoon
+6020,Melvin,7/25/2024,11/21/2024,11.99,136,Horror,5,2,TRUE,821,174,France,Credit Card,German,92,3.6,TRUE,Active,868,Desktop,45-54,Afternoon
+9408,Brandon,5/12/2023,11/26/2024,7.99,12,Comedy,2,3,TRUE,396,22,Australia,Cryptocurrency,Hindi,70,3.5,TRUE,Active,4808,Tablet,45-54,Late Night
+9990,Duane,1/25/2024,12/5/2024,15.99,379,Documentary,4,5,TRUE,726,103,Germany,PayPal,Mandarin,39,3.5,TRUE,Active,4177,Desktop,18-24,Late Night
+3687,Laurie,11/4/2023,12/18/2024,15.99,205,Horror,3,2,TRUE,420,24,France,Debit Card,Spanish,61,4.8,FALSE,Active,564,Desktop,45-54,Afternoon
+4540,Cody,9/7/2023,11/25/2024,15.99,335,Action,3,6,TRUE,75,177,UK,PayPal,Hindi,73,3.9,TRUE,Active,1702,Desktop,18-24,Evening
+8264,Valerie,5/25/2024,11/22/2024,15.99,449,Horror,5,6,FALSE,683,85,Germany,Debit Card,Mandarin,25,4.2,TRUE,Active,249,Laptop,25-34,Afternoon
+7448,Jennifer,4/10/2023,12/7/2024,7.99,453,Documentary,1,5,TRUE,487,128,India,Cryptocurrency,Mandarin,41,4.5,TRUE,Active,30,Smartphone,18-24,Evening
+1123,Tanya,10/25/2024,11/21/2024,7.99,252,Action,1,1,TRUE,968,197,India,Debit Card,Hindi,46,4,FALSE,Active,3842,Tablet,18-24,Afternoon
+4103,Daniel,10/30/2024,11/25/2024,11.99,379,Horror,2,1,TRUE,632,82,USA,Credit Card,Spanish,29,3.2,TRUE,Active,1299,Desktop,25-34,Afternoon
+2904,Troy,2/17/2024,12/1/2024,7.99,280,Romance,3,1,FALSE,188,103,Germany,Cryptocurrency,English,80,4.8,FALSE,Active,2346,Smart TV,55+,Morning
+5634,Emily,4/6/2024,11/24/2024,7.99,187,Horror,3,3,FALSE,987,166,Australia,PayPal,Spanish,24,4.7,FALSE,Active,215,Desktop,55+,Evening
+5360,Elizabeth,9/23/2023,12/2/2024,7.99,373,Action,2,1,TRUE,925,12,UK,PayPal,Hindi,22,4.2,TRUE,Active,3062,Laptop,35-44,Morning
+8571,Brian,5/28/2023,12/15/2024,15.99,482,Action,2,5,TRUE,838,159,Canada,Debit Card,French,39,4.8,FALSE,Active,2978,Tablet,45-54,Morning
+9439,Claire,11/15/2023,12/11/2024,11.99,360,Sci-Fi,3,4,FALSE,295,55,Canada,Credit Card,Mandarin,31,3.7,FALSE,Active,1984,Tablet,25-34,Evening
+8356,Samuel,1/16/2023,12/14/2024,15.99,463,Comedy,2,1,FALSE,844,98,UK,Cryptocurrency,English,15,3.6,TRUE,Active,945,Smartphone,55+,Afternoon
+2039,Caroline,1/2/2023,12/2/2024,15.99,13,Romance,3,5,FALSE,378,123,India,Credit Card,German,3,4.2,FALSE,Active,4134,Desktop,25-34,Late Night
+2613,Benjamin,2/7/2023,12/16/2024,7.99,129,Documentary,4,5,FALSE,439,10,UK,Credit Card,French,11,3.7,FALSE,Active,3741,Tablet,35-44,Morning
+8226,Matthew,5/2/2024,11/23/2024,7.99,290,Drama,5,5,FALSE,84,52,Canada,Debit Card,Hindi,91,3.1,TRUE,Active,1408,Desktop,45-54,Afternoon
+1425,Yolanda,9/2/2024,11/25/2024,7.99,50,Action,2,3,TRUE,502,5,India,Debit Card,Hindi,96,4.4,TRUE,Active,1917,Tablet,55+,Afternoon
+4479,Amber,11/6/2024,12/6/2024,15.99,241,Romance,3,2,TRUE,549,158,India,Debit Card,Mandarin,96,3.1,TRUE,Active,1986,Smartphone,25-34,Morning
+3393,William,1/26/2024,11/28/2024,7.99,383,Horror,3,2,TRUE,699,174,France,Credit Card,French,13,3.8,TRUE,Active,3254,Smartphone,18-24,Afternoon
+8528,Dawn,11/16/2024,11/29/2024,7.99,384,Sci-Fi,5,1,FALSE,423,110,France,Credit Card,Mandarin,61,4.7,TRUE,Active,3648,Smartphone,45-54,Morning
+9372,Matthew,2/17/2023,12/4/2024,7.99,302,Horror,1,1,TRUE,964,165,France,Cryptocurrency,English,47,4.4,FALSE,Active,3552,Smart TV,55+,Evening
+5469,Jose,2/19/2024,12/5/2024,15.99,24,Sci-Fi,2,1,FALSE,742,150,USA,Credit Card,French,57,3,FALSE,Active,150,Smart TV,18-24,Morning
+2603,Peter,5/18/2024,11/20/2024,11.99,416,Romance,3,5,FALSE,97,172,USA,Credit Card,Spanish,89,4.3,TRUE,Active,786,Smart TV,18-24,Afternoon
+5306,Sandra,9/10/2023,12/9/2024,15.99,272,Comedy,5,1,TRUE,735,74,Germany,Credit Card,English,90,3.8,TRUE,Active,1808,Tablet,25-34,Late Night
+7869,Dawn,5/23/2024,12/1/2024,15.99,294,Drama,3,6,FALSE,709,181,Germany,Cryptocurrency,Spanish,39,3.2,TRUE,Active,3091,Laptop,45-54,Evening
+1699,John,9/13/2023,12/11/2024,15.99,18,Documentary,4,2,FALSE,882,1,France,Credit Card,Spanish,100,4.7,TRUE,Active,3697,Desktop,25-34,Evening
+3214,Cynthia,7/14/2024,12/12/2024,15.99,409,Action,1,2,TRUE,131,85,Germany,Cryptocurrency,French,95,4.3,TRUE,Active,4835,Laptop,18-24,Afternoon
+1050,Mary,4/13/2024,11/29/2024,11.99,290,Romance,4,4,FALSE,305,112,USA,PayPal,Spanish,57,4.5,FALSE,Active,2023,Desktop,45-54,Morning
+3325,Tiffany,10/10/2024,11/30/2024,15.99,102,Drama,5,3,FALSE,456,52,Germany,Debit Card,French,32,4.9,TRUE,Active,1005,Tablet,25-34,Evening
+1970,Michael,9/21/2023,12/2/2024,15.99,119,Sci-Fi,2,1,TRUE,385,82,Australia,Cryptocurrency,English,87,3.3,FALSE,Active,876,Tablet,35-44,Afternoon
+6272,Caitlin,7/25/2023,12/18/2024,11.99,87,Action,3,6,TRUE,213,98,Canada,Debit Card,Mandarin,84,4.7,FALSE,Active,2089,Tablet,25-34,Afternoon
+4745,Charles,7/3/2023,11/30/2024,7.99,273,Drama,5,1,TRUE,830,178,USA,Cryptocurrency,French,37,3.7,TRUE,Active,772,Smartphone,55+,Evening
+8867,Derek,6/3/2023,11/21/2024,15.99,281,Comedy,1,2,TRUE,601,75,France,Credit Card,German,92,4.5,FALSE,Active,373,Smart TV,45-54,Morning
+4901,Rebecca,1/12/2023,12/18/2024,7.99,115,Documentary,2,3,FALSE,843,153,France,PayPal,Mandarin,6,3.3,TRUE,Active,3425,Tablet,25-34,Morning
+9575,John,2/25/2023,12/13/2024,11.99,483,Horror,2,6,FALSE,386,192,Australia,PayPal,French,95,4.6,TRUE,Active,4422,Desktop,55+,Late Night
+4471,Jordan,3/31/2024,12/11/2024,11.99,129,Drama,5,3,FALSE,291,37,India,Credit Card,Mandarin,51,3.8,FALSE,Active,4980,Tablet,25-34,Morning
+1385,Norman,10/3/2024,12/10/2024,11.99,292,Drama,4,3,FALSE,198,195,Canada,Credit Card,English,55,4.9,TRUE,Active,1367,Tablet,35-44,Late Night
+4302,Lori,2/16/2023,12/10/2024,11.99,307,Horror,3,1,FALSE,919,175,India,Debit Card,English,22,4,TRUE,Active,2728,Desktop,35-44,Late Night
+4738,Katrina,11/5/2023,12/4/2024,15.99,306,Drama,5,6,TRUE,483,5,UK,Debit Card,Hindi,56,4.7,FALSE,Active,1556,Tablet,35-44,Evening
+2441,Dawn,5/28/2023,12/14/2024,11.99,71,Sci-Fi,3,2,TRUE,645,5,Australia,PayPal,Mandarin,66,3.9,FALSE,Active,4566,Tablet,25-34,Late Night
+6546,Shannon,12/26/2023,12/8/2024,15.99,253,Sci-Fi,1,2,TRUE,653,53,USA,PayPal,Hindi,43,4.1,TRUE,Active,2969,Laptop,35-44,Evening
+5459,Eric,4/13/2024,12/13/2024,15.99,68,Horror,5,2,FALSE,727,5,Germany,Cryptocurrency,French,8,4.6,FALSE,Active,3421,Smart TV,45-54,Late Night
+7051,Amber,5/14/2023,12/16/2024,7.99,366,Drama,1,1,TRUE,257,46,Germany,Debit Card,French,7,4.5,TRUE,Active,2535,Tablet,25-34,Evening
+6671,Robert,2/21/2024,12/11/2024,15.99,166,Romance,4,1,FALSE,208,39,Germany,PayPal,Spanish,53,5,TRUE,Active,290,Smartphone,35-44,Evening
+6013,Destiny,8/23/2024,12/3/2024,15.99,136,Comedy,2,4,TRUE,471,91,Canada,Debit Card,Mandarin,70,4.4,FALSE,Active,756,Tablet,25-34,Afternoon
+9996,Pamela,7/21/2024,12/9/2024,7.99,358,Comedy,3,2,TRUE,512,153,UK,Credit Card,Hindi,70,3.3,TRUE,Active,947,Smart TV,18-24,Late Night
+4851,Nicole,3/10/2023,12/16/2024,15.99,399,Drama,1,2,FALSE,355,181,USA,Credit Card,Hindi,79,3.4,TRUE,Active,2138,Desktop,45-54,Late Night
+2498,Timothy,10/12/2023,12/7/2024,11.99,285,Romance,1,5,FALSE,634,168,USA,Cryptocurrency,German,76,3.3,TRUE,Active,3151,Desktop,45-54,Afternoon
+6208,Alexandra,7/19/2023,12/17/2024,7.99,424,Horror,2,3,FALSE,942,127,Germany,PayPal,English,95,4.8,TRUE,Active,670,Smart TV,45-54,Afternoon
+7171,Patricia,1/30/2024,11/26/2024,11.99,467,Action,1,3,TRUE,350,134,Germany,Debit Card,English,1,3.9,FALSE,Active,3037,Smartphone,25-34,Afternoon
+7667,Katrina,1/5/2023,12/17/2024,15.99,443,Romance,1,3,FALSE,326,59,Germany,PayPal,Hindi,57,3.9,FALSE,Active,3712,Desktop,35-44,Late Night
+4912,Andrea,10/4/2023,12/1/2024,15.99,214,Sci-Fi,1,3,FALSE,61,148,UK,Cryptocurrency,German,95,4.1,TRUE,Active,2029,Smartphone,45-54,Late Night
+7975,Suzanne,10/3/2023,11/22/2024,15.99,437,Horror,2,2,TRUE,328,170,France,Debit Card,English,25,3.6,FALSE,Active,2406,Smart TV,25-34,Late Night
+6804,Benjamin,2/11/2023,12/10/2024,15.99,419,Drama,2,1,FALSE,591,166,Australia,PayPal,German,26,3.5,TRUE,Active,3264,Desktop,55+,Late Night
+3877,Shannon,7/15/2024,11/24/2024,11.99,129,Action,2,5,FALSE,527,153,Australia,PayPal,German,0,4.6,FALSE,Active,1135,Tablet,25-34,Late Night
+8768,Stephen,11/9/2024,12/1/2024,15.99,75,Sci-Fi,5,1,TRUE,115,122,Australia,Debit Card,Hindi,86,3.5,FALSE,Active,3761,Tablet,25-34,Evening
+1420,Courtney,10/3/2024,12/5/2024,7.99,346,Documentary,5,5,TRUE,732,144,France,PayPal,French,73,4.9,FALSE,Active,3633,Tablet,55+,Late Night
+2306,Daniel,5/11/2023,12/1/2024,11.99,480,Horror,4,6,TRUE,509,12,Canada,Credit Card,English,43,3.1,FALSE,Active,3308,Smartphone,25-34,Evening
+2079,Janet,6/25/2024,12/2/2024,11.99,188,Horror,2,2,TRUE,655,16,USA,PayPal,English,50,3.3,TRUE,Active,1311,Laptop,35-44,Late Night
+3554,Phyllis,2/28/2024,12/4/2024,7.99,420,Drama,4,1,FALSE,399,45,USA,Debit Card,French,52,4,FALSE,Active,4333,Desktop,25-34,Morning
+7616,Amanda,6/10/2023,12/11/2024,15.99,204,Horror,3,5,FALSE,597,118,Germany,Debit Card,English,60,3.1,TRUE,Active,4575,Smartphone,35-44,Evening
+5650,Timothy,8/24/2023,12/8/2024,15.99,355,Horror,1,1,TRUE,358,173,Canada,Cryptocurrency,Hindi,60,4.8,FALSE,Active,2448,Desktop,18-24,Afternoon
+9385,Lynn,8/20/2024,12/3/2024,7.99,200,Drama,3,2,FALSE,453,172,Canada,PayPal,English,1,4.4,TRUE,Active,1072,Tablet,55+,Morning
+2482,Courtney,3/26/2023,11/29/2024,7.99,178,Action,2,2,TRUE,378,117,India,Credit Card,Hindi,63,4.8,TRUE,Active,1784,Desktop,45-54,Evening
+9017,Reginald,7/14/2024,12/11/2024,11.99,337,Documentary,2,2,TRUE,750,146,India,Credit Card,English,100,4.1,TRUE,Active,3787,Desktop,35-44,Late Night
+7001,Lori,8/8/2023,11/30/2024,11.99,24,Drama,4,4,FALSE,30,20,UK,Cryptocurrency,Hindi,98,3.9,FALSE,Active,4477,Laptop,18-24,Afternoon
+2942,Jaclyn,2/9/2023,11/30/2024,11.99,167,Sci-Fi,5,5,FALSE,127,138,UK,Credit Card,Mandarin,66,4.7,TRUE,Active,711,Smart TV,35-44,Evening
+8833,Cheryl,6/7/2024,12/11/2024,7.99,289,Drama,5,2,FALSE,216,162,France,PayPal,Hindi,99,3.7,TRUE,Active,3711,Smart TV,55+,Late Night
+8079,Jennifer,7/7/2023,12/13/2024,7.99,450,Action,1,2,TRUE,12,133,Canada,Debit Card,Hindi,100,3.4,FALSE,Active,2534,Tablet,35-44,Afternoon
+3797,Jennifer,6/4/2024,12/17/2024,11.99,165,Sci-Fi,5,5,FALSE,421,3,USA,Cryptocurrency,English,96,4.5,TRUE,Active,2624,Desktop,55+,Evening
+7268,Deborah,5/8/2023,12/17/2024,15.99,391,Action,2,2,FALSE,988,82,USA,PayPal,German,73,3,TRUE,Active,3617,Smart TV,18-24,Morning
+9803,Tina,7/14/2024,11/23/2024,11.99,318,Drama,2,1,FALSE,376,44,USA,Cryptocurrency,Mandarin,42,3.9,FALSE,Active,3078,Tablet,25-34,Morning
+2165,Allison,6/22/2024,11/29/2024,15.99,157,Documentary,2,2,FALSE,542,80,Australia,PayPal,English,53,4.2,FALSE,Active,164,Smart TV,35-44,Evening
+1528,Sara,1/10/2023,11/19/2024,11.99,25,Drama,3,5,TRUE,232,196,UK,Debit Card,Spanish,48,3.2,FALSE,Active,2805,Smart TV,18-24,Morning
+5978,Joel,4/12/2023,12/9/2024,11.99,112,Drama,3,4,TRUE,505,118,UK,PayPal,English,81,3.9,FALSE,Active,3848,Desktop,25-34,Afternoon
+5967,Diana,5/12/2023,12/14/2024,11.99,479,Action,2,5,FALSE,394,35,Australia,Cryptocurrency,Mandarin,93,3.7,FALSE,Active,836,Desktop,25-34,Late Night
+4254,James,7/31/2023,12/18/2024,11.99,233,Romance,1,2,TRUE,769,132,India,PayPal,Hindi,82,4.3,TRUE,Active,2761,Laptop,18-24,Morning
+2186,Jeffrey,11/27/2024,12/18/2024,7.99,44,Drama,4,4,FALSE,89,90,India,Debit Card,French,48,5,TRUE,Active,4633,Tablet,35-44,Late Night
+7644,Christian,12/8/2024,12/15/2024,15.99,456,Action,2,3,TRUE,240,83,Canada,Credit Card,Hindi,76,4,FALSE,Active,4260,Smart TV,18-24,Late Night
+5897,Hunter,9/12/2023,12/6/2024,7.99,486,Drama,3,2,FALSE,181,15,Germany,Credit Card,German,0,4.2,FALSE,Active,447,Tablet,18-24,Morning
+7465,Shane,11/11/2024,12/1/2024,11.99,308,Action,4,3,TRUE,284,81,Australia,Credit Card,Spanish,92,3.7,TRUE,Active,1298,Tablet,18-24,Afternoon
+3724,Brittany,6/28/2024,12/2/2024,7.99,161,Romance,3,5,FALSE,698,77,Canada,PayPal,Spanish,32,3.7,FALSE,Active,3445,Laptop,45-54,Afternoon
+2914,Erica,7/7/2023,12/14/2024,15.99,316,Comedy,3,1,FALSE,734,21,Canada,Credit Card,Hindi,65,4.6,FALSE,Active,3039,Smart TV,55+,Late Night
+4110,Justin,1/27/2024,11/26/2024,11.99,133,Drama,5,4,FALSE,951,86,UK,PayPal,German,88,4.4,FALSE,Active,3815,Smart TV,45-54,Evening
+6944,Sarah,5/28/2024,11/30/2024,15.99,270,Comedy,3,6,FALSE,271,5,UK,Credit Card,Spanish,41,3.5,FALSE,Active,1135,Laptop,18-24,Late Night
+3639,Lindsay,7/21/2023,11/22/2024,11.99,85,Horror,3,1,TRUE,851,48,USA,Cryptocurrency,French,45,4.6,FALSE,Active,2706,Tablet,35-44,Evening
+8416,Rachel,4/28/2023,11/29/2024,11.99,65,Drama,2,3,TRUE,302,6,UK,PayPal,Hindi,81,3.5,TRUE,Active,3828,Tablet,18-24,Evening
+7753,David,12/9/2024,12/13/2024,7.99,393,Drama,3,3,FALSE,829,117,USA,Credit Card,Hindi,65,4.9,TRUE,Active,4409,Smart TV,35-44,Afternoon
+9528,Breanna,2/16/2023,12/12/2024,11.99,181,Action,5,5,FALSE,860,148,USA,Debit Card,Mandarin,3,4.3,TRUE,Active,433,Tablet,18-24,Afternoon
+2960,James,12/3/2023,12/9/2024,11.99,416,Sci-Fi,5,4,TRUE,964,187,USA,Cryptocurrency,French,6,3.2,FALSE,Active,2554,Smart TV,35-44,Late Night
+1090,Hector,5/17/2024,11/29/2024,15.99,243,Sci-Fi,3,2,FALSE,40,52,Canada,Cryptocurrency,English,4,4,TRUE,Active,1348,Desktop,25-34,Morning
+2410,Jennifer,12/11/2024,12/8/2024,11.99,381,Romance,2,3,TRUE,568,62,Germany,Debit Card,Mandarin,50,4.8,FALSE,Active,1375,Laptop,25-34,Late Night
+1575,James,10/4/2023,12/11/2024,11.99,71,Comedy,5,4,TRUE,666,100,Australia,Credit Card,Mandarin,97,3.1,FALSE,Active,3630,Desktop,45-54,Late Night
+9259,Dale,8/14/2024,12/7/2024,11.99,219,Horror,4,1,TRUE,318,37,France,Cryptocurrency,Spanish,69,3.9,TRUE,Active,1457,Laptop,45-54,Late Night
+2170,Lisa,11/7/2023,12/15/2024,15.99,335,Action,2,4,FALSE,609,181,Canada,PayPal,Hindi,81,4.7,TRUE,Active,3332,Laptop,18-24,Late Night
+2237,Anthony,6/8/2023,12/18/2024,7.99,435,Comedy,2,1,FALSE,163,69,India,PayPal,German,24,4.8,TRUE,Active,3815,Laptop,35-44,Afternoon
+2697,Christine,5/10/2024,12/9/2024,15.99,423,Drama,4,3,FALSE,648,46,USA,Debit Card,Spanish,0,4.5,FALSE,Active,3859,Smartphone,55+,Late Night
+4488,Stephen,5/28/2023,12/5/2024,7.99,304,Romance,1,3,FALSE,975,10,Canada,PayPal,English,48,3.2,FALSE,Active,3923,Smart TV,25-34,Late Night
+5291,Marvin,2/24/2024,12/17/2024,11.99,455,Drama,3,6,TRUE,15,36,Germany,Debit Card,English,37,4.2,FALSE,Active,4486,Tablet,18-24,Afternoon
+6287,Jasmine,4/29/2023,11/30/2024,11.99,449,Documentary,1,2,TRUE,268,11,Canada,Debit Card,English,62,5,FALSE,Active,993,Desktop,25-34,Evening
+1953,Shannon,11/9/2023,11/23/2024,15.99,39,Drama,3,1,TRUE,791,3,Germany,Credit Card,Spanish,33,3.1,TRUE,Active,631,Smart TV,25-34,Morning
+3457,Kenneth,10/25/2024,11/19/2024,15.99,139,Comedy,2,1,FALSE,257,173,Australia,Debit Card,English,16,3.7,TRUE,Active,214,Smart TV,25-34,Late Night
+6504,Michelle,11/19/2023,12/18/2024,7.99,345,Sci-Fi,1,4,FALSE,767,66,Canada,Debit Card,Mandarin,70,3.8,FALSE,Active,2327,Desktop,18-24,Late Night
+7463,Ethan,9/15/2023,12/6/2024,11.99,500,Documentary,3,5,TRUE,362,38,France,Debit Card,Hindi,100,4,FALSE,Active,3679,Smart TV,55+,Evening
+3898,Charles,3/7/2024,11/28/2024,11.99,365,Comedy,5,5,TRUE,779,113,UK,PayPal,German,65,4.2,FALSE,Active,2238,Smartphone,55+,Afternoon
+8481,Stephanie,10/16/2024,12/8/2024,7.99,479,Romance,4,5,FALSE,159,136,Canada,Cryptocurrency,German,7,4.2,TRUE,Active,3655,Smart TV,18-24,Evening
+7810,Robert,9/24/2023,12/7/2024,7.99,63,Horror,4,2,TRUE,104,72,France,Cryptocurrency,Mandarin,17,4.9,TRUE,Active,1587,Laptop,18-24,Afternoon
+6534,Larry,4/5/2023,12/11/2024,11.99,104,Documentary,2,6,FALSE,570,29,UK,PayPal,German,56,3.9,TRUE,Active,4501,Desktop,35-44,Late Night
+6025,Andrew,12/15/2023,11/25/2024,15.99,380,Horror,5,5,TRUE,112,149,Australia,Cryptocurrency,Mandarin,74,3.4,TRUE,Active,1910,Tablet,45-54,Morning
+5825,Michele,2/12/2024,12/13/2024,7.99,500,Drama,5,4,TRUE,568,151,Germany,Cryptocurrency,French,11,3.6,FALSE,Active,2731,Smartphone,45-54,Late Night
+1185,Victor,1/30/2023,12/15/2024,15.99,247,Romance,2,2,FALSE,943,42,UK,PayPal,Spanish,85,3.5,TRUE,Active,4517,Smartphone,35-44,Evening
+4392,Craig,2/19/2023,12/5/2024,11.99,486,Sci-Fi,2,6,FALSE,887,128,USA,Credit Card,German,59,4.4,FALSE,Active,1238,Laptop,35-44,Morning
+5785,William,3/10/2024,11/19/2024,7.99,220,Action,2,1,FALSE,998,187,India,Debit Card,English,17,4.4,FALSE,Active,1786,Smart TV,55+,Morning
+4718,Stephanie,9/21/2023,11/25/2024,15.99,21,Drama,5,1,TRUE,484,112,India,Credit Card,Hindi,88,3.5,TRUE,Active,1683,Tablet,55+,Morning
+3992,John,8/25/2024,11/25/2024,11.99,417,Action,2,5,TRUE,458,145,Germany,Debit Card,Spanish,91,3.3,TRUE,Active,996,Laptop,25-34,Evening
+6100,Desiree,6/24/2024,11/20/2024,11.99,191,Comedy,1,4,FALSE,925,124,Germany,Cryptocurrency,Hindi,37,4.1,FALSE,Active,608,Smartphone,18-24,Evening
+8495,Edward,1/9/2024,11/26/2024,7.99,460,Comedy,5,2,FALSE,559,136,France,Credit Card,German,58,3.6,FALSE,Active,4650,Desktop,55+,Morning
+3083,Jason,9/5/2023,12/13/2024,7.99,413,Documentary,5,5,TRUE,895,3,USA,Credit Card,German,87,3.2,TRUE,Active,1340,Laptop,35-44,Late Night
+9936,Elizabeth,5/11/2023,12/17/2024,7.99,484,Action,1,6,TRUE,570,18,Germany,Credit Card,Hindi,5,4.6,TRUE,Active,1821,Smartphone,25-34,Morning
+2418,Nicole,9/4/2024,11/19/2024,15.99,227,Romance,1,4,TRUE,187,48,USA,Credit Card,French,6,3.4,TRUE,Active,3020,Laptop,45-54,Evening
+4089,Amy,12/8/2024,12/17/2024,11.99,313,Sci-Fi,5,6,TRUE,900,135,Canada,Debit Card,French,87,4.8,FALSE,Active,1243,Smartphone,55+,Afternoon
+8876,Leslie,4/17/2023,11/23/2024,11.99,491,Horror,2,3,TRUE,194,187,India,PayPal,French,44,4.4,TRUE,Active,540,Smartphone,25-34,Afternoon
+3959,Alicia,12/26/2023,12/16/2024,15.99,50,Sci-Fi,4,2,TRUE,155,115,USA,Debit Card,German,92,4.3,FALSE,Active,2583,Desktop,45-54,Afternoon
+2011,Donald,5/14/2023,12/4/2024,7.99,73,Romance,2,1,TRUE,184,172,India,Cryptocurrency,English,41,4.8,FALSE,Active,3463,Smartphone,35-44,Morning
+7896,Michael,6/19/2024,11/29/2024,11.99,139,Sci-Fi,4,5,TRUE,539,152,Canada,Debit Card,German,48,3.8,TRUE,Active,4130,Desktop,35-44,Afternoon
+5495,Grant,1/17/2024,11/29/2024,11.99,327,Documentary,2,6,TRUE,182,14,USA,Debit Card,French,90,3.4,FALSE,Active,3918,Laptop,18-24,Late Night
+6219,Michelle,7/22/2024,12/16/2024,11.99,206,Drama,4,1,FALSE,981,60,UK,PayPal,English,41,4.4,TRUE,Active,4264,Desktop,25-34,Late Night
+4458,Sydney,10/26/2023,11/20/2024,15.99,23,Sci-Fi,3,3,TRUE,489,7,India,Debit Card,Mandarin,54,4.5,TRUE,Active,1485,Tablet,18-24,Evening
+4115,Shawna,11/24/2024,11/24/2024,15.99,158,Comedy,1,5,TRUE,603,72,India,Credit Card,Hindi,88,3.3,FALSE,Active,3508,Smart TV,55+,Afternoon
+6586,Allison,1/26/2023,12/15/2024,15.99,459,Comedy,2,1,FALSE,445,153,France,PayPal,Hindi,13,4.2,FALSE,Active,3433,Desktop,45-54,Evening
+3985,Andrew,6/12/2024,12/12/2024,15.99,30,Documentary,4,6,FALSE,233,10,Germany,Cryptocurrency,Spanish,71,4.6,FALSE,Active,3610,Smartphone,45-54,Late Night
+8501,Mark,4/8/2024,11/19/2024,11.99,42,Documentary,5,2,TRUE,464,171,USA,Cryptocurrency,English,88,4.6,TRUE,Active,3307,Smart TV,18-24,Morning
+4048,Nicole,6/2/2024,12/17/2024,11.99,242,Horror,3,1,FALSE,273,96,Germany,Credit Card,French,34,4.9,TRUE,Active,868,Smart TV,18-24,Morning
+4466,Matthew,10/6/2024,11/27/2024,11.99,25,Drama,5,2,FALSE,162,147,Germany,Debit Card,English,82,4.3,FALSE,Active,4358,Smart TV,25-34,Late Night
+5479,David,3/4/2023,12/8/2024,7.99,140,Romance,4,4,FALSE,218,5,India,PayPal,French,86,3.6,FALSE,Active,4552,Desktop,55+,Late Night
+2480,Shane,8/26/2023,12/17/2024,15.99,192,Comedy,5,3,FALSE,39,18,UK,Cryptocurrency,German,75,3.3,TRUE,Active,3003,Desktop,18-24,Morning
+6288,Kathryn,4/2/2024,12/11/2024,15.99,267,Romance,1,2,FALSE,107,140,Australia,PayPal,French,7,4.8,FALSE,Active,783,Smart TV,25-34,Evening
+9973,John,4/14/2023,12/15/2024,11.99,410,Romance,4,4,FALSE,513,52,Canada,Debit Card,French,19,4.7,FALSE,Active,3578,Smart TV,25-34,Late Night
+6078,Kara,9/23/2024,12/15/2024,7.99,281,Comedy,4,5,FALSE,905,128,Germany,Cryptocurrency,German,70,4.3,FALSE,Active,1952,Laptop,18-24,Evening
+5362,Julie,3/7/2024,11/27/2024,15.99,478,Comedy,4,3,TRUE,551,96,UK,Cryptocurrency,Spanish,65,4.6,TRUE,Active,860,Laptop,55+,Morning
+1687,Joshua,4/19/2024,11/24/2024,7.99,44,Action,4,5,TRUE,190,193,France,PayPal,Hindi,13,3.1,FALSE,Active,3,Laptop,18-24,Late Night
+8986,Gary,12/1/2024,12/16/2024,15.99,250,Action,1,2,TRUE,69,35,Canada,Credit Card,German,13,3.3,TRUE,Active,1836,Smart TV,25-34,Evening
+5994,Chelsea,10/21/2023,12/4/2024,7.99,225,Drama,5,5,FALSE,274,83,UK,Credit Card,German,45,3.9,FALSE,Active,808,Smartphone,35-44,Afternoon
+6293,John,9/16/2024,11/21/2024,15.99,473,Sci-Fi,4,4,FALSE,605,93,Germany,Debit Card,Mandarin,13,4.8,FALSE,Active,2141,Desktop,35-44,Late Night
+7558,Sandra,11/13/2024,12/8/2024,11.99,236,Sci-Fi,1,5,TRUE,225,94,Germany,Debit Card,English,61,3.7,FALSE,Active,1254,Laptop,35-44,Evening
+1805,Jennifer,2/4/2023,11/30/2024,11.99,349,Comedy,4,4,TRUE,386,195,USA,Cryptocurrency,German,59,4.6,FALSE,Active,2864,Laptop,35-44,Late Night
+1661,Margaret,4/16/2023,12/8/2024,15.99,139,Comedy,4,5,TRUE,442,110,Canada,Credit Card,Hindi,91,4.7,TRUE,Active,4589,Smartphone,55+,Evening
+8960,Jason,1/16/2024,12/2/2024,15.99,278,Romance,3,2,TRUE,382,25,UK,PayPal,French,72,4.4,FALSE,Active,2932,Smartphone,55+,Afternoon
+6131,Nichole,7/30/2024,12/17/2024,7.99,242,Horror,5,2,TRUE,156,166,France,Cryptocurrency,Hindi,53,5,FALSE,Active,1697,Tablet,18-24,Late Night
+4114,Eric,11/30/2023,12/14/2024,11.99,251,Horror,5,6,TRUE,687,160,India,Debit Card,English,88,4.5,FALSE,Active,1411,Tablet,18-24,Evening
+4833,Nathan,4/13/2024,12/10/2024,7.99,268,Drama,4,4,TRUE,778,122,Canada,Credit Card,Hindi,12,3.8,TRUE,Active,3437,Laptop,25-34,Evening
+2401,Rachel,10/6/2024,12/2/2024,7.99,322,Comedy,4,6,FALSE,616,45,Germany,PayPal,Spanish,22,4.9,TRUE,Active,4509,Smart TV,35-44,Evening
+1037,Natalie,6/25/2023,11/30/2024,7.99,356,Documentary,3,3,TRUE,314,50,Canada,Credit Card,Mandarin,7,4.9,TRUE,Active,3165,Smart TV,25-34,Morning
+2675,Chad,2/18/2023,12/4/2024,15.99,28,Documentary,2,1,TRUE,666,65,France,PayPal,German,21,4.3,FALSE,Active,2538,Desktop,18-24,Late Night
+1665,Megan,2/28/2024,12/17/2024,11.99,43,Comedy,5,2,FALSE,767,83,Australia,Cryptocurrency,German,58,3,TRUE,Active,245,Desktop,35-44,Afternoon
+5671,Martin,5/27/2023,11/29/2024,11.99,391,Drama,3,3,TRUE,811,3,USA,PayPal,French,17,4.2,FALSE,Active,1364,Smart TV,35-44,Morning
+5153,Ryan,6/26/2024,12/18/2024,7.99,300,Sci-Fi,1,4,TRUE,413,154,Canada,PayPal,French,64,4.1,FALSE,Active,732,Desktop,55+,Evening
+1114,Angela,1/2/2023,12/15/2024,11.99,75,Horror,3,3,FALSE,324,175,USA,Debit Card,German,18,3.3,FALSE,Active,4976,Tablet,45-54,Evening
+6180,Chad,8/9/2024,12/2/2024,11.99,154,Romance,1,5,TRUE,52,108,Germany,Credit Card,German,94,4.1,FALSE,Active,4176,Tablet,18-24,Late Night
+8237,Mary,5/19/2023,12/7/2024,7.99,179,Comedy,2,6,FALSE,680,50,USA,Credit Card,English,52,3.4,FALSE,Active,2919,Smartphone,25-34,Late Night
+9500,Marissa,9/13/2023,12/10/2024,11.99,147,Documentary,1,1,TRUE,780,76,USA,Credit Card,Mandarin,21,4.4,TRUE,Active,3081,Tablet,25-34,Late Night
+7476,Patrick,6/16/2023,11/27/2024,11.99,235,Horror,3,1,TRUE,569,176,France,Debit Card,French,18,3.8,TRUE,Active,3138,Desktop,35-44,Afternoon
+9908,Kelly,1/3/2023,12/4/2024,11.99,390,Romance,3,1,FALSE,256,183,Germany,Credit Card,German,89,3.2,TRUE,Active,1180,Smart TV,45-54,Evening
+1534,Mary,7/22/2024,12/18/2024,7.99,116,Action,1,4,FALSE,799,137,USA,Credit Card,Mandarin,78,4.6,TRUE,Active,4518,Desktop,55+,Evening
+4613,Cynthia,3/3/2023,12/4/2024,15.99,492,Action,1,2,FALSE,237,55,Australia,Cryptocurrency,Mandarin,15,4.9,TRUE,Active,3843,Smartphone,35-44,Evening
+5063,Jasmine,6/4/2024,11/22/2024,7.99,159,Action,4,5,TRUE,138,3,Germany,Debit Card,Hindi,12,3.9,TRUE,Active,3604,Laptop,25-34,Morning
+4548,Sarah,6/8/2023,11/20/2024,7.99,279,Romance,4,6,FALSE,636,176,France,Cryptocurrency,French,32,3.7,TRUE,Active,4445,Smartphone,25-34,Afternoon
+7556,Adam,7/17/2024,11/26/2024,15.99,386,Action,2,6,TRUE,461,178,USA,Cryptocurrency,Hindi,79,3.7,FALSE,Active,1587,Tablet,35-44,Afternoon
+1846,Mason,6/21/2024,12/7/2024,15.99,332,Sci-Fi,1,6,FALSE,20,128,Australia,Credit Card,English,50,5,FALSE,Active,4400,Smart TV,45-54,Late Night
+7088,Amy,1/1/2024,11/21/2024,11.99,176,Documentary,5,5,TRUE,276,138,Australia,PayPal,Spanish,56,4.7,FALSE,Active,2891,Smartphone,18-24,Morning
+1179,Craig,6/7/2024,12/18/2024,11.99,221,Romance,4,1,TRUE,603,141,Germany,Cryptocurrency,Hindi,44,3.3,TRUE,Active,1363,Smartphone,35-44,Afternoon
+2190,Lindsay,12/31/2023,12/5/2024,7.99,263,Horror,4,1,TRUE,799,14,USA,Credit Card,Mandarin,32,3.3,FALSE,Active,2323,Smart TV,55+,Evening
+2847,Charles,9/23/2023,11/27/2024,15.99,222,Documentary,1,3,FALSE,785,147,France,Credit Card,Mandarin,21,4.8,TRUE,Active,4291,Smart TV,45-54,Morning
+6570,Joseph,12/8/2024,12/12/2024,11.99,39,Romance,5,3,TRUE,28,189,Canada,Credit Card,French,26,4.6,TRUE,Active,4938,Smartphone,55+,Evening
+1149,Michael,5/29/2023,11/28/2024,11.99,445,Action,3,2,TRUE,637,14,USA,Debit Card,French,50,3.2,TRUE,Active,913,Desktop,45-54,Late Night
+1336,James,4/25/2024,12/10/2024,11.99,164,Sci-Fi,3,3,TRUE,79,130,Canada,PayPal,French,47,3.9,FALSE,Active,3925,Laptop,55+,Morning
+6956,Brandon,2/21/2024,11/24/2024,15.99,101,Sci-Fi,5,1,TRUE,175,125,India,Debit Card,Mandarin,44,3.6,TRUE,Active,2517,Laptop,55+,Evening
+7015,Jaclyn,10/2/2024,12/9/2024,11.99,424,Drama,1,3,TRUE,684,127,Germany,Cryptocurrency,Mandarin,97,4.6,FALSE,Active,2070,Laptop,25-34,Late Night
+4104,Alvin,7/22/2023,11/20/2024,15.99,182,Sci-Fi,4,5,FALSE,247,197,USA,Cryptocurrency,French,90,4.7,FALSE,Active,4726,Laptop,35-44,Evening
+9413,Megan,8/27/2023,12/3/2024,15.99,115,Sci-Fi,2,3,TRUE,741,68,USA,Cryptocurrency,Hindi,30,5,TRUE,Active,1536,Smartphone,35-44,Morning
+8300,Carolyn,4/24/2024,12/13/2024,15.99,33,Documentary,1,4,FALSE,623,53,Canada,Credit Card,English,17,3.5,FALSE,Active,2113,Desktop,55+,Afternoon
+5126,Christopher,5/6/2024,12/3/2024,7.99,259,Drama,1,1,TRUE,327,76,UK,PayPal,French,9,4.3,TRUE,Active,428,Tablet,25-34,Afternoon
+1754,Patricia,6/13/2024,11/20/2024,15.99,309,Romance,5,6,FALSE,760,72,France,Credit Card,French,91,4.8,TRUE,Active,2336,Smart TV,45-54,Afternoon
+7089,Richard,3/3/2023,12/11/2024,7.99,367,Romance,1,3,FALSE,522,10,USA,PayPal,Mandarin,70,3.8,FALSE,Active,2344,Desktop,25-34,Morning
+1697,Tiffany,9/21/2023,11/27/2024,7.99,472,Action,5,2,TRUE,76,157,USA,Debit Card,French,6,3.1,TRUE,Active,1351,Laptop,55+,Afternoon
+4768,Thomas,12/4/2023,11/23/2024,15.99,449,Documentary,5,4,FALSE,61,61,Germany,Debit Card,French,88,3.7,TRUE,Active,165,Tablet,45-54,Afternoon
+4205,Daniel,12/14/2023,12/6/2024,15.99,302,Comedy,4,4,TRUE,800,101,USA,Cryptocurrency,English,89,4.3,FALSE,Active,3411,Desktop,55+,Evening
+8844,Ashley,9/24/2024,12/18/2024,7.99,70,Sci-Fi,3,6,TRUE,226,104,USA,Debit Card,German,59,3.3,TRUE,Active,615,Laptop,45-54,Late Night
+1103,Lindsey,5/8/2023,12/2/2024,7.99,157,Sci-Fi,2,1,FALSE,792,141,Canada,Credit Card,Spanish,18,4.2,FALSE,Active,1538,Smartphone,55+,Afternoon
+2180,Yvonne,4/16/2023,11/24/2024,7.99,17,Horror,5,5,FALSE,498,67,UK,PayPal,Mandarin,67,3,TRUE,Active,1835,Smart TV,35-44,Late Night
+6607,Gene,1/13/2023,12/2/2024,15.99,173,Drama,1,3,TRUE,950,163,France,Debit Card,French,96,4.9,TRUE,Active,3515,Smart TV,35-44,Late Night
+7949,Phyllis,1/11/2023,11/21/2024,11.99,301,Comedy,5,4,FALSE,906,141,Australia,Credit Card,Hindi,56,4.5,TRUE,Active,1657,Desktop,35-44,Afternoon
+5337,Travis,8/16/2024,11/28/2024,7.99,357,Horror,2,4,TRUE,245,116,France,Cryptocurrency,Mandarin,71,4.2,TRUE,Active,2209,Smartphone,18-24,Late Night
+8477,Aaron,7/18/2023,12/2/2024,7.99,48,Drama,4,2,FALSE,33,7,USA,PayPal,German,13,4.8,TRUE,Active,1327,Smart TV,45-54,Morning
+7673,Nina,8/18/2023,11/22/2024,7.99,351,Action,4,2,FALSE,70,41,Germany,Cryptocurrency,Spanish,78,3.7,FALSE,Active,4337,Smartphone,55+,Evening
+6113,Stacy,11/6/2023,12/14/2024,11.99,491,Comedy,3,4,TRUE,779,86,UK,Cryptocurrency,Hindi,85,4.7,TRUE,Active,398,Laptop,55+,Evening
+7457,Madison,4/12/2023,11/29/2024,11.99,164,Sci-Fi,2,1,TRUE,536,150,UK,Debit Card,Mandarin,7,3.2,TRUE,Active,1508,Smartphone,45-54,Morning
+6639,Victoria,12/18/2023,12/18/2024,7.99,304,Action,1,6,TRUE,902,20,Germany,PayPal,Mandarin,62,3.9,TRUE,Active,249,Desktop,35-44,Evening
+5220,Justin,8/13/2023,12/8/2024,7.99,166,Horror,2,3,TRUE,493,168,USA,PayPal,English,55,3.4,TRUE,Active,954,Laptop,18-24,Evening
+6970,Tammy,12/17/2024,12/5/2024,7.99,225,Romance,3,3,TRUE,589,103,Canada,Credit Card,Hindi,93,3.2,TRUE,Active,3313,Smart TV,35-44,Morning
+6705,Joshua,9/28/2024,12/9/2024,7.99,163,Romance,2,6,TRUE,206,132,Germany,Debit Card,Hindi,63,3.5,TRUE,Active,1790,Desktop,35-44,Evening
+2477,Sara,3/13/2023,11/26/2024,15.99,419,Sci-Fi,2,6,TRUE,752,21,USA,Debit Card,Hindi,94,3.9,FALSE,Active,2864,Desktop,35-44,Afternoon
+6236,Benjamin,2/26/2023,11/22/2024,11.99,293,Action,2,3,FALSE,514,68,India,Credit Card,Mandarin,4,4.7,FALSE,Active,1872,Tablet,25-34,Late Night
+4079,Kristen,1/16/2023,12/15/2024,7.99,171,Horror,3,6,TRUE,858,58,Germany,Debit Card,German,21,4.5,TRUE,Active,2521,Smartphone,45-54,Afternoon
+7927,Erika,1/11/2023,11/20/2024,7.99,438,Documentary,4,3,FALSE,970,59,Germany,Credit Card,Spanish,78,4.6,TRUE,Active,4426,Tablet,55+,Late Night
+5059,Robert,9/3/2024,11/27/2024,11.99,247,Comedy,4,4,FALSE,510,87,Australia,Debit Card,Mandarin,99,3.5,FALSE,Active,3100,Smart TV,45-54,Afternoon
+4210,Paul,11/29/2023,11/26/2024,11.99,85,Horror,1,2,FALSE,770,132,UK,Debit Card,Spanish,99,4.4,FALSE,Active,4273,Tablet,35-44,Morning
+5054,Robert,1/11/2023,11/30/2024,11.99,203,Documentary,5,2,FALSE,903,19,Canada,Credit Card,Hindi,76,4.6,FALSE,Active,1254,Laptop,45-54,Morning
+5836,Bianca,8/8/2024,11/21/2024,15.99,219,Sci-Fi,1,5,TRUE,347,55,France,Cryptocurrency,Mandarin,64,4.6,TRUE,Active,4817,Smart TV,35-44,Evening
+8612,Joseph,2/22/2024,12/18/2024,7.99,285,Comedy,5,5,FALSE,600,109,Germany,Cryptocurrency,Mandarin,76,4,FALSE,Active,2330,Smartphone,25-34,Morning
+7445,Lauren,11/19/2023,11/23/2024,15.99,115,Horror,2,6,TRUE,583,127,USA,Credit Card,English,0,3.6,FALSE,Active,244,Desktop,35-44,Late Night
+6135,Carol,10/10/2024,11/21/2024,7.99,322,Drama,1,5,TRUE,446,114,Australia,Credit Card,English,84,4.5,TRUE,Active,1539,Tablet,25-34,Late Night
+3168,Alicia,4/7/2024,11/21/2024,7.99,348,Action,2,2,TRUE,797,81,Australia,PayPal,Spanish,12,5,TRUE,Active,2657,Smart TV,45-54,Morning
+2981,Laura,5/7/2024,12/3/2024,11.99,482,Sci-Fi,5,2,TRUE,665,96,France,Debit Card,Spanish,24,4.7,TRUE,Active,4851,Smartphone,18-24,Afternoon
+7739,Ryan,3/12/2023,12/11/2024,7.99,384,Sci-Fi,4,3,TRUE,188,140,France,Cryptocurrency,French,78,3.9,FALSE,Active,2341,Smartphone,25-34,Afternoon
+5905,Brian,3/6/2024,12/9/2024,15.99,178,Comedy,5,5,FALSE,489,6,India,PayPal,Spanish,72,4.5,FALSE,Active,3356,Tablet,55+,Late Night
+1443,Sandra,6/21/2023,12/17/2024,11.99,91,Drama,1,2,FALSE,377,14,USA,Credit Card,German,53,4.6,FALSE,Active,228,Tablet,55+,Late Night
+6181,Krista,12/1/2024,12/5/2024,11.99,175,Horror,4,3,TRUE,424,125,UK,Credit Card,French,13,4.7,TRUE,Active,2821,Smart TV,35-44,Evening
+8406,Jeremiah,11/19/2023,12/14/2024,11.99,187,Action,5,5,TRUE,491,197,UK,PayPal,French,54,3.3,TRUE,Active,4380,Smartphone,35-44,Late Night
+5389,Leon,5/27/2024,11/29/2024,11.99,352,Drama,4,1,FALSE,521,128,Germany,Cryptocurrency,English,59,4.6,TRUE,Active,2131,Desktop,45-54,Afternoon
+4586,Tracey,10/22/2023,12/1/2024,7.99,448,Action,3,4,TRUE,506,193,Germany,Debit Card,Spanish,79,4.3,FALSE,Active,3589,Smart TV,25-34,Late Night
+4020,Edward,3/20/2024,12/2/2024,15.99,81,Sci-Fi,1,6,FALSE,390,43,UK,Debit Card,Mandarin,33,4,FALSE,Active,4162,Desktop,45-54,Afternoon
+1635,Larry,12/22/2023,12/5/2024,15.99,321,Sci-Fi,1,5,TRUE,276,182,Australia,Cryptocurrency,Mandarin,52,4.9,TRUE,Active,1013,Smart TV,35-44,Afternoon
+9257,Jonathan,6/5/2024,11/29/2024,7.99,114,Horror,1,1,TRUE,896,9,Australia,Debit Card,Mandarin,60,3.2,FALSE,Active,2731,Desktop,18-24,Morning
+6380,Jennifer,4/4/2023,12/14/2024,7.99,493,Drama,5,2,TRUE,29,82,India,Cryptocurrency,Hindi,64,3.4,FALSE,Active,833,Smartphone,18-24,Evening
+6385,Travis,7/19/2023,11/28/2024,11.99,475,Documentary,1,5,FALSE,523,30,Germany,Cryptocurrency,German,2,4.8,FALSE,Active,2428,Smartphone,18-24,Late Night
+6858,Michelle,12/23/2023,12/12/2024,11.99,287,Documentary,1,2,FALSE,918,82,India,Debit Card,German,81,3.2,FALSE,Active,4555,Smart TV,55+,Afternoon
+8875,Larry,3/28/2023,12/17/2024,15.99,138,Action,5,2,FALSE,40,166,UK,Cryptocurrency,French,83,4.2,FALSE,Active,4777,Tablet,25-34,Morning
+3334,Kenneth,4/7/2024,12/5/2024,15.99,198,Action,3,1,TRUE,614,69,France,PayPal,Spanish,27,3.6,TRUE,Active,459,Smartphone,25-34,Late Night
+5850,Joshua,8/7/2023,12/11/2024,15.99,164,Action,2,1,FALSE,833,89,France,Cryptocurrency,Spanish,32,4.9,FALSE,Active,2644,Smart TV,18-24,Evening
+8593,James,7/23/2024,12/10/2024,15.99,65,Horror,4,3,FALSE,238,39,France,Cryptocurrency,German,23,4.7,FALSE,Active,2678,Smart TV,45-54,Evening
+6278,Richard,6/18/2023,11/25/2024,7.99,388,Drama,1,6,TRUE,861,59,USA,Debit Card,Hindi,42,4.4,FALSE,Active,1129,Laptop,45-54,Morning
+1388,Michael,1/19/2024,12/10/2024,15.99,412,Romance,3,3,TRUE,999,127,USA,Cryptocurrency,Hindi,4,4,FALSE,Active,1258,Desktop,18-24,Late Night
+2521,Jessica,4/30/2024,11/27/2024,15.99,267,Action,4,4,FALSE,118,6,USA,Cryptocurrency,English,57,5,FALSE,Active,3213,Smartphone,55+,Evening
+1269,Helen,1/9/2023,11/29/2024,15.99,29,Action,3,2,FALSE,404,177,USA,Cryptocurrency,Spanish,81,4.4,FALSE,Active,4127,Tablet,18-24,Evening
+9959,Dustin,9/11/2024,12/10/2024,15.99,454,Action,5,6,TRUE,938,75,Germany,Debit Card,German,51,3.1,FALSE,Active,1961,Smart TV,25-34,Afternoon
+7549,Jeremiah,5/30/2024,11/28/2024,15.99,119,Romance,1,5,TRUE,112,181,France,Credit Card,German,47,3.2,TRUE,Active,1708,Desktop,18-24,Afternoon
+4747,John,2/10/2024,12/9/2024,11.99,311,Action,5,1,TRUE,430,188,UK,Credit Card,French,78,4.4,TRUE,Active,2288,Smart TV,55+,Morning
+8320,Heather,1/2/2024,12/9/2024,15.99,122,Comedy,2,2,FALSE,626,69,USA,PayPal,Mandarin,17,4.2,TRUE,Active,4570,Laptop,35-44,Morning
+1333,Mark,4/16/2024,11/19/2024,15.99,300,Sci-Fi,5,4,TRUE,819,143,Canada,Credit Card,German,23,5,FALSE,Active,2547,Desktop,45-54,Evening
+5254,Thomas,9/11/2024,11/30/2024,15.99,59,Romance,4,3,FALSE,718,3,Canada,Debit Card,German,43,4.2,TRUE,Active,4655,Desktop,18-24,Late Night
+6842,Cody,6/22/2023,12/8/2024,15.99,34,Drama,1,4,TRUE,109,174,Canada,Debit Card,Hindi,74,4.4,TRUE,Active,1656,Tablet,55+,Late Night
+9333,Jonathon,12/17/2023,12/17/2024,11.99,23,Comedy,2,1,FALSE,544,25,India,Cryptocurrency,German,47,3.6,FALSE,Active,2761,Laptop,25-34,Evening
+9122,Kyle,8/3/2024,12/11/2024,15.99,168,Action,3,2,TRUE,25,171,France,PayPal,Hindi,79,4,FALSE,Active,773,Desktop,25-34,Evening
+6221,Jessica,11/16/2024,11/25/2024,11.99,306,Action,5,1,TRUE,513,70,USA,Credit Card,Spanish,86,3.7,FALSE,Active,1652,Desktop,18-24,Late Night
+9957,Richard,11/8/2023,12/13/2024,15.99,433,Documentary,2,6,TRUE,1000,48,France,Debit Card,Spanish,92,3.7,FALSE,Active,1037,Tablet,55+,Late Night
+4680,Alexandria,12/16/2024,12/11/2024,11.99,221,Romance,5,5,TRUE,749,66,USA,Cryptocurrency,German,37,3.3,TRUE,Active,4505,Smart TV,35-44,Afternoon
+5974,Spencer,10/20/2024,11/23/2024,15.99,236,Documentary,3,5,TRUE,600,199,UK,Cryptocurrency,German,56,3.7,FALSE,Active,3648,Tablet,18-24,Evening
+6938,Diana,5/5/2024,12/12/2024,11.99,75,Action,4,6,FALSE,897,59,Germany,Credit Card,Hindi,11,3.4,FALSE,Active,4015,Desktop,18-24,Afternoon
+1175,Todd,3/12/2024,11/21/2024,15.99,325,Comedy,3,6,TRUE,412,117,Germany,Credit Card,Hindi,48,4,TRUE,Active,2050,Tablet,25-34,Afternoon
+1260,Harold,3/12/2024,12/3/2024,7.99,217,Documentary,5,2,FALSE,669,155,Germany,Debit Card,Mandarin,40,4.8,TRUE,Active,2390,Tablet,35-44,Late Night
+4645,Stephanie,5/30/2023,12/14/2024,7.99,178,Action,4,5,TRUE,323,130,Germany,Cryptocurrency,French,29,3,TRUE,Active,3079,Desktop,35-44,Afternoon
+1637,Kimberly,4/5/2024,11/19/2024,15.99,74,Sci-Fi,4,3,TRUE,646,38,UK,Cryptocurrency,Hindi,37,4.1,FALSE,Active,4111,Tablet,45-54,Late Night
+7960,Pamela,1/9/2023,11/22/2024,15.99,373,Comedy,1,3,FALSE,507,130,Canada,Credit Card,English,41,3.3,TRUE,Active,3221,Smartphone,18-24,Morning
+9693,Gregg,3/28/2024,11/30/2024,15.99,64,Comedy,5,1,FALSE,881,15,UK,PayPal,Mandarin,22,3.6,FALSE,Active,2461,Tablet,18-24,Afternoon
+8743,Katherine,1/30/2024,11/25/2024,11.99,129,Action,3,5,TRUE,594,127,India,PayPal,German,79,3.9,FALSE,Active,2858,Smartphone,45-54,Morning
+3379,Grant,9/8/2023,12/12/2024,15.99,297,Sci-Fi,3,1,TRUE,667,75,India,PayPal,German,89,4.5,FALSE,Active,4076,Tablet,55+,Afternoon
+7696,John,11/7/2023,11/30/2024,15.99,235,Action,2,5,FALSE,709,151,UK,Debit Card,German,72,3.7,FALSE,Active,2163,Laptop,45-54,Afternoon
+8552,Amber,11/22/2023,11/27/2024,15.99,390,Action,2,4,FALSE,537,101,UK,Debit Card,Spanish,64,3,TRUE,Active,3726,Desktop,55+,Morning
+5065,Daniel,2/24/2023,11/30/2024,11.99,362,Romance,2,6,TRUE,490,22,UK,Cryptocurrency,German,62,4.7,TRUE,Active,47,Desktop,55+,Afternoon
+6878,Mary,4/26/2024,11/27/2024,7.99,136,Sci-Fi,5,5,TRUE,20,18,Canada,Debit Card,Hindi,7,4.4,TRUE,Active,4742,Tablet,35-44,Late Night
+5681,Ryan,5/8/2024,12/8/2024,11.99,159,Romance,4,6,TRUE,824,31,India,Cryptocurrency,English,13,3.3,FALSE,Active,2910,Desktop,18-24,Morning
+4448,David,3/23/2024,12/16/2024,11.99,99,Sci-Fi,4,2,FALSE,319,187,Australia,Credit Card,English,58,3.6,FALSE,Active,1180,Tablet,35-44,Morning
+5795,John,11/25/2023,12/13/2024,11.99,157,Action,4,2,FALSE,754,23,Germany,Debit Card,Spanish,43,4.4,FALSE,Active,1965,Laptop,25-34,Morning
+5320,Katherine,9/28/2023,12/9/2024,11.99,123,Documentary,1,6,FALSE,718,25,USA,PayPal,German,73,4.4,FALSE,Active,3179,Smart TV,25-34,Morning
